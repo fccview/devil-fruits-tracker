@@ -1,6 +1,49 @@
 'use server'
 
+// Server-side cache object
+let serverCache = {
+  chapter: {},
+  episode: {}
+};
+
 export async function fetchDevilFruits(number, type) {
+  // Add more detailed logging
+  console.log('Cache status:', {
+    cacheExists: !!serverCache[type][number],
+    requestedType: type,
+    requestedNumber: number,
+    currentCache: serverCache
+  });
+
+  // Check exact cache match first
+  if (serverCache[type][number]) {
+    console.log('Cache hit for', type, number);
+    return serverCache[type][number];
+  }
+
+  // Find nearest higher cached number
+  const cachedNumbers = Object.keys(serverCache[type])
+    .map(Number)
+    .sort((a, b) => a - b);
+  const nearestHigherNumber = cachedNumbers.find(n => n >= number);
+
+  // If we find a higher cached number, we can use its data
+  // since it contains all fruits up to that point
+  if (nearestHigherNumber) {
+    // Filter the cached data to only include fruits up to the requested number
+    const filteredFruits = serverCache[type][nearestHigherNumber].filter(df => {
+      const match = df.usageDebut.match(/Chapter (\d+)/);
+      if (!match) return false;
+      const fruitChapter = parseInt(match[1], 10);
+      return fruitChapter <= number;
+    });
+    
+    // Cache the filtered results
+    serverCache[type][number] = filteredFruits;
+    return filteredFruits;
+  }
+
+  // If we get here, we need to make an API call
   let page = 1;
   let fruits = [];
   let hasNext = true;
@@ -74,9 +117,23 @@ export async function fetchDevilFruits(number, type) {
   }
 
   // Sort fruits by debut chapter before returning
-  return fruits.sort((a, b) => {
+  const sortedFruits = fruits.sort((a, b) => {
     const chapterA = parseInt(a.usageDebut.replace('Chapter ', ''), 10);
     const chapterB = parseInt(b.usageDebut.replace('Chapter ', ''), 10);
     return chapterA - chapterB;
   });
+
+  // Store in server cache
+  serverCache[type][number] = sortedFruits;
+  console.log('Updated cache with new data for', type, number);
+
+  return sortedFruits;
+}
+
+// Optional: Add a function to clear cache if needed
+export async function clearCache() {
+  serverCache = {
+    chapter: {},
+    episode: {}
+  };
 }
