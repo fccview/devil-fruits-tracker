@@ -24,3 +24,70 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+/* Add custom font for the title (you'll need to add the actual font file) */
+@font-face {
+  font-family: 'OnePiece';
+  src: url('/fonts/one-piece.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.font-pirate {
+  font-family: 'OnePiece', ui-sans-serif, system-ui, -apple-system;
+}
+
+/* Custom animations */
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+.animate-float {
+  animation: float 3s ease-in-out infinite;
+}
+
+/* Enhance scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(2, 6, 23, 0.8);
+}
+
+::-webkit-scrollbar-thumb {
+  background: #EAB308;
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #CA8A04;
+}
+
+@keyframes textFadeOut {
+  0% {
+    width: auto;
+    margin-right: 0.5rem;
+    opacity: 1;
+  }
+  25% {
+    width: 0;
+    margin-right: -7px;
+    opacity: 0;
+  }
+  50% {
+    width: 0;
+    margin-right: -7px;
+    opacity: 0;
+  }
+  100% {
+    width: 0;
+    margin-right: -7px;
+    opacity: 0;
+  }
+}
