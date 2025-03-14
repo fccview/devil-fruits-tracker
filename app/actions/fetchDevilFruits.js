@@ -45,17 +45,25 @@ export async function fetchDevilFruits(number, type) {
         throw new Error('Unexpected API response structure');
       }
 
+      console.log('Fetched fruits:', data.data.devilFruits.results);
+
       const fetchedFruits = data.data.devilFruits.results.filter(df => {
         if (!df.usageDebut) return false;
-        const debutNumber = parseInt(df.usageDebut.replace('Chapter ', ''), 10);
-        if (isNaN(debutNumber)) return false;
-
+        
+        // Extract chapter and episode numbers
+        const chapterMatch = df.usageDebut.match(/Chapter (\d+)/);
+        const episodeMatch = df.usageDebut.match(/Episode (\d+)/);
+        
+        if (!chapterMatch) return false;
+        const chapterNumber = parseInt(chapterMatch[1], 10);
+        
         if (type === 'chapter') {
-          return debutNumber <= number;
+          return chapterNumber <= number;
         } else {
-          // Rough conversion from chapter to episode (approximate)
-          const estimatedEpisode = Math.floor(debutNumber * 0.8); // Rough conversion rate
-          return estimatedEpisode <= number;
+          // Use actual episode number if available, otherwise skip
+          if (!episodeMatch) return false;
+          const episodeNumber = parseInt(episodeMatch[1], 10);
+          return episodeNumber <= number;
         }
       });
 
