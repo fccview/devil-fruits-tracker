@@ -37,15 +37,11 @@ export async function fetchDevilFruits(number, type) {
       }
 
       const data = await response.json();
-      
-      console.log('API Response:', data);
 
       if (!data.data?.devilFruits?.results) {
         console.error('Invalid API response:', data);
         throw new Error('Unexpected API response structure');
       }
-
-      console.log('Fetched fruits:', data.data.devilFruits.results);
 
       const fetchedFruits = data.data.devilFruits.results.filter(df => {
         if (!df.usageDebut) return false;
