@@ -62,6 +62,8 @@ export async function fetchDevilFruits(number, type) {
             avatarSrc
             description
             currentOwner
+            previousOwner
+            japaneseName
           }
         }
       }

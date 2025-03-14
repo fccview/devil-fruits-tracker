@@ -1,28 +1,10 @@
 'use client'
 import { useState } from 'react'
 import CharacterModal from './CharacterModal'
+import { filterSpoilers } from '../utils/spoilerFilter'
 
 export default function DevilFruitCard({ fruit, number, type }) {
     const [isModalOpen, setIsModalOpen] = useState(false)
-
-    const filterSpoilers = (number, text) => {
-        const threshold = type === 'chapter' ? 1044 : 1071; 
-        if (number > threshold) {
-            return text;
-        }
-
-        let finalText = text.replace('Gomu Gomu no Mi Hito Hito no Mi Moderu Nika', 'Gomu Gomu no Mi');
-        finalText = finalText.replace(`The Gomu Gomu no Mi is a Paramecia-type Devil Fruit that grants the user's body the properties of rubber, effectively making them a Rubber Human (ゴム人間, Gomu Ningen?). Originally, the fruit was called Hito Hito no Mi, Model: Nika and classified as a Mythical Zoan-type fruit that allows one to transform into the legendary "Sun God" Nika (and gain his rubbery attributes), before being renamed and reclassified by the World Government to hide the truth. In the present, only Imu, the Five Elders, and Vegapunk are aware of the fruit's true nature, and its existence was never known to be recorded anywhere.`, `The Gomu Gomu no Mi is a Paramecia-type Devil Fruit that grants the user's body the properties of rubber, effectively making them a Rubber Human (ゴム人間, Gomu Ningen?).`);
-        finalText = finalText.replace(`Paramecia Mythical Zoan`, `Paramecia`);
-
-        return finalText;
-    }
-
-    const formatDebut = (usageDebut) => {
-        const chapter = parseInt(usageDebut.replace('Chapter ', ''), 10);
-        const estimatedEpisode = Math.floor(chapter * 0.8);
-        return `Chapter ${chapter}; Episode ${estimatedEpisode}`;
-    }
 
     return (
       <>
@@ -42,12 +24,20 @@ export default function DevilFruitCard({ fruit, number, type }) {
             </div>
             <div className="p-6">
               <h3 className="text-2xl font-bold bg-gradient-to-r from-red-500 to-yellow-400 
-                           bg-clip-text text-transparent mb-4">
-                {filterSpoilers(number, fruit.englishName)}
+                           bg-clip-text text-transparent">
+                {filterSpoilers(fruit.englishName, number, fruit.englishName, type)}
               </h3>
+              <div className="flex flex-col space-y-0.5 mb-4">
+                <span className="text-sm text-gray-500">
+                  {filterSpoilers(fruit.englishName, number, fruit.japaneseName, type)}
+                </span>
+                <span className="text-xs text-gray-600 italic">
+                  {filterSpoilers(fruit.englishName, number, fruit.romanizedName, type)}
+                </span>
+              </div>
               <div className="space-y-3">
                 <p className="text-gray-300">
-                  <span className="text-red-400 font-medium">Type:</span> {filterSpoilers(number, fruit.type)}
+                  <span className="text-red-400 font-medium">Type:</span> {filterSpoilers(fruit.englishName, number, fruit.type, type)}
                 </p>
                 <div className="text-gray-300">
                   <span className="text-red-400 font-medium">Owner:</span>
@@ -55,15 +45,18 @@ export default function DevilFruitCard({ fruit, number, type }) {
                     onClick={() => setIsModalOpen(true)}
                     className="ml-2 text-yellow-400 underline cursor-pointer transition-colors"
                   >
-                    {fruit.currentOwner}
+                    {filterSpoilers(fruit.englishName, number, 
+                      { currentOwner: fruit.currentOwner, previousOwner: fruit.previousOwner }, 
+                      type, 
+                      'owner')}
                   </button>
                   <span className="text-xs ml-2">(Potential Spoilers)</span>
                 </div>
                 <p className="text-gray-400 text-sm leading-relaxed">
-                  {filterSpoilers(number, fruit.description)}
+                  {filterSpoilers(fruit.englishName, number, fruit.description, type)}
                 </p>
                 <p className="mt-4 text-sm border-t border-white/10 pt-4 text-gray-500">
-                  <span className="text-red-400">Debut:</span> {formatDebut(fruit.usageDebut)}
+                  <span className="text-red-400">Debut:</span> {fruit.usageDebut}
                 </p>
               </div>
             </div>
@@ -73,7 +66,10 @@ export default function DevilFruitCard({ fruit, number, type }) {
         <CharacterModal 
           isOpen={isModalOpen}
           onClose={() => setIsModalOpen(false)}
-          characterName={fruit.currentOwner}
+          characterName={filterSpoilers(fruit.englishName, number, 
+            { currentOwner: fruit.currentOwner, previousOwner: fruit.previousOwner }, 
+            type, 
+            'owner')}
           devilFruitImage={fruit.avatarSrc}
         />
       </>

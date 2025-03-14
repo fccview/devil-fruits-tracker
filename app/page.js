@@ -161,6 +161,12 @@ export default function Home() {
             isLoading={isLoading}
           />
 
+          {/* {console.log(filteredFruits.map(fruit => ({
+            englishName: fruit.englishName,
+            currentOwner: fruit.currentOwner,
+            previousOwner: fruit.previousOwner
+          })))} */}
+
           {/* Results */}
           <div className="container mx-auto lg:px-4">
             {isLoading ? (
