@@ -1,5 +1,11 @@
 'use server'
 import clientPromise from '@/app/lib/mongodb';
+import { DevilFruit, ServerCache, ViewType } from '@/app/types';
+
+// Declare global augmentation for serverCache
+declare global {
+    var serverCache: ServerCache
+}
 
 // Server-side cache object
 if (!global.serverCache) {
@@ -9,22 +15,23 @@ if (!global.serverCache) {
     };
 }
 
-const LATEST_CHAPTER = process.env.LATEST_CHAPTER ? parseInt(process.env.LATEST_CHAPTER, 10) : 1000;
+const LATEST_CHAPTER = process.env.LATEST_CHAPTER ? Number(process.env.LATEST_CHAPTER) : 1000;
 
-export async function fetchDevilFruits(number, type) {
-    // Limit the number to LATEST_CHAPTER
+export async function fetchDevilFruits(number: number, type: ViewType): Promise<DevilFruit[]> {
     const limitedNumber = Math.min(number, type === 'chapter' ? LATEST_CHAPTER : Infinity);
 
-    console.log('Cache status:', {
-        cacheExists: !!global.serverCache[type][limitedNumber],
-        requestedType: type,
-        requestedNumber: limitedNumber,
-        currentCache: global.serverCache
-    });
+    /**
+     *  @todo: enable this in case you need to debug the cache.
+     *  console.log('Cache status:', {
+     *      cacheExists: !!global.serverCache[type][limitedNumber],
+     *      requestedType: type,
+     *      requestedNumber: limitedNumber,
+     *      currentCache: global.serverCache
+     *  });
+     */
 
     // Check exact cache match first
     if (global.serverCache[type][limitedNumber]) {
-        console.log('Cache hit for', type, limitedNumber);
         return global.serverCache[type][limitedNumber];
     }
 
@@ -67,8 +74,7 @@ export async function fetchDevilFruits(number, type) {
             }
         }).toArray();
 
-        // Convert and filter fruits
-        fruits = fruits
+        let fruitsArray: DevilFruit[] = fruits
             .map(fruit => ({
                 avatarSrc: fruit.avatarSrc,
                 currentOwner: fruit.currentOwner,
@@ -90,7 +96,7 @@ export async function fetchDevilFruits(number, type) {
 
         // Check if we need to fetch new data from API
         if (type === 'chapter' && limitedNumber > LATEST_CHAPTER) {
-            const requestedChapterExists = fruits.some(f => {
+            const requestedChapterExists = fruitsArray.some(f => {
                 const match = f.usageDebut.match(/Chapter (\d+)/);
                 const chapterNum = match ? parseInt(match[1], 10) : 0;
                 return chapterNum === limitedNumber;
@@ -100,13 +106,12 @@ export async function fetchDevilFruits(number, type) {
                 const newFruits = await fetchFromAPI(limitedNumber);
                 if (newFruits.length > 0) {
                     await collection.insertMany(newFruits, { ordered: false });
-                    fruits = [...fruits, ...newFruits];
+                    fruitsArray = [...fruitsArray, ...newFruits];
                 }
             }
         }
 
-        // Sort fruits by debut chapter
-        const sortedFruits = fruits.sort((a, b) => {
+        const sortedFruits: DevilFruit[] = fruitsArray.sort((a, b) => {
             const getChapterNumber = (fruit) => {
                 if (!fruit?.usageDebut) return Infinity;
                 const match = fruit.usageDebut.match(/Chapter (\d+)/);
@@ -118,7 +123,6 @@ export async function fetchDevilFruits(number, type) {
 
         // Store in server cache
         global.serverCache[type][limitedNumber] = sortedFruits;
-        console.log('Updated cache with new data for', type, limitedNumber);
 
         return sortedFruits;
 
@@ -128,43 +132,66 @@ export async function fetchDevilFruits(number, type) {
     }
 }
 
-async function fetchFromAPI(number) {
-    // Original API fetching logic
-    const query = `
-    query {
-      devilFruits(page: 1) {
-        info {
-          next
+async function fetchFromAPI(number: number) {
+    let page = 1;
+    let fruits = [];
+    let hasNext = true;
+
+    while (hasNext) {
+        const query = `
+            query {
+                devilFruits(page: ${page}) {
+                    info {
+                        next
+                    }
+                    results {
+                        englishName
+                        type
+                        usageDebut
+                        avatarSrc
+                        description
+                        currentOwner
+                        previousOwner
+                        japaneseName
+                    }
+                }
+            }
+        `; ``
+
+        const response = await fetch('https://onepieceql.up.railway.app/graphql', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ query }),
+            cache: 'no-store'
+        });
+
+        if (!response.ok) {
+            throw new Error(`API request failed: ${response.status}`);
         }
-        results {
-          englishName
-          type
-          usageDebut
-          avatarSrc
-          description
-          currentOwner
-          previousOwner
-          japaneseName
+
+        const data = await response.json();
+
+        if (!data.data?.devilFruits?.results) {
+            console.error('Invalid API response:', data);
+            throw new Error('Unexpected API response structure');
         }
-      }
+
+        const fetchedFruits = data.data.devilFruits.results.filter(df => {
+            if (!df.usageDebut) return false;
+            const chapterMatch = df.usageDebut.match(/Chapter (\d+)/);
+            if (!chapterMatch) return false;
+            const chapterNumber = parseInt(chapterMatch[1], 10);
+            return chapterNumber <= number;
+        });
+
+        fruits = fruits.concat(fetchedFruits);
+        hasNext = !!data.data.devilFruits.info.next;
+        page = data.data.devilFruits.info.next || page + 1;
     }
-  `;
 
-    const response = await fetch('https://onepieceql.up.railway.app/graphql', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ query }),
-        cache: 'no-store'
-    });
-
-    if (!response.ok) {
-        throw new Error(`API request failed: ${response.status}`);
-    }
-
-    const data = await response.json();
-    return data.data.devilFruits.results;
+    return fruits;
 }
 
-export const returnLatestChapter = async () => {
+export const returnLatestChapter = async (): Promise<string | undefined> => {
     return process.env.LATEST_CHAPTER;
 }

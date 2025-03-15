@@ -5,16 +5,21 @@ import LoadingSpinner from './components/LoadingSpinner'
 import SearchFilters from './components/SearchFilters/SearchFilters'
 import BuyMeACoffee from './components/BuyMeACoffee'
 import { fetchDevilFruits } from './actions/databaseActions/fetchFruit'
+import { DevilFruit, ViewType } from './types'
+import { getSpoilerSafeValue } from './utils/globalFunctions'
 
 export default function Home() {
-  const [number, setNumber] = useState('')
-  const [type, setType] = useState('chapter')
-  const [fruits, setFruits] = useState([])
-  const [isLoading, setIsLoading] = useState(false)
-  const [searchTerm, setSearchTerm] = useState('')
+  const [number, setNumber] = useState<string>('')
+  const [type, setType] = useState<ViewType>('chapter')
+  const [fruits, setFruits] = useState<DevilFruit[]>([])
+  const [isLoading, setIsLoading] = useState<boolean>(false)
+  const [searchTerm, setSearchTerm] = useState<string>('')
   // Cache structure: { chapter: { number: fruits[] }, episode: { number: fruits[] } }
-  const [cache, setCache] = useState({ chapter: {}, episode: {} })
-  const [selectedFruitTypes, setSelectedFruitTypes] = useState([])
+  const [cache, setCache] = useState<{
+    chapter: { [key: string]: DevilFruit[] },
+    episode: { [key: string]: DevilFruit[] }
+  }>({ chapter: {}, episode: {} })
+  const [selectedFruitTypes, setSelectedFruitTypes] = useState<string[]>([])
 
   const handleFetch = useCallback(async (value) => {
     if (!value) {
@@ -101,23 +106,21 @@ export default function Home() {
   }, [number, handleFetch])
 
   const filterFruits = useCallback((fruits) => {
-    const SPOILER_THRESHOLD = type === 'chapter' ? 1044 : 1071;
-    const showSpoilers = number > SPOILER_THRESHOLD;
-
     return fruits.filter(fruit => {
-      // Text search
-      const searchString = `${fruit.englishName} ${fruit.type} ${fruit.usageDebut} ${fruit.currentOwner}`.toLowerCase()
+      // Text search with spoiler-safe values
+      const searchString = `${getSpoilerSafeValue(fruit, 'englishName', number, type)
+        } ${getSpoilerSafeValue(fruit, 'type', number, type)
+        } ${getSpoilerSafeValue(fruit, 'usageDebut', number, type)
+        } ${getSpoilerSafeValue(fruit, 'currentOwner', number, type)
+        }`.toLowerCase()
+
       const searchMatch = searchTerm.toLowerCase().split(' ').every(term =>
         searchString.includes(term)
       )
       if (!searchMatch) return false
 
-      // Type filter
       if (selectedFruitTypes.length > 0) {
-        let fruitType = fruit.type
-        if (!showSpoilers && fruit.englishName === "Gomu Gomu no Mi Hito Hito no Mi Moderu Nika") {
-          fruitType = "Paramecia"
-        }
+        let fruitType = getSpoilerSafeValue(fruit, 'type', number, type)
         if (!selectedFruitTypes.some(type => fruitType.includes(type))) {
           return false
         }

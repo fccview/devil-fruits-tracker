@@ -1,13 +1,28 @@
 import { returnLatestChapter } from "@/app/actions/databaseActions/fetchFruit";
+import { ViewType } from "@/app/types";
 import { useEffect, useState } from "react";
 
-export default function NumberInput({ type, number, setNumber, setSearchTerm, isLoading }) {
-  const [LATEST_CHAPTER, setLATEST_CHAPTER] = useState(0);
+interface NumberInputProps {
+  type: ViewType;
+  number: string;
+  setNumber: (value: string) => void;
+  setSearchTerm: (value: string) => void;
+  isLoading: boolean;
+}
+
+export default function NumberInput({
+  type,
+  number,
+  setNumber,
+  setSearchTerm,
+  isLoading
+}: NumberInputProps) {
+  const [LATEST_CHAPTER, setLATEST_CHAPTER] = useState<number>(0);
 
   useEffect(() => {
     const fetchLatestChapter = async () => {
       const latestChapter = await returnLatestChapter();
-      setLATEST_CHAPTER(latestChapter);
+      setLATEST_CHAPTER(Number(latestChapter));
     };
 
     fetchLatestChapter();
@@ -18,7 +33,7 @@ export default function NumberInput({ type, number, setNumber, setSearchTerm, is
     if (type === 'chapter' && value > LATEST_CHAPTER) {
       value = LATEST_CHAPTER;
     }
-    setNumber(value);
+    setNumber(value.toString());
     setSearchTerm(''); // Reset search when changing number
   };
 

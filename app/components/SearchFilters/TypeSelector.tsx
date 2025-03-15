@@ -1,4 +1,16 @@
-export default function TypeSelector({ type, setType, number }) {
+import { ViewType } from '@/app/types'
+
+interface TypeSelectorProps {
+  type: ViewType;
+  setType: (type: ViewType) => void;
+  number: string;
+}
+
+export default function TypeSelector({
+  type,
+  setType,
+  number
+}: TypeSelectorProps) {
   return (
     <div className="flex justify-center gap-4 mb-4">
       {['chapter', 'episode'].map((option) => (
@@ -9,7 +21,7 @@ export default function TypeSelector({ type, setType, number }) {
               ? 'bg-gradient-to-r from-red-500 to-red-600 text-white shadow-lg shadow-red-500/30'
               : 'bg-white/5 text-gray-300 hover:bg-white/10'
             }`}
-          onClick={() => setType(option)}
+          onClick={() => setType(option as ViewType)}
         >
           {option === 'chapter' ? 'Manga Chapters' : 'Anime Episodes'}
         </button>

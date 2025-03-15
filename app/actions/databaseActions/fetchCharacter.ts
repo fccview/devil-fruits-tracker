@@ -1,7 +1,7 @@
 'use server'
 import clientPromise from '@/app/lib/mongodb';
 
-export async function fetchCharacter(name) {
+export async function fetchCharacter(name: string) {
     if (!name) return null;
 
     try {
@@ -38,7 +38,7 @@ export async function fetchCharacter(name) {
     }
 }
 
-async function fetchCharacterFromAPI(name) {
+async function fetchCharacterFromAPI(name: string) {
     const query = `
     query {
       characters(filter: { name: "${name}" }) {
@@ -75,7 +75,7 @@ async function fetchCharacterFromAPI(name) {
         const data = await response.json();
         return data.data.characters.results[0] || null;
     } catch (error) {
-        console.error('Error fetching character from API:', error);
+        console.error('Error fetching character:', error);
         return null;
     }
 } 

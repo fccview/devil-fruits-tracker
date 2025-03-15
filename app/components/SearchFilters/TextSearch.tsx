@@ -1,4 +1,6 @@
-export default function TextSearch({ searchTerm, setSearchTerm }) {
+import { TextSearchProps } from '@/app/types'
+
+export default function TextSearch({ searchTerm, setSearchTerm }: TextSearchProps) {
   return (
     <input
       type="text"

@@ -1,11 +1,24 @@
 'use client'
 import { useEffect, useState } from 'react'
 import { fetchCharacter } from '../actions/databaseActions/fetchCharacter'
+import { Character } from '../types'
 
-export default function CharacterModal({ isOpen, onClose, characterName, devilFruitImage }) {
-  const [character, setCharacter] = useState(null)
-  const [loading, setLoading] = useState(true)
-  const [showAllBounties, setShowAllBounties] = useState(false)
+interface CharacterModalProps {
+  isOpen: boolean
+  onClose: () => void
+  characterName: string
+  devilFruitImage: string
+}
+
+export default function CharacterModal({
+  isOpen,
+  onClose,
+  characterName,
+  devilFruitImage
+}: CharacterModalProps) {
+  const [character, setCharacter] = useState<Character | null>(null)
+  const [loading, setLoading] = useState<boolean>(true)
+  const [showAllBounties, setShowAllBounties] = useState<boolean>(false)
 
   useEffect(() => {
     if (isOpen && characterName) {
@@ -16,7 +29,7 @@ export default function CharacterModal({ isOpen, onClose, characterName, devilFr
     }
   }, [isOpen, characterName])
 
-  const handleBackdropClick = (e) => {
+  const handleBackdropClick = (e: React.MouseEvent<HTMLDivElement>) => {
     if (e.target === e.currentTarget) {
       onClose();
     }
@@ -119,7 +132,7 @@ export default function CharacterModal({ isOpen, onClose, characterName, devilFr
                         src={devilFruitImage}
                         alt={character.devilFruitName}
                         className="w-6 h-auto"
-                        onError={(e) => e.target.style.display = 'none'}
+                        onError={(e) => (e.target as HTMLImageElement).style.display = 'none'}
                       />
                     )}
                     <span>{character.devilFruitName || 'None'}</span>
