@@ -1,6 +1,7 @@
 import { returnLatestChapter } from "@/app/actions/databaseActions/fetchFruit";
 import { ViewType } from "@/app/types";
 import { useEffect, useState } from "react";
+import { Arc, arcs } from "@/app/data/arcs";
 
 interface NumberInputProps {
   type: ViewType;
@@ -8,6 +9,7 @@ interface NumberInputProps {
   setNumber: (value: string) => void;
   setSearchTerm: (value: string) => void;
   isLoading: boolean;
+  setSelectedArc: (arc: Arc | null) => void;
 }
 
 export default function NumberInput({
@@ -15,7 +17,8 @@ export default function NumberInput({
   number,
   setNumber,
   setSearchTerm,
-  isLoading
+  isLoading,
+  setSelectedArc
 }: NumberInputProps) {
   const [LATEST_CHAPTER, setLATEST_CHAPTER] = useState<number>(0);
 
@@ -28,6 +31,20 @@ export default function NumberInput({
     fetchLatestChapter();
   }, []);
 
+  const findMatchingArc = (value: number) => {
+    return arcs.find(arc => {
+      const arcEnd = type === 'chapter' ? arc.endChapter : arc.endEpisode;
+      const nextArc = arcs[arcs.indexOf(arc) + 1];
+      const nextArcStart = nextArc
+        ? (type === 'chapter' ? nextArc.endChapter : nextArc.endEpisode)
+        : Infinity;
+
+      return value <= arcEnd && (arc === arcs[0] || value > (type === 'chapter'
+        ? arcs[arcs.indexOf(arc) - 1].endChapter
+        : arcs[arcs.indexOf(arc) - 1].endEpisode));
+    });
+  };
+
   const handleChange = (e) => {
     let value = parseInt(e.target.value, 10);
     if (type === 'chapter' && value > LATEST_CHAPTER) {
@@ -35,6 +52,10 @@ export default function NumberInput({
     }
     setNumber(value.toString());
     setSearchTerm(''); // Reset search when changing number
+
+    // Find and set matching arc
+    const matchingArc = findMatchingArc(value);
+    setSelectedArc(matchingArc || null);
   };
 
   return (
@@ -57,5 +78,5 @@ export default function NumberInput({
         </div>
       )}
     </div>
-  )
+  );
 } 

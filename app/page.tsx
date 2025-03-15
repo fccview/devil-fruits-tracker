@@ -7,6 +7,7 @@ import BuyMeACoffee from './components/BuyMeACoffee'
 import { fetchDevilFruits } from './actions/databaseActions/fetchFruit'
 import { DevilFruit, ViewType } from './types'
 import { getSpoilerSafeValue } from './utils/globalFunctions'
+import { Arc } from './data/arcs'
 
 export default function Home() {
   const [number, setNumber] = useState<string>('')
@@ -15,6 +16,7 @@ export default function Home() {
   const [isLoading, setIsLoading] = useState<boolean>(false)
   const [searchTerm, setSearchTerm] = useState<string>('')
   const [selectedFruitTypes, setSelectedFruitTypes] = useState<string[]>([])
+  const [selectedArc, setSelectedArc] = useState<Arc | null>(null)
 
   const handleFetch = useCallback(async (value: string) => {
     if (!value) {
@@ -44,27 +46,48 @@ export default function Home() {
 
   const filterFruits = useCallback((fruits: DevilFruit[]) => {
     return fruits.filter((fruit: DevilFruit) => {
-      const searchString = `${getSpoilerSafeValue(fruit, 'englishName', number, type)
-        } ${getSpoilerSafeValue(fruit, 'type', number, type)
-        } ${getSpoilerSafeValue(fruit, 'usageDebut', number, type)
-        } ${getSpoilerSafeValue(fruit, 'currentOwner', number, type)
-        }`.toLowerCase()
-
-      const searchMatch = searchTerm.toLowerCase().split(' ').every(term =>
-        searchString.includes(term)
-      )
-      if (!searchMatch) return false
-
-      if (selectedFruitTypes.length > 0) {
-        let fruitType = getSpoilerSafeValue(fruit, 'type', number, type)
-        if (!selectedFruitTypes.some(type => fruitType.includes(type))) {
-          return false
+      // Arc filter
+      if (selectedArc) {
+        const match = fruit.usageDebut.match(/Chapter (\d+)/);
+        if (match) {
+          const fruitChapter = parseInt(match[1], 10);
+          if (fruitChapter > selectedArc.endChapter) {
+            return false;
+          }
         }
       }
 
-      return true
-    })
-  }, [searchTerm, selectedFruitTypes, type, number])
+      const searchTerms = searchTerm.toLowerCase().split(' ');
+
+      return searchTerms.every(term => {
+        const isNumber = /^\d+$/.test(term);
+
+        if (isNumber) {
+          const debutMatch = getSpoilerSafeValue(fruit, 'usageDebut', number, type)
+            .match(new RegExp(`${type.charAt(0).toUpperCase() + type.slice(1)} (\\d+)`));
+
+          return debutMatch && debutMatch[1] === term;
+        } else {
+          const searchString = `${getSpoilerSafeValue(fruit, 'englishName', number, type)} 
+            ${getSpoilerSafeValue(fruit, 'type', number, type)} 
+            ${getSpoilerSafeValue(fruit, 'usageDebut', number, type)} 
+            ${getSpoilerSafeValue(fruit, 'currentOwner', number, type)}`.toLowerCase();
+
+          return searchString.includes(term);
+        }
+      });
+
+      // Type filter
+      if (selectedFruitTypes.length > 0) {
+        let fruitType = getSpoilerSafeValue(fruit, 'type', number, type);
+        if (!selectedFruitTypes.some(type => fruitType.includes(type))) {
+          return false;
+        }
+      }
+
+      return true;
+    });
+  }, [searchTerm, selectedFruitTypes, type, number, selectedArc]);
 
   const filteredFruits = filterFruits(fruits)
 
@@ -97,6 +120,8 @@ export default function Home() {
             setSelectedFruitTypes={setSelectedFruitTypes}
             fruits={fruits}
             isLoading={isLoading}
+            selectedArc={selectedArc}
+            setSelectedArc={setSelectedArc}
           />
 
           {/* {console.log(filteredFruits.map(fruit => ({

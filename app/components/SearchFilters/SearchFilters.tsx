@@ -4,6 +4,7 @@ import NumberInput from './NumberInput'
 import TextSearch from './TextSearch'
 import FruitTypeFilters from './FruitTypeFilters'
 import { SearchFiltersProps } from '@/app/types'
+import ArcSelector from './ArcSelector'
 
 export default function SearchFilters({
   type,
@@ -15,7 +16,9 @@ export default function SearchFilters({
   selectedFruitTypes,
   setSelectedFruitTypes,
   fruits,
-  isLoading
+  isLoading,
+  selectedArc,
+  setSelectedArc
 }: SearchFiltersProps) {
   return (
     <div className="max-w-2xl mx-auto mb-16 bg-white/5 backdrop-blur-lg p-8 rounded-2xl 
@@ -27,12 +30,20 @@ export default function SearchFilters({
           number={number}
         />
 
+        <ArcSelector
+          selectedArc={selectedArc}
+          setSelectedArc={setSelectedArc}
+          type={type}
+          setNumber={setNumber}
+        />
+
         <NumberInput
           type={type}
           number={number}
           setNumber={setNumber}
           setSearchTerm={setSearchTerm}
           isLoading={isLoading}
+          setSelectedArc={setSelectedArc}
         />
 
         {fruits.length > 0 && (
