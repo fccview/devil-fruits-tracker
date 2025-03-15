@@ -37,8 +37,12 @@ A comprehensive tracker for One Piece Devil Fruits that allows you to:
 - **Responsive Design**: Works great on both desktop and mobile
 - **Arc-based Filtering**: Filter fruits based on major story arcs
 
-## 🛠 Tech Stack
+## Requirements
 
+- Node 20+
+- Yarn
+
+## 🛠 Tech Stack
 - Next.js 14 (App Router)
 - TypeScript
 - MongoDB
@@ -49,12 +53,12 @@ A comprehensive tracker for One Piece Devil Fruits that allows you to:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/riofriz/one-piece-devil-fruits.git
+git clone git@github.com:fccview/devil-fruits-tracker.git
 ```
 
 2. Install dependencies:
 ```bash
-cd one-piece-devil-fruits
+cd devil-fruits-tracker
 yarn install
 ```
 
