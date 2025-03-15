@@ -35,7 +35,6 @@ export default function Home() {
     }
   }, [type])
 
-
   useEffect(() => {
     const timeoutId = setTimeout(() => {
       handleFetch(number)
@@ -46,7 +45,6 @@ export default function Home() {
 
   const filterFruits = useCallback((fruits: DevilFruit[]) => {
     return fruits.filter((fruit: DevilFruit) => {
-      // Arc filter
       if (selectedArc) {
         const match = fruit.usageDebut.match(/Chapter (\d+)/);
         if (match) {
@@ -76,18 +74,8 @@ export default function Home() {
           return searchString.includes(term);
         }
       });
-
-      // Type filter
-      if (selectedFruitTypes.length > 0) {
-        let fruitType = getSpoilerSafeValue(fruit, 'type', number, type);
-        if (!selectedFruitTypes.some(type => fruitType.includes(type))) {
-          return false;
-        }
-      }
-
-      return true;
     });
-  }, [searchTerm, selectedFruitTypes, type, number, selectedArc]);
+  }, [searchTerm, type, number, selectedArc]);
 
   const filteredFruits = filterFruits(fruits)
 
@@ -124,13 +112,6 @@ export default function Home() {
             setSelectedArc={setSelectedArc}
           />
 
-          {/* {console.log(filteredFruits.map(fruit => ({
-            englishName: fruit.englishName,
-            currentOwner: fruit.currentOwner,
-            previousOwner: fruit.previousOwner
-          })))} */}
-
-          {/* Results */}
           <div className="container mx-auto lg:px-4">
             {isLoading ? (
               <LoadingSpinner />
