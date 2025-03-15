@@ -1,45 +1,44 @@
-'use server'
-import clientPromise from '@/app/lib/mongodb';
+"use server";
+import clientPromise from "@/app/lib/mongodb";
+import { Character } from "@/app/types";
 
-export async function fetchCharacter(name: string) {
-    if (!name) return null;
+export async function fetchCharacter(name: string): Promise<Character | null> {
+  if (!name) return null;
 
-    try {
-        const client = await clientPromise;
-        const db = client.db('devil-fruits');
-        const collection = db.collection('owners');
+  try {
+    const client = await clientPromise;
+    const db = client.db("devil-fruits");
+    const collection = db.collection("owners");
 
-        const character = await collection.findOne({
-            $or: [
-                { englishName: name },
-                { japaneseName: name }
-            ]
-        });
+    const character = await collection.findOne({
+      $or: [{ englishName: name }, { japaneseName: name }],
+    });
 
-        if (character) {
-            const plainCharacter = {
-                ...character,
-                _id: character._id.toString()
-            };
-            return plainCharacter;
-        }
-
-        const apiCharacter = await fetchCharacterFromAPI(name);
-        if (apiCharacter) {
-            await collection.insertOne(apiCharacter);
-            return apiCharacter;
-        }
-
-        return null;
-
-    } catch (error) {
-        console.error('Database operation failed:', error);
-        return null;
+    if (character) {
+      // Convert MongoDB document to plain object and serialize ObjectId
+      const { _id, ...rest } = character;
+      const serializedCharacter = {
+        ...rest,
+        id: _id.toString(), // Convert ObjectId to string
+      };
+      return serializedCharacter as Character;
     }
+
+    const apiCharacter = await fetchCharacterFromAPI(name);
+    if (apiCharacter) {
+      await collection.insertOne(apiCharacter);
+      return apiCharacter;
+    }
+
+    return null;
+  } catch (error) {
+    console.error("Database operation failed:", error);
+    return null;
+  }
 }
 
 async function fetchCharacterFromAPI(name: string) {
-    const query = `
+  const query = `
     query {
       characters(filter: { name: "${name}" }) {
         results {
@@ -60,22 +59,22 @@ async function fetchCharacterFromAPI(name: string) {
     }
   `;
 
-    try {
-        const response = await fetch('https://onepieceql.up.railway.app/graphql', {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({ query }),
-            cache: 'no-store'
-        });
+  try {
+    const response = await fetch("https://onepieceql.up.railway.app/graphql", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ query }),
+      cache: "no-store",
+    });
 
-        if (!response.ok) {
-            throw new Error(`API request failed: ${response.status}`);
-        }
-
-        const data = await response.json();
-        return data.data.characters.results[0] || null;
-    } catch (error) {
-        console.error('Error fetching character:', error);
-        return null;
+    if (!response.ok) {
+      throw new Error(`API request failed: ${response.status}`);
     }
-} 
+
+    const data = await response.json();
+    return data.data.characters.results[0] || null;
+  } catch (error) {
+    console.error("Error fetching character:", error);
+    return null;
+  }
+}

@@ -27,13 +27,25 @@
     "$oid": "67d491725cd8e84ecf3a3e61"
   },
   "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Sui_Sui_no_Mi.jpg?Expires=1742070409&Signature=cW79LiS6scokRRvgK2avO0Jslzj~NJ~yg6pk3EPykiDqc3DViJwQXGQOhmvgUwnZcipSuGTQ1w~bfWFRxTDuc6yL9XLOgkyuAg9VHsPDEMqEWg2u3C4mckQpdqIFkA6qw6xWn~V74YQ1l~pnaaqNYQINNrzwINcF30cJD3Z4qTaOarciAFYAKzgHMdOc-vv04yLqqRJDhM4~yvOpPJmdkDBB0nJX8Ab0a0KMsRbuMWmCvlJdTmy035zE0hHrcXRkA9sHXm1QEUJUTouQ6vwWKHvFSLse~2ulvjRxNHgQL8kdTANqLgpcVpaot7pjaxHVfNSdJQIede80q1UYIA0-DQ__&Key-Pair-Id=K2RCJ8R40JMUEM",
-  "currentOwner": "Senor Pink S-Shark (Artificial)",
+  "currentOwner": "Senor Pink",
+  "seraphim": "S-Shark",
   "description": "The Sui Sui no Mi is a Paramecia-type Devil Fruit that allows the user to swim in the ground or walls, making the user a Free-Swimming Human (遊泳自由人間, Yūei Jiyū Ningen?, Viz: Free Swimmer). It was eaten by Senor Pink.",
   "englishName": "Swim-Swim Fruit",
   "japaneseName": "スイスイの実",
   "previousOwner": "N/A",
   "type": "Paramecia",
-  "usageDebut": "Chapter 732; Episode 664"
+  "usageDebut": "Chapter 732; Episode 664",
+  "spoilers": [
+    {
+      "threshold": {
+        "chapter": 1065,
+        "episode": 1094
+      },
+      "previousValues": {
+        "seraphim": "Unknown"
+      }
+    }
+  ]
 },{
   "_id": {
     "$oid": "67d491725cd8e84ecf3a3e13"
@@ -371,7 +383,7 @@
   "japaneseName": "メラメラの実",
   "previousOwner": "Portgas D. Ace",
   "type": "Logia",
-  "usageDebut": "Chapter 158; Episode 94",
+  "usageDebut": "Chapter 158; Episode 94 (Ace); Chapter 744 Episode 678 (Sabo)",
   "spoilers": [
     {
       "threshold": {
@@ -380,7 +392,9 @@
       },
       "previousValues": {
         "description": "The Mera Mera no Mi is a Logia-type Devil Fruit that allows the user to create, control, and transform into fire at will.",
-        "whatOwner": "previousOwner"
+        "whatOwner": "previousOwner",
+        "usageDebut": "Chapter 158; Episode 94",
+        "previousOwner": "Unknown"
       }
     }
   ]
@@ -395,19 +409,45 @@
   "japaneseName": "グラグラの実",
   "previousOwner": "Edward Newgate",
   "type": "Paramecia",
-  "usageDebut": "Chapter 552; Episode 461 (Edward Newgate) Chapter 577; Episode 486 (Marshall D. Teach)"
+  "usageDebut": "Chapter 552; Episode 461 (Edward Newgate) Chapter 577; Episode 486 (Marshall D. Teach)",
+  "spoilers": [
+    {
+      "threshold": {
+        "chapter": 577,
+        "episode": 486
+      },
+      "previousValues": {
+        "description": "The Gura Gura no Mi is a Paramecia-type Devil Fruit which allows the user to create vibrations, or \"quakes\", making the user a Tremor Human (震動人間, Shindō Ningen?).",
+        "whatOwner": "previousOwner",
+        "usageDebut": "Chapter 552; Episode 461",
+        "previousOwner": "Unknown"
+      }
+    }
+  ]
 },{
   "_id": {
     "$oid": "67d499bb2edee9c91650d736"
   },
   "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Mane_Mane_no_Mi.jpg?Expires=1742072635&Signature=gPUSe-7gnoqbbwXxlw3-eJmtQXTOJ53bw6zffwpZPpjPDWT-PjojxM1MPjz5kwVgxGQnJAMLxnEzb6kZfQST0uz0Gw1FfpaRibhiD9349pjHgP5NqhZb6LkyTph0jxpoIFWc2BXsiQHVVZXoVDz~nWr-vGaI6fY1frQ4k7VqYB4LQhEkhffERmr-gKw7YFrnbiDUeWWiGCWKjdGcywCPx5VBVQt3n-GcYpl0C~vEiXi3N3nN0eKFYRNGrluHdmq3-80g97vTLoOZIBMqCD9eUe9PMF0tD2K3Ele0Cb9Uc5JGZkkydVbACS7Eks5HyyWmfykVoNWYazXWQmflCJDZTQ__&Key-Pair-Id=K2RCJ8R40JMUEM",
   "currentOwner": "Bentham",
-  "description": "The Mane Mane no Mi is a Paramecia-type Devil Fruit that allows the user to turn themselves into a physical double of anyone they touch, making the user an Imitating Human (マネ人間, Mane Ningen?, VIZ: \"Mimic man\"). It was eaten by former Baroque Works agent Bentham, also known by the alias Mr. 2 Bon Kurei.",
+  "description": "The Mane Mane no Mi is a Paramecia-type Devil Fruit that allows the user to turn themselves into a physical double of anyone they touch, making the user an Imitating Human (マネ人間, Mane Ningen?, VIZ: \"Mimic man\"). It was eaten by former Baroque Works agent Bentham, also known by the alias Mr. 2 Bon Kurei and was previously eaten by Kurozumi Higurashi.",
   "englishName": "Clone-Clone Fruit",
   "japaneseName": "マネマネの実",
   "previousOwner": "Kurozumi Higurashi",
   "type": "Paramecia",
-  "usageDebut": "Chapter 156; Episode 92 (Bentham) Chapter 965; Episode 965 (Kurozumi Higurashi)"
+  "usageDebut": "Chapter 156; Episode 92 (Bentham) Chapter 965; Episode 965 (Kurozumi Higurashi)",
+  "spoilers": [
+    {
+      "threshold": {
+        "chapter": 965,
+        "episode": 965
+      },
+      "previousValues": {
+        "usageDebut": "Chapter 156; Episode 92",
+        "previousOwner": "Unknown"
+      }
+    }
+  ]
 },{
   "_id": {
     "$oid": "67d491725cd8e84ecf3a3e1d"
@@ -690,12 +730,24 @@
   },
   "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Bari_Bari_no_Mi.jpg?Expires=1742070407&Signature=JDQTJOfaboJnFDIYlhJaHqpiP-VGUtXmTvEgiqvy9N8KoPScXQS7Gpw-M889CkZ9N-bp-7yfjPxg2vclXaawTMa01HHR9Zpi~hYucsedGEc-XyLRQ4a9SaQJx-3yWLIAKs4813jwHsAZsjMgN59toGTGkW4CH1YnjJz~JwuA5oEwm37zFUAqI8yuteYuVuhW~4ydNHKdnwYau2UJgkb~uEUY0CJU1i9MLqU1w1bG41xtqHJtPBrznkkn4UJ74vkw0lVj1suB2-hUcFuMfmKj6BZM3s6dB8Q5yerGU7xnSYd-KA8JXy19PqwNUcGmWmvXtY7rIK2TJc0yejtvsihvEQ__&Key-Pair-Id=K2RCJ8R40JMUEM",
   "currentOwner": "Bartolomeo",
-  "description": "The Bari Bari no Mi is a Paramecia-type Devil Fruit that allows the user to generate barriers, making them a Barrier Human (バリア人間, Baria Ningen?). It was previously eaten by Kurozumi Semimaru, and upon its reincarnation it was eaten by Bartolomeo.",
+  "description": "The Bari Bari no Mi is a Paramecia-type Devil Fruit that allows the user to generate barriers, making them a Barrier Human (バリア人間, Baria Ningen?). It was previously eaten by Kurozumi Semimaru, and upon its reincarnation it was eaten by Bartolomeo. Previous known owner: Kurozumi Higurashi",
   "englishName": "Barrier-Barrier Fruit",
   "japaneseName": "バリバリの実",
   "previousOwner": "Kurozumi Semimaru",
   "type": "Paramecia",
-  "usageDebut": "Chapter 708; Episode 637"
+  "usageDebut": "Chapter 708; Episode 637",
+  "spoilers": [
+    {
+      "threshold": {
+        "chapter": 965,
+        "episode": 972
+      },
+      "previousValues": {
+        "description": "The Bari Bari no Mi is a Paramecia-type Devil Fruit that allows the user to generate barriers, making them a Barrier Human (バリア人間, Baria Ningen?). It was previously eaten by Kurozumi Semimaru, and upon its reincarnation it was eaten by Bartolomeo.",
+        "previousOwner": "Unknown"
+      }
+    }
+  ]
 },{
   "_id": {
     "$oid": "67d491725cd8e84ecf3a3e1f"
@@ -837,7 +889,7 @@
   "description": "The Ope Ope no Mi is a Paramecia-type Devil Fruit whose ability is to create a spherical domain in which the user can freely rearrange, take apart (without harm), and generally remodel the structure/anatomy of anything and anyone (themself included) in a \"surgical\" way, making the user a Free Modification Human (改造自在人間, Kaizō Jizai Ningen?). The fruit was eaten by Trafalgar D. Water Law, having been force-fed to him by Donquixote Rosinante. Before Law, the fruit's powers were held by a certain famous doctor.",
   "englishName": "Op-Op Fruit",
   "japaneseName": "オペオペの実",
-  "previousOwner": "A certain doctor",
+  "previousOwner": "Unknown",
   "type": "Paramecia",
   "usageDebut": "Chapter 504; Episode 398"
 },{
@@ -1498,12 +1550,28 @@
   },
   "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Suke_Suke_no_Mi.jpg?Expires=1742070407&Signature=fOqrBeQA4sTAJb8wV0SSmO46KeJ7yUaVmwbvJ8~KG6lky2fQqnYQALRatntAPxgStfoplGtb2Q9zU5e~XFW2O89QLnZzpPzYGR~~5WGURIUM6pGl5W-e97~g~4~Tr-IgiF6U1Xb7pzQNc76ifTYOXs5HBpynbM2Fd6XhF-1qp3yfopY6UqK4G2b8Hxw5vq6U0ylCc4-Z35q1kcePMyAOlnGISea1CXszCNe5-zR4t4-2Vz63n3Yy4Gn85RW1KVUaG3AtExaxv1Bl65lXSTCka3Z8OVe8TYBWtJ3IfTsyKRlPacnuUJ9n9jvleN5FIjRgQjrkIFjgSepuWIcWYK2Wlw__&Key-Pair-Id=K2RCJ8R40JMUEM",
   "currentOwner": "Shiryu",
-  "description": "It was initially eaten by Absalom, and after his death it was transferred to Shiryu.",
+  "description": "The Suke Suke no Mi is a Paramecia-type Devil Fruit that gives its user the ability to turn themselves and whatever they touch (living or nonliving) invisible, making them a Clear Human (透明人間, Tōmei Ningen?, English: \"Invisible Man\").It was initially eaten by Absalom, and after his death it was transferred to Shiryu.",
   "englishName": "Clear-Clear Fruit",
   "japaneseName": "スケスケの実",
   "previousOwner": "Absalom",
   "type": "Paramecia",
-  "usageDebut": "Chapter 444; Episode 339 (Absalom) Chapter 925; Episode 917 (Shiryu)"
+  "usageDebut": "Chapter 444; Episode 339 (Absalom) Chapter 925; Episode 917 (Shiryu)",
+  "spoilers": [
+    {
+      "threshold": {
+        "chapter": 925,
+        "episode": 917
+      },
+      "previousValues": {
+        "description": "The Suke Suke no Mi is a Paramecia-type Devil Fruit that gives its user the ability to turn themselves and whatever they touch (living or nonliving) invisible, making them a Clear Human (透明人間, Tōmei Ningen?, English: \"Invisible Man\").",
+        "whatOwner": "previousOwner",
+        "avatarSrc": "https://i.ytimg.com/vi/KbguUXSVXac/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCDVuoFuTkZWLgaaOzzKMWLlRHUAQ",
+        "usageDebut": "Chapter 444; Episode 339",
+        "previousOwner": "Unknown"
+      }
+    }
+  ]
+  
 },{
   "_id": {
     "$oid": "67d491725cd8e84ecf3a3e2e"
@@ -1700,13 +1768,28 @@
     "$oid": "67d491725cd8e84ecf3a3e36"
   },
   "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Nikyu_Nikyu_no_Mi.jpg?Expires=1742070408&Signature=S-Lli9uxTFqZX6ioAeRy9G7uOVmtvrsYIK-5lgOJGE1qdcIFsjZ~PqmXnvH9tcc-Zwu3RG1hKNXeb15EMfg-tNw1FFc30Vi0eWtW~mWAnkED8bmBWlt0voUxqOqiFi7C4NiN~tb1wtbN4jfVGHY02sr-vh38kWv6IcsZzqH5Kdkus4uy58mwhhbSrhkeHpQelQn~83uifo3ec4TiLg--BLqolkOOCCjjkVUaS6X462MzDvT4hEkuiK5T31h5gghccMvS7TSkJzDGiyKOXg6PUKTeV0kpnubc8AhgV8tSJHq5aaKM4Rihxx4~1kCTk7twGG~1o1mW6wrH8X3Ww2egbQ__&Key-Pair-Id=K2RCJ8R40JMUEM",
-  "currentOwner": "Bartholomew Kuma S-Bear (Artificial)",
-  "description": "This fruit's abilities were duplicated in the Seraph S-Bear, via a transfusion of Green Blood.",
+  "currentOwner": "Bartholomew Kuma",
+  "seraphim": "S-Bear",
+  "description": "The Nikyu Nikyu no Mi is a Paramecia-type Devil Fruit that grants the ability to repel anything via paws permanently manifested on the user's palms, making the user a Paw Human (肉球人間, Nikukyū Ningen?, English version: \"Paw-Palmed Human\"). This fruit's abilities were duplicated in the Seraph S-Bear, via a transfusion of Green Blood.",
   "englishName": "Paw-Paw Fruit",
   "japaneseName": "ニキュニキュの実",
-  "previousOwner": "N/A",
+  "previousOwner": "Bartholomew Kuma",
   "type": "Paramecia",
-  "usageDebut": "Chapter 473; Episode 368"
+  "usageDebut": "Chapter 473; Episode 368",
+  "spoilers": [
+    {
+      "threshold": {
+        "chapter": 1099,
+        "episode": 1119
+      },
+      "previousValues": {
+        "whatOwner": "previousOwner",
+        "seraphim": "Unknown",
+        "japaneseName": "バーソロミュー・くま",
+        "description": "The Nikyu Nikyu no Mi is a Paramecia-type Devil Fruit that grants the ability to repel anything via paws permanently manifested on the user's palms, making the user a Paw Human (肉球人間, Nikukyū Ningen?, English version: \"Paw-Palmed Human\")."
+      }
+    }
+  ]
 },{
   "_id": {
     "$oid": "67d491725cd8e84ecf3a3e08"
@@ -1748,13 +1831,25 @@
     "$oid": "67d491725cd8e84ecf3a3e00"
   },
   "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Supa_Supa_no_Mi.jpg?Expires=1742070407&Signature=IxC0r3rAmIscqTtfQfEqvN3g9Hf1ImmM2iTdmK5OCny21mpoq4zxTpXcvKclO5FaXBD2R6BONzHg9RquA3WStqIEg6kaDfMP73j-t0ZYBTKSJ-cy6-M5LNmauYb6eINDrtJ02D43ilZohIDYHtRwf6Excs1xWs3LcbRG29-C8RN-MUT4SvTE~XExf8vlEYba6c01s4JGd42U7VNzPZe2v~F6RdOVnTZ3nrVMIzb4tlcoJ~htZWZCAOB3p~7KSwXxFUy3RP7al4PaMDs25SYLqoIQE1Vji7NEmp-1wJkRgQad4oONfiyFIVfellCSwHMzb37dlHoFY7RMAkJwMvp-sw__&Key-Pair-Id=K2RCJ8R40JMUEM",
-  "currentOwner": "Daz Bonez S-Hawk (Artificial)",
+  "currentOwner": "Daz Bonez",
+  "seraphim": "S-Hawk",
   "description": "The Supa Supa no Mi is a Paramecia-type Devil Fruit that enables the user's body to gain characteristics of a steel blade to attack opponents with, making the user a Full-Body Bladed Human (全身刃物人間, Zenshin Hamono Ningen?, VIZ: \"Human Sword\"). It was eaten by former Baroque Works agent and current Cross Guild member Daz Bonez, also known by his alias Mr. 1.",
   "englishName": "Dice-Dice Fruit",
   "japaneseName": "スパスパの実",
   "previousOwner": "N/A",
   "type": "Paramecia",
-  "usageDebut": "Chapter 160; Episode 103"
+  "usageDebut": "Chapter 160; Episode 103",
+  "spoilers": [
+    {
+      "threshold": {
+        "chapter": 1059,
+        "episode": 1087
+      },
+      "previousValues": {
+        "seraphim": "Unknown"
+      }
+    }
+  ]
 },{
   "_id": {
     "$oid": "67d491725cd8e84ecf3a3e3d"
