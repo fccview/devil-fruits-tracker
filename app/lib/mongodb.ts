@@ -14,6 +14,8 @@ declare global {
     var _mongoClientPromise: Promise<MongoClient>
 }
 
+
+
 client = new MongoClient(uri, options);
 clientPromise = client.connect();
 
