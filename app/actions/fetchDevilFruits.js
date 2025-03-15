@@ -37,7 +37,7 @@ export async function fetchDevilFruits(number, type) {
       const fruitChapter = parseInt(match[1], 10);
       return fruitChapter <= number;
     });
-    
+
     // Cache the filtered results
     serverCache[type][number] = filteredFruits;
     return filteredFruits;
@@ -90,14 +90,14 @@ export async function fetchDevilFruits(number, type) {
 
       const fetchedFruits = data.data.devilFruits.results.filter(df => {
         if (!df.usageDebut) return false;
-        
+
         // Extract chapter and episode numbers
         const chapterMatch = df.usageDebut.match(/Chapter (\d+)/);
         const episodeMatch = df.usageDebut.match(/Episode (\d+)/);
-        
+
         if (!chapterMatch) return false;
         const chapterNumber = parseInt(chapterMatch[1], 10);
-        
+
         if (type === 'chapter') {
           return chapterNumber <= number;
         } else {

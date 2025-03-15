@@ -4,7 +4,7 @@ import DevilFruitList from './components/DevilFruitList'
 import LoadingSpinner from './components/LoadingSpinner'
 import SearchFilters from './components/SearchFilters/SearchFilters'
 import BuyMeACoffee from './components/BuyMeACoffee'
-import { fetchDevilFruits } from './actions/fetchDevilFruits'
+import { fetchDevilFruits } from './actions/databaseActions/fetchFruit'
 
 export default function Home() {
   const [number, setNumber] = useState('')
@@ -29,10 +29,10 @@ export default function Home() {
 
     // Find the highest cached number that's lower than or equal to the requested number
     const nearestCachedNumber = cachedNumbers.find(n => n <= value)
-    
+
     if (nearestCachedNumber) {
       const cachedFruits = cache[type][nearestCachedNumber]
-      
+
       if (nearestCachedNumber === Number(value)) {
         // Exact cache hit
         setFruits(cachedFruits)
@@ -44,10 +44,10 @@ export default function Home() {
           const newFruits = await fetchDevilFruits(Number(value), type)
           // Merge with cached fruits, remove duplicates
           const mergedFruits = [...cachedFruits, ...newFruits]
-          const uniqueFruits = Array.from(new Map(mergedFruits.map(fruit => 
+          const uniqueFruits = Array.from(new Map(mergedFruits.map(fruit =>
             [fruit.englishName, fruit]
           )).values())
-          
+
           // Update cache and state
           setCache(prev => ({
             ...prev,
@@ -107,7 +107,7 @@ export default function Home() {
     return fruits.filter(fruit => {
       // Text search
       const searchString = `${fruit.englishName} ${fruit.type} ${fruit.usageDebut} ${fruit.currentOwner}`.toLowerCase()
-      const searchMatch = searchTerm.toLowerCase().split(' ').every(term => 
+      const searchMatch = searchTerm.toLowerCase().split(' ').every(term =>
         searchString.includes(term)
       )
       if (!searchMatch) return false
@@ -133,7 +133,7 @@ export default function Home() {
     <main className="min-h-screen bg-[#1a1a2e]">
       {/* Hero Background */}
       <div className="fixed inset-0 bg-[url('/one-piece-bg.png')] bg-cover bg-fixed bg-center opacity-20" />
-      
+
       <div className="relative">
         <div className="container mx-auto px-4 py-12">
           <div className="text-center mb-16">
@@ -143,12 +143,12 @@ export default function Home() {
               Devil Fruits
             </h1>
             <p className="text-xl text-gray-300 max-w-2xl mx-auto">
-              Devil fruit listed by chapter/episode. <br/>
+              Devil fruit listed by chapter/episode. <br />
               <span className="text-xs">Background artwork by <a href="https://zzyzzyy.deviantart.com/" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:text-blue-600">zzyzzyy</a></span>
             </p>
           </div>
 
-          <SearchFilters 
+          <SearchFilters
             type={type}
             setType={setType}
             number={number}

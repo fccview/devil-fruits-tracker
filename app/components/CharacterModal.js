@@ -1,6 +1,6 @@
 'use client'
 import { useEffect, useState } from 'react'
-import { fetchCharacter } from '../actions/fetchCharacter'
+import { fetchCharacter } from '../actions/databaseActions/fetchCharacter'
 
 export default function CharacterModal({ isOpen, onClose, characterName, devilFruitImage }) {
   const [character, setCharacter] = useState(null)
@@ -25,8 +25,8 @@ export default function CharacterModal({ isOpen, onClose, characterName, devilFr
   if (!isOpen) return null
 
   return (
-    <div 
-      className="fixed inset-0 bg-black/50 backdrop-blur-sm z-50 flex items-start justify-center p-4 overflow-y-auto" 
+    <div
+      className="fixed inset-0 bg-black/50 backdrop-blur-sm z-50 flex items-start justify-center p-4 overflow-y-auto"
       onClick={handleBackdropClick}
     >
       <div className="bg-[#1a1a2e] border border-white/10 rounded-2xl w-full max-w-2xl overflow-hidden shadow-2xl my-8">
@@ -41,19 +41,19 @@ export default function CharacterModal({ isOpen, onClose, characterName, devilFr
             {/* Header with both banner and avatar */}
             <div className="relative">
               <div className="h-48 overflow-hidden">
-                <img 
-                  src={character.avatarSrc} 
+                <img
+                  src={character.avatarSrc}
                   alt={character.englishName}
                   className="w-full h-full object-cover"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-[#1a1a2e] via-[#1a1a2e]/50 to-transparent" />
               </div>
-              
+
               {/* Avatar overlay */}
               <div className="absolute -bottom-16 left-6">
                 <div className="w-32 h-32 rounded-xl overflow-hidden border-4 border-[#1a1a2e] shadow-xl">
-                  <img 
-                    src={character.avatarSrc} 
+                  <img
+                    src={character.avatarSrc}
                     alt={character.englishName}
                     className="w-full h-full object-cover object-top"
                   />
@@ -72,13 +72,13 @@ export default function CharacterModal({ isOpen, onClose, characterName, devilFr
                 {character.bounty && (
                   <div className="flex flex-col items-end">
                     {character.bounty.split(' ').map((bounty, index, array) => (
-                      <div 
+                      <div
                         key={index}
                         className={`flex items-center gap-2 px-3 py-1.5 rounded-full text-sm
-                          ${index === 0 
-                            ? 'bg-red-500/20 text-red-400 font-bold' 
-                            : index === 1 
-                              ? 'bg-white/5 text-gray-400 mt-2' 
+                          ${index === 0
+                            ? 'bg-red-500/20 text-red-400 font-bold'
+                            : index === 1
+                              ? 'bg-white/5 text-gray-400 mt-2'
                               : 'text-gray-500 text-xs'
                           }
                         `}
@@ -91,7 +91,7 @@ export default function CharacterModal({ isOpen, onClose, characterName, devilFr
                           </span>
                         )}
                         {index === 1 && array.length > 2 && (
-                          <button 
+                          <button
                             onClick={() => setShowAllBounties(prev => !prev)}
                             className="text-xs px-2 py-0.5 bg-white/5 text-gray-400 rounded-full hover:bg-white/10 transition-colors"
                           >
@@ -103,8 +103,8 @@ export default function CharacterModal({ isOpen, onClose, characterName, devilFr
                   </div>
                 )}
               </div>
-              
-              <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mt-6">
+
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mt-6 text-gray-300">
                 <div className="space-y-2">
                   <p><span className="text-red-400">Origin:</span> {character.origin || 'Unknown'}</p>
                   <p><span className="text-red-400">Age:</span> {character.age || 'Unknown'}</p>
@@ -115,7 +115,7 @@ export default function CharacterModal({ isOpen, onClose, characterName, devilFr
                   <div className="flex items-center gap-2">
                     <span className="text-red-400">Devil Fruit:</span>
                     {character.devilFruitName !== 'N/A' && (
-                      <img 
+                      <img
                         src={devilFruitImage}
                         alt={character.devilFruitName}
                         className="w-6 h-auto"
@@ -144,7 +144,7 @@ export default function CharacterModal({ isOpen, onClose, characterName, devilFr
             No character information found
           </div>
         )}
-        
+
         <div className="p-4 border-t border-white/10 flex justify-end">
           <button
             onClick={onClose}
