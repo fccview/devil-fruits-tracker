@@ -59,7 +59,7 @@ export async function fetchDevilFruits(number: number, type: ViewType): Promise<
     try {
         const client = await clientPromise;
         const db = client.db('devil-fruits');
-        const collection = db.collection('uniqueFruits');
+        const collection = db.collection('fruits');
 
         // Create a regex pattern for chapter number extraction
         const regexPattern = type === 'chapter'

@@ -1,0 +1,3491 @@
+[{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3e7b"
+  },
+  "affiliations": "Bonney Pirates",
+  "age": "10 (debut) 12 (after timeskip) 22-24 (estimated default age by appearance)",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Jewelry_Bonney_Anime_Post_Timeskip.jpg?Expires=1742070410&Signature=N2LTFxn3Q2qPxF2Gh65osfxAVfRf7CyEJEJ5DtnEygS-XGHPPEM5mwgwkUQoQ8YBdu7HV1y5Xn6KY7DyS0fnLFoWdF5UWMrfkRMbJ7HYb8ZW4SF0tIJf0lEWOssdiGr9POBbPSL3kVrz4PGPfBR5aQqzxvfjFv4ehZD4zlpCUoVBR-QkC5QTmXOe7X6C5xm48cQZ6pIIND~YEF~pn0lcdDydiYiZq3wXt3cd-nLeCRFbgQreWw0axfTB9SS2Q3Jdi4lG9SbfqddvON3zW1AaP5S1ubevDl3TbShJAEu~2dvh44E8~tb4oUAUjRsWiTDrcplqci-0phMBNm3-q4EhbA__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "September 1st",
+  "bloodType": "F",
+  "bounty": "320,000,000 140,000,000",
+  "debut": "Chapter 498; Episode 392",
+  "description": "Jewelry Bonney, also known as the \"Big Eater\", is a pirate from the South Blue and the captain of the Bonney Pirates. She is one of twelve pirates who are referred to as the \"Worst Generation\".",
+  "devilFruitName": "Toshi Toshi no Mi",
+  "englishName": "Jewelry Bonney",
+  "japaneseName": "ジュエリー・ボニー",
+  "origin": "Red Line (Mary Geoise)",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984010551"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984010551"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3e7c"
+  },
+  "affiliations": "Corrida Colosseum",
+  "age": "N/A",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Hera_28Gladiator29_Anime.jpg?Expires=1742070411&Signature=V6rOt1r35V5JnWGezrzmYvT~fKATQAlCM8QOZyP4fcrSjbG4DC~nH~jLh-g2~ilDZc9Ux0qLwWLJyDu4R9y9gc8W-P~ci7tDYAByMys3bdlGPWNfYenTLHfZxk8BxT5gigX5X60yqGtOPMEcGmZ~ilnVb0mm6ayCJAbaS3IB9xAm2W2gPoHSXNzvCcpVq260IqyfOrP~RtFzNl2Q3NBkGLfuxpQNawFhS5AeoUC3Hs-9NuMKyDUnlUPT5V2687EiBQTtzi9~CEixbVJu3WItq05IXIcFuBqNxfNa2JR~dk9xhzdaOIW9uFyKTJrorCWESW74liixoLRu3jESeQiffA__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "N/A",
+  "bloodType": "N/A",
+  "bounty": "N/A",
+  "debut": "Chapter 703; Episode 633",
+  "description": "Hera is a gladiator at the Corrida Colosseum that competed for the Mera Mera no Mi.",
+  "devilFruitName": "N/A",
+  "englishName": "Hera",
+  "japaneseName": "N/A",
+  "origin": "N/A",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984011246"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984011246"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3e7d"
+  },
+  "affiliations": "Donquixote Pirates",
+  "age": "61",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Giolla_Anime.jpg?Expires=1742070412&Signature=V0RLNl38YEHIqoD3vTP4QU1Ji8GJA9vz~2h0N2681WI-QCUCfixpidepktUU1EZh9TvsSwyTAlv1EJmf1wr1B0q2NqXVR4pBzuSPSfPb1rDXNTm-0RLkARpVY4TY-UrCfdqiLUb7~v-8rxMr1jNMsCcgD02Cfo4NB9Bfp818nQVelMpmgzH67zZVfe0wZ4iRzR5PQYgpqkGCOGkE2ijiEJwNp2GukV~QjXK10ejspIx1UTfC9fASHdkopmpqJLIw1G5GWe-HNLb3dgDiSwDOFHm1RETrCUIulWzDyU7T66MDgI~InTnf2R8BmxzkYfLDMvKGtPVvuWXDhnELNsNOwg__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "January 25th",
+  "bloodType": "S",
+  "bounty": "N/A",
+  "debut": "Chapter 682; Episode 608",
+  "description": "Giolla is an officer of the Donquixote Pirates' Trebol Army.",
+  "devilFruitName": "Ato Ato no Mi",
+  "englishName": "Giolla",
+  "japaneseName": "ジョーラ",
+  "origin": "North Blue",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984012577"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984012577"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3e7e"
+  },
+  "affiliations": "Barto Club; his own Mafia Family (former); Straw Hat Grand Fleet",
+  "age": "24",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Bartolomeo_Anime.jpg?Expires=1742070413&Signature=TuPICINFV9xULCtnYIptONuFJQrChzOLXTG505h--WNS6H5S1HrQBdw8KoXKUfwvYDmYfmNrhV7MGiWTZajuafGIliIhyescrLKoeirajDXPF3AdJVWbb9shVcuWqdOB2oMLM7cdGTkbPLUOX-mhLUK6wb-V9u~7f~0hSAeNBRB5LamYhjc0wzPfKu82fqO3g~OeY1XRW~nudDtZafzVqS8FS5hdFePjXxDjcwUn2ZQ5B16To-P1rw~bG8Xx2RKolGkjfk5TBMXSMP~sm3h-QYIHwh6PB9Wf4SBA1kbpy8ZnWmmuQBVbZ1EVLZzRiLMlgjNzPkmQZgUCbgPPE5WlAA__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "October 6th",
+  "bloodType": "X",
+  "bounty": "200,000,000 150,000,000",
+  "debut": "Chapter 705; Episode 633",
+  "description": "Bartolomeo the Cannibal is a Super Rookie, the captain of the Barto Club and the captain of the second ship of the Straw Hat Grand Fleet. He joined as a gladiator to compete for the Mera Mera no Mi at the Corrida Colosseum, where he met Monkey D. Luffy and pledged his loyalty towards him after winning the B Block.",
+  "devilFruitName": "Bari Bari no Mi",
+  "englishName": "Bartolomeo",
+  "japaneseName": "バルトロメオ",
+  "origin": "East Blue",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984013285"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984013285"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3e7f"
+  },
+  "affiliations": "Wano Country (Kurozumi Family)",
+  "age": "N/A",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Kurozumi_Semimaru_Anime.jpg?Expires=1742070413&Signature=BGbsgE41PajRffb0g92Jo7xrWEeikuSIdN~tmxiFR8Ij7jYX2pxmJTxspnxNyOFw839QaK2aWfR0MkmJW-twLTZ~i01xuJ0y-7IYySr6XvRlSgNKcwLzUpVTWGWyWpWLTlJrzsKgJ6~ZybTHaQTkYe1wepgdwGQHkx-s7XHNqsJxphXM4ssA7NERMrA9PMx-arp5yqbu4gmuHHlgVN5olfzaFe78Lxhaxnr3NG7VxeqrbJznrp87reoPucX2HHKAx8QBAsrAq7WnFATP5HeED6U8S7trOURWDdfjzmqiUNwAtgzE96Rk0agTSQrx5sOqbqH69Mh2w9NbqUNtSxUrfA__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "N/A",
+  "bloodType": "N/A",
+  "bounty": "N/A",
+  "debut": "Chapter 965; Episode 965",
+  "description": "Kurozumi Semimaru was a member of the Kurozumi Family and a major supporter of Kurozumi Orochi.",
+  "devilFruitName": "Bari Bari no Mi",
+  "englishName": "Kurozumi Semimaru",
+  "japaneseName": "黒炭せみ丸",
+  "origin": "N/A",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984013948"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984013948"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3e80"
+  },
+  "affiliations": "N/A",
+  "age": "N/A",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Banchina_Anime.jpg?Expires=1742070415&Signature=H1z31Aml3Jv0eOHKQ8ozlxfjEC8MANHz82O4hG-KJxpdW9spn0qae5h05zXSHAhJi6WsNdpBffaZVpnJGCZGyQGJdd2of1uxCib3fako8RlnuTN0gRMHmgvnlR-rWJS52DxI6lZEEhCNon5Wy3zdappUWMXcqmNgjzbFGYKdZM-Fb6opZR9HST0ZasY9chAN1LIzAfmsQe7h1jmp-0-76YRP6mv2R4QZeVxmnZVgbXz-pI9dQaYaJ2hd6W3bJM22ceGP5FKdPw4LyD-gg-JHzMUNn9WexekgIrBvAhtnVK196uFTrQgm1a4gik-LBJB6Tzt6w2KN0r4ju~rDwM8gDg__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "December 17th",
+  "bloodType": "N/A",
+  "bounty": "N/A",
+  "debut": "Chapter 41; Episode 17",
+  "description": "Banchina was Usopp's mother and Yasopp's wife. She died of sickness when Usopp was still young.",
+  "devilFruitName": "N/A",
+  "englishName": "Bankina (WT100); Banchina (Live-Action Series)",
+  "japaneseName": "バンキーナ",
+  "origin": "East Blue (Syrup Village)",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984015961"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984015961"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3e81"
+  },
+  "affiliations": "Charlotte Family; Big Mom Pirates",
+  "age": "45",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Charlotte_Cracker_Anime.jpg?Expires=1742070416&Signature=lonqnZ9voA2-IL2ejGj-nAV5tkkcBAW~cU4lxRBA1bYLwhxizqnnWa2Yg~VfNtRsGPKeGzVFsQ0UORlavTJgiRIm-R9nlJDdoMMCAazRF0jGKYUvPvBjCxrmIUYIU7qE5tAm2ERpa2uH9hAEfIc9EWgfHTOMUR0rVu0XBzbL80-3ff3uZZUDRKto7SePHMgm7I1WdqtZCDQmGutc8GYw7l2DgVxc0EfOjHQoLY37CgBeIWme9duQcnd6rwOSHf6sBTOZvEgI-mtbslJf6G-qBIjNf-5AYwYxNzKSJJoNex3gu3DJJ2csmubgPXNIyQuAd4Oia8RUHrPkOau8k79PSw__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "February 28th",
+  "bloodType": "X",
+  "bounty": "860,000,000",
+  "debut": "Chapter 835; Episode 796",
+  "description": "\"Thousand Arms\" Charlotte Cracker is the tenth son and 15th child of the Charlotte Family and the oldest triplet brother of Custard and Angel. He is also one of the Three Sweet Commanders of the Big Mom Pirates and serves as Totto Land's Minister of Biscuits (ビスケット大臣, Bisuketto Daijin?), governing Biscuits Island.",
+  "devilFruitName": "Bisu Bisu no Mi",
+  "englishName": "Charlotte Cracker",
+  "japaneseName": "シャーロット・クラッカー",
+  "origin": "Grand Line (On a boat)",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984016624"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984016624"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3e82"
+  },
+  "affiliations": "New Spiders Cafe; Baroque Works (former)",
+  "age": "24 (debut) 26 (after timeskip)",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Gem_Anime.jpg?Expires=1742070417&Signature=cSIogLC7gIR--sPqh5c9CD5RR4SfRU9LoR3XzN8dAb~80oaua~5ZUG9s12UVLoCCcAuUc3bs6RcsL74Iw3hu7dp4lZGwwpsnrc3Uguls44i6Mt7bwBuakTwD~nW~FTPADPl6HiKJN8QtHTMAt0-eg-P3jJfH95ZrMIHeOlcWpnmRR7LASVBPgbQqhHtEikWMKFsATTWzOhGLYL72FcYNNwqZOkAhZJ1VHBx7XjYzHG-z-qRSkOA3xF-hXjWEGhecirHAXEFx4V1Qggfjs1f1AXYnYiY~9oZlzvvBgaDnXw15tirx3tDymKxMvxOpA3Lpct~EaV2CD39QvwpEIErb~Q__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "July 26th",
+  "bloodType": "X",
+  "bounty": "10,000,000",
+  "debut": "Chapter 110; Episode 65",
+  "description": "Gem of the Border, better known by his alias Mr. 5, was formerly the lowest-ranked officer agent in Baroque Works along with his partner, Miss Valentine. He now works as a fireman at the new Spiders Cafe alongside most of his former colleagues.",
+  "devilFruitName": "Bomu Bomu no Mi",
+  "englishName": "Gem",
+  "japaneseName": "ジェム",
+  "origin": "South Blue",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984017299"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984017299"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3e83"
+  },
+  "affiliations": "Charlotte Family; Big Mom Pirates",
+  "age": "38",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Charlotte_Mont-d27Or_Anime.jpg?Expires=1742070417&Signature=GmapO5GmqYaXf2mGeYnjgWNsW-plrKKZj-TaFz~VCe9kRElxhZAWL~u-UvkOvEti6Ex24Xa3XnsV464P97Gt0xjvu3gq23yNFXr9lro-wA7qoz74-WxxZUw8ZKqJep9xg2vfwdDPBwBSOQ7HiAKB6Gqoq2G-zyQYRcwZHV~FfUeCHa~kr3dFU9aJsHFCUl3yzG6n4IJnE1kLExI2ot6qNp-sxnyhcelVEjC12JZaQXWK6PZBrS-4X9Y0lZozp~26yvktp0JLMzFyjI9sXgjzWuY3f53TiEhMPw69bQSghPEGEqVAwP0JoUtaV~6NhEATPQe-Ez6~q5RacDgceHd6Ow__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "April 23rd (World Book Day)",
+  "bloodType": "X",
+  "bounty": "120,000,000",
+  "debut": "Chapter 829; Episode 789",
+  "description": "\"Scribe\" Charlotte Mont-d'Or is the 19th son and 30th child of the Charlotte Family and an officer of the Big Mom Pirates. He also serves as Totto Land's Minister of Cheese (チーズ大臣, Chīzu Daijin?), governing over Cheese Island.",
+  "devilFruitName": "Buku Buku no Mi",
+  "englishName": "Charlotte Montd'Or (Viz) Charlotte Mont-d'Or (WT100)",
+  "japaneseName": "シャーロット・モンドール",
+  "origin": "Grand Line (On a boat)",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984017983"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984017983"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3e84"
+  },
+  "affiliations": "MADS (former); Marines (former) (SSG)",
+  "age": "65",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Vegapunk_Manga.jpg?Expires=1742070418&Signature=K9d6GlNnWeOAEQNcb3V0pj1~7tu3yNIcWanE0cRb0FFWMOPvfIcPQFOP2s73Ax6Y5F6EXrhlYp~NS5Hgx0uluLns6upQ-ke~sWd~D5bTMeJm73YMUETRxWaL~WJG1fre~YzLmiOyfvPGQ4FDbYi6ssLP0QzcvlZx-uVoS60usoYSZhsS1UC3jnZnyp8YTXDzWldlPyMIDFJp9OZU2e9Q7qjyiDi5pdEG403kR7ql0zGufhvGKtGW7vW1JFeIsXzXKfDO~jnQQ1OL5ulngEF0yJEVZ6kwlxlf1V1zgEuGXMFdYlGyuDh4~BttpU9WSTGTTCKG3qjJkSHPgUIuUWFJYA__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "August 9th",
+  "bloodType": "N/A",
+  "bounty": "N/A",
+  "debut": "Chapter 684; Episode 610 (shadowed) Chapter 1061; Episode 1090 (satellite) Chapter 1066",
+  "description": "Dr. Vegapunk is the leading scientist of the SSG and is in the employment of the Marines. His work includes discovering the secrets and uses of seastone, the secrets of how Devil Fruit powers work, the co-discovery of the Lineage Factor and its applications, the creation of the Pacifista and Seraphim, and various other scientific achievements that are said to be at least 500 years ahead of current technology. He hails from the technologically advanced Karakuri Island and currently resides on Egghead, where his laboratory is located.",
+  "devilFruitName": "Nomi Nomi no Mi",
+  "englishName": "Dr. Vegapunk",
+  "japaneseName": "Dr.ドクターベガパンク",
+  "origin": "Grand Line (Karakuri Island)",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984018654"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984018654"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3e85"
+  },
+  "affiliations": "Kurozumi Family; Kozuki Family (undercover); Nine Red Scabbards (undercover); Ninja-Pirate-Mink-Samurai Alliance (undercover); Beasts Pirates (former)",
+  "age": "N/A",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Kurozumi_Kanjuro_Anime.jpg?Expires=1742070419&Signature=XO7SXuRtishzOyIJ4bwU9ez-Su50ZW5yKzJMbbGsUYTgckGLK~ZtmSms9sJS0t9FpnyrePFdqpwBN4QJWrr~R4uwj13qA6LRzydVlmPZDCNO1HW0Us87XFPFDpBVy7QyT-fNAV6mwd-uZpV3EbO9VQtA2xpSFLx5ATHhUpDocOjTuBAKsW5KemGYf37SwSEaQLio3224vyWjyf8CQEeXJTkEH3kEyckAzYk7Fn5i5E1xWu1YCpNGjdv3iTcjQxZ3b29Sp2j~Fp0KAlCEvOTs2kl4c3-8f9OEMyhELcLwPNH9CY6zyjglZZjrvdK8~68lC8V-Sm~o5ku3Wq57gG6XJQ__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "July 21st",
+  "bloodType": "X",
+  "bounty": "N/A",
+  "debut": "Chapter 700; Episode 629",
+  "description": "Kurozumi Kanjuro, nicknamed \"Evening Shower\" Kanjuro, was a samurai from Wano Country and a member of the Kurozumi Family. After losing his parents, he was instructed by Kurozumi Orochi to operate undercover within the Kozuki Family. Kanjuro became Kozuki Oden's retainer and one of the Nine Red Scabbards while secretly aiding Orochi in his rise to power and efforts to eliminate the Kozuki bloodline, by feeding him information. He would continue to do so until he revealed himself as Orochi's spy just before the Raid on Onigashima, leading to his former comrades engaging in battle with him until he was lethally wounded by Kin'emon during a final skirmish, dubbing it his final act.",
+  "devilFruitName": "Fude Fude no Mi",
+  "englishName": "Kurozumi Kanjuro",
+  "japaneseName": "黒炭カン十郎",
+  "origin": "N/A",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984019330"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984019330"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3e86"
+  },
+  "affiliations": "CP0; CP9 (former); Galley-La Company (former)",
+  "age": "25 (debut) 27 (after timeskip)",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Kalifa_Anime_Post_Timeskip.jpg?Expires=1742070420&Signature=Zppc3rvwI-6Jybm6RgwgV~NoOfs-xJiNuJWsl~qEEive6IIBaYtO2UE2QsAq63QzewtW0rD~vhJ-KC6JRBqiK6YHbXgmwPAAKuRInCETgMkGd39ioFJcrCs0KqirESlOF~rSw6400a1cbppjS3PP4e5n~~vNZgUvkTixjWDpX5tf--PXVmNqv79TBhcVF4I92AKHfCtifvuZd4f8UYpij~5aO4uSPpV5dOPs1fxF9LdXVBqnfjrFrFlXXC7AgYV2A1nOUb8ph4K9fuDU7mNQDfjq2aMOTV~qd4hhCDWA3zUXxxAjNCQP5-yFevve-dodsgWWBqjWUW560LXBJe0DRA__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "April 23rd",
+  "bloodType": "XF",
+  "bounty": "N/A",
+  "debut": "Chapter 323; Episode 230",
+  "description": "Kalifa is a Cipher Pol agent of CP0.",
+  "devilFruitName": "Awa Awa no Mi",
+  "englishName": "Kalifa",
+  "japaneseName": "カリファ",
+  "origin": "Grand Line",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984020076"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984020076"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3e87"
+  },
+  "affiliations": "Happo Navy; Chinjao Family; Straw Hat Grand Fleet; Donquixote Pirates (defected)",
+  "age": "24",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Baby_5_Anime.jpg?Expires=1742070420&Signature=Bz-DQdCFkGuKHrbDya-bsBl5HPyNbJ5VReoUTeSSdsBdZG4G4amRdNMLTyS1IQXZB-1MwACk46aiqFY-Re5VanjdZ7NXohSOzELvPrFlxLTJtAuadEVl6ddjuVrXoA~xxAnhPL1vh3j8o4NRF0tvhg66TBbyxYKKtKCCUyb2N8VaMbrhJgyTZpCC~zCZyDzxvMdKodS74Z4B9tkbbCoaQUz~L7Q~z4pA1Sgp24P-099-iKbamBT~x6DsMqi~XXH0Eib2DH5OxCUifK5e-oX8aJ6P-RbXmh9fRQ-wNqdhafbvHq0iUBr0I9CxgwGQLj4wosQrdQ5Y8YoB7lqXH0PmaA__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "May 15th",
+  "bloodType": "XF",
+  "bounty": "N/A",
+  "debut": "Chapter 682; Episode 608",
+  "description": "Baby 5 is a pirate and the wife of Sai, the Happo Navy's 13th leader. She is a former servant and assassin of the Donquixote Pirates, serving as an officer in the Pica Army. Her real name has not been revealed, as \"Baby 5\" is a codename given to her upon joining the Donquixote Pirates.",
+  "devilFruitName": "Buki Buki no Mi",
+  "englishName": "Baby 5 Baby Five (WT100)",
+  "japaneseName": "ベビー5",
+  "origin": "North Blue",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984020739"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984020739"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3e88"
+  },
+  "affiliations": "Charlotte Family; Big Mom Pirates",
+  "age": "31",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Charlotte_Galette_Anime.jpg?Expires=1742070421&Signature=i4SR3hJBS4xLhyhsvB2M3jQ7lFm9aqi~OssXpT7URcUVah7dGKGVGFxCm6yAWjxqvXUP6X8LbjZ4JvoNlGXsRtygsp12oFu11g~d84NblO9iX~7SslyDp53mNOSvTRRLoJgGJO99e52mTTdUHWaEBe7lW1Q4zfHB29VkY8olc~z0n~i6YIRgpXQBKFq3K2GhsL3lrg1OowsIhl6SkhTtEmzeeuT6U0OIrOHIpE6fn94TEQ3fD-7vKTvll91v~pb-9eIuaI881HNXXwur7qhNVIjr~y4kHltqWO2ZDk4FTfPXRPwedy9~ppDiOQub9yL8u64lxfckDDTPQ4UDvgA1vA__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "October 19th",
+  "bloodType": "N/A",
+  "bounty": "N/A",
+  "debut": "Chapter 829; Episode 789",
+  "description": "Charlotte Galette is the 18th daughter and the 42nd child of the Charlotte Family and the older twin sister of Poire. She is also an officer of the Big Mom Pirates and serves as Totto Land's Minister of Butter (バター大臣, Batā Daijin?), governing over Margarine Island.",
+  "devilFruitName": "Bata Bata no Mi",
+  "englishName": "Charlotte Galette",
+  "japaneseName": "シャーロット・ガレット",
+  "origin": "N/A",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984021414"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984021414"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3e89"
+  },
+  "affiliations": "Marines; Donquixote Pirates (undercover); World Government (former)",
+  "age": "N/A",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Donquixote_Rosinante_Anime.jpg?Expires=1742070422&Signature=osRNCSbFYmGXiVIFRwexUGhnabVQbloKbg8XNIrFXeTkfWZK1aHpK~aLsGYiLrnsTdDc1xVZYjN0eERbLVWImA1u8i2CQGYtraercQsu33-6IyY5RYOylgxNqKItZIPkcHsQLJ1YgavaKfvch3A17BuGiuffWUSZChhQyQKVVbjuEO9P7lsHsCQJ9aS-cT42u7ext0Ci4Xfg493NJACuaYWNYHXZB4~lcemd7bVOd8XoWyXzekB8T6jM3PmQLlSLHUKAYypAr7OToKVHBDbKdalXpDXEr9e2I5qrVk16CToCj0RTGpnEYxsvSDWQPk3tGzBAKACTNTb7zd1Q-D9hzg__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "July 15th",
+  "bloodType": "S",
+  "bounty": "N/A",
+  "debut": "Chapter 761; Episode 686",
+  "description": "Donquixote Rosinante was formerly a World Noble of the Donquixote Family descent, being the second son of Donquixote Homing and the younger brother of Donquixote Doflamingo. After his family lost their status as Celestial Dragons and became pariahs, Rosinante was discovered by Sengoku and enlisted into the Marines, eventually reaching the rank of Commander. Upon reuniting with Doflamingo, he feigned muteness and operated as an Elite Officer of the Donquixote Pirates, serving Doflamingo under the codename Corazon while remaining an undercover Marine.",
+  "devilFruitName": "Nagi Nagi no Mi",
+  "englishName": "Don Quixote Rocinante (Viz); Donquixote Rosinante (Funimation subs); Don Quixote Rosinante (Funimation dub)",
+  "japaneseName": "ドンキホーテ・ロシナンテ",
+  "origin": "Red Line (Mary Geoise)",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984022097"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984022097"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3e8a"
+  },
+  "affiliations": "Fire Tank Pirates; Big Mom Pirates (former)",
+  "age": "40 (debut) 42 (after timeskip)",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Capone_Bege_Anime_Post_Timeskip.jpg?Expires=1742070422&Signature=WvH-vqJoITZmzvzD8Ji0fs1wZrxjS6vTAtgMBZk4wKVzRknCa7c7DC7sIvktgPqv-Rlje1pc9fwSpb6usAX4ntptAObTKGyjjka4zZO39tzoF51EbVcz3XsMb0F7W6xf7AnmewMtXNHfUvKflL9HI3eZ0eGZlTCb-k2j6HPQB3wnzJ1SKAO1BU~EU~mGeaFS~CqCsEv5kCOL09NJLlnHbWLw4ylA12yU8-zWX-oNcwV6CPFsEdlk6zz22qu8PvYzFwBRPC~Hx8kx-DdlL8eNOkVTcyi7p408-u0aiZ7jjpviBJQW0Tbdr4l2gNfMDVI9rpMv03dwUWSlCO7PGttrOA__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "January 17th",
+  "bloodType": "S",
+  "bounty": "350,000,000 300,000,000 138,000,000",
+  "debut": "Chapter 498; Episode 392",
+  "description": "Capone \"Gang\" Bege is a mafia don-turned-pirate and the captain of the Fire Tank Pirates. He is also one of twelve pirates who are referred to as the \"Worst Generation\". He and his crew came from West Blue, where Bege was one of the heads of the Five Families of the West. During the timeskip, he became a subordinate of Charlotte Linlin and married Charlotte Chiffon. The two have a son named Capone Pez. While working under the Big Mom Pirates, he held a position of a rook-ranked combatant.",
+  "devilFruitName": "Shiro Shiro no Mi",
+  "englishName": "Capone Bege",
+  "japaneseName": "カポネ・ベッジ",
+  "origin": "West Blue",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984022768"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984022768"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3e8b"
+  },
+  "affiliations": "Cross Guild; Buggy's Delivery; (Unknown status)? Buggy Pirates; Buggy and Alvida Alliance; Four Emperors; Seven Warlords of the Sea; (former); Roger Pirates; (former); Impel Down (former)",
+  "age": "37 (debut); 39 (after timeskip)",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Buggy_Anime_Post_Timeskip.jpg?Expires=1742070423&Signature=UgEcFlfg749zjiiikJOot6Oy7wj2GEnO0mTvNVs1ExKEj9DWKx7dGAp66PoLJ9VUwDvMKGbHis9Gd65PEVpeUw5XWbEe9tw8SCMqu9I5KjTHTfTNJroKAcNUhgCX6v6uTu9Kg3wQ6iR-aPXkbCldRiroTmzxlU-lvjgdHzLl2k96mMGLraJG90N3832n5XEKGCAmEfDoqRWiJQibKf8VXl3mjtznTwdS9NQG0AwBszuuAdYuV4fVhDntM1o7PzcWRBBQBTCKwVtpfRT89RC7BRd~IngEOCSMBxq30gLVijZEAEi04BonGq7pk9LGSTlhfztwviE32q6jJRJ7dBvYAw__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "August 8th",
+  "bloodType": "F",
+  "bounty": "3,189,000,000 15,000,000",
+  "debut": "Chapter 9; Episode 4",
+  "description": "Buggy the Star Clown is the captain of the Buggy Pirates and co-leader of the Buggy and Alvida Alliance. Formerly an apprentice of the Roger Pirates alongside Shanks, he was one of the earliest enemies of Monkey D. Luffy and the Straw Hat Pirates, whose actions eventually entangled him in the Summit War of Marineford. Inadvertently, the war grew his reputation enough to become one of the Seven Warlords of the Sea, whereupon he founded the pirate mercenary organization Buggy's Delivery. After the Warlord system was abolished, he recreated it as the Cross Guild in partnership with fellow ex-Warlords Dracule Mihawk and Crocodile. He is currently recognized as the Guild's public leader, and on its power one of the Four Emperors.",
+  "devilFruitName": "Bara Bara no Mi",
+  "englishName": "Buggy",
+  "japaneseName": "バギー",
+  "origin": "Grand Line",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984023432"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984023432"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3e8c"
+  },
+  "affiliations": "Blackbeard Pirates; Impel Down (former)",
+  "age": "42 (debut) 44 (after timeskip)",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Shiryu_Anime.jpg?Expires=1742070424&Signature=ldTloIaPpV32SOHO7u1mAvdAzzgOlQkpEqB-lRhtsg6ffcyhYK1GDlxQGyF8c1yL1GofZQWE5IVfV1AmdtiY7ImiNXA6P-7Z8JIecBh9gUyty9EMROusFAV08OMexASF1PunAFWXJ9xZRavvR-PJqEPiARaRJ3FmQdOkxUznK20qbd3ODedGFvt2M8P8jk42vFHT5CCqQ87blzjafIq0kU-~WVDLHJR4pEa2NNy5d4lVet~6xhfLb8dUsGj~tt7rgCA1QptebBdiq~jL31jf03gNPRw1fe6TyEq2NhvwY9yfJ~oT9tWIC-VzlAz3LCYQegrHCrnO7glen-Kp9lKN~Q__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "June 11th",
+  "bloodType": "X",
+  "bounty": "Unknown",
+  "debut": "Chapter 538; Episode 440",
+  "description": "Shiryu of the Rain is one of the Ten Titanic Captains of the Blackbeard Pirates, as the captain of the Second Ship.",
+  "devilFruitName": "Suke Suke no Mi",
+  "englishName": "Shiryu Shiliew (WT100)",
+  "japaneseName": "シリュウ",
+  "origin": "Grand Line",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984024123"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984024123"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3e8d"
+  },
+  "affiliations": "Thriller Bark Pirates (Mysterious Four) (former)",
+  "age": "34 (debut) 36 (after timeskip, at death)",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Absalom_Anime.jpg?Expires=1742070424&Signature=fIQq7k03QhmtGZR4TFB-c7T6wqDTqH07O32ct3tMpKWZ33ddHdGlef-KUKrPptqlagKED4RxmDWyAbh-zlg90BmvUOkigZGCHeVHrZEiuRYqblIlK0wsaMXmDvxuyr8slkMKt5tfqqbQLUUlF96vKNAnZzF62oUYqWM8oOQXDZSJu2OXs6sm-uK8bIWI51CE5x1M2LDQP8ifqRPuXua9EFXa6EruWqn~9P24S9co4HGBZF1kdIepSC0oTYq4QuvDpgy-w3Hdhzd7pvV46-TT6tpBY60fjc2HdcqSzlis7GSf6JmvqHuQidC1Vf~ZEnq1du7LIBvlXXk6i6cpRrpTZA__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "December 30th",
+  "bloodType": "F",
+  "bounty": "N/A",
+  "debut": "Chapter 444; Episode 339",
+  "description": "Absalom of the Graveyard was the leader of the Zombie Soldiers and Zombie Generals of Thriller Bark prior to its collapse. He was one of the Mysterious Four of the Thriller Bark Pirates and one of the major antagonists of the Thriller Bark Saga.",
+  "devilFruitName": "Suke Suke no Mi",
+  "englishName": "Absalom",
+  "japaneseName": "アブサロム",
+  "origin": "West Blue",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984024789"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984024789"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3e8e"
+  },
+  "affiliations": "Newkama Land; Baroque Works (former)",
+  "age": "30 (debut) 32 (after timeskip)",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Bentham_Anime.jpg?Expires=1742070425&Signature=mZLI6OPh01uFOhWi6TTeaEnKLre4Pvyuxf6NAC0lqepbYdHVpZcl-IZtdxIgbL8f2jD6SQQB01hygHYzFpGa2lWMrBjEN1rbjt8twbLMj3d652lSt5Rqw62knKNaR1-X1J1ILMxLE8EJKdBX96nNT8b1Rp-QOgno9Wq6jNtxVcZtqetboqPrYC591uRWhC8t6Z~1YboJKnyJRzQ1Eyxiu3o6TsES3hbgyVK78jZOMIEsAfUhSrUuxSlPJwHMoU~z84qxNaJxS9v4I02h~3GERLaYMEausZBU5ju8G-ykAMVYhfwyo-Rpm8KrYl4~IpsN~f5PuW3~qsydbIm~3KFPEA__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "August 15th",
+  "bloodType": "F",
+  "bounty": "32,000,000",
+  "debut": "Chapter 129; Episode 78",
+  "description": "Bentham of the Wild, alias Mr. 2 Bon Kurei, is a former officer agent of Baroque Works and an okama. He was a major antagonist during the Arabasta Arc, and (along with his fellow Officer Agents) one of the central characters in Miss Goldenweek's \"Operation: Meet Baroque Works\".",
+  "devilFruitName": "Mane Mane no Mi",
+  "englishName": "Bentham",
+  "japaneseName": "ベンサム",
+  "origin": "East Blue",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984025453"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984025453"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3e8f"
+  },
+  "affiliations": "Wano Country (Kurozumi Family)",
+  "age": "N/A",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Kurozumi_Higurashi_Anime.jpg?Expires=1742070426&Signature=g880Bwvs9NYOOUKnZodNE9uA9fbVr2~oodnJMjY5T0ojQbjFTx1rzXc89iPIF3LsVgU78tVofKSTFTVHlP~qN-Rsq~2Y0HLMITXU~OtjJlbX8IYW3uEdtBP0Nblx2lMIywIrlwN0~NTceZkSOnIMGcKy0IzvoTbuTrq9eHVbY8JhG8JnfL9p1gb6JdIrvN2tkcNhFTBK4OHA78rLln~2lCD~0K~-uBK~JdLaPg0AeTsVo9eLcpD1AkiypfHsRiQyDmdUQ1Ybxv8tbQ1CzfjPX4YW8hDioPbyV-bFZebL-di3n7FbOQqkHCurCRbgrhSb5ab~xZhIjlh9FtnI6nFKTg__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "N/A",
+  "bloodType": "N/A",
+  "bounty": "N/A",
+  "debut": "Chapter 965; Episode 965",
+  "description": "Kurozumi Higurashi was a member of the Kurozumi Family and a major supporter of Kurozumi Orochi. She was killed by Kaidou for her interruption in his fight with Kozuki Oden.",
+  "devilFruitName": "Mane Mane no Mi",
+  "englishName": "Kurozumi Higurashi",
+  "japaneseName": "黒炭ひぐらし",
+  "origin": "N/A",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984026161"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984026161"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3e90"
+  },
+  "affiliations": "Big Mom Pirates; Rocks Pirates (former)",
+  "age": "92",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Streusen_Anime.jpg?Expires=1742070426&Signature=mN2YbPpJPeIrszWCf2PnD~YaAqoCjIJZAHMvqp0qfcmh4DAPRlW0xq6w06dFZDpJxfYjc4k4Ca0a5ROv-OfBb3YWttSvz2zCpWmcLtVccnmO39L~yg-Jzjt5creNs~voz9RTQic2eW~trt-riR2XlJ-kSfFd4aaj2plszq~95EfFUWOGERPrXPrhVvsCaRKSzeq-yiGBFZnxf7Zbv4JAB4trpEWd88gaKX2GKdt6WQdeMyNA622i1QLUCQZy0uPVWc9DYqdK-6VZccgAqiF55uzNhu-ywG8xdH4HVTtj~GhHTi8HWH4-RFVW~NVFK6iwJ53AnjTvwQt3h8-9q4oY8Q__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "April 27th",
+  "bloodType": "S",
+  "bounty": "N/A",
+  "debut": "Chapter 858; Episode 827",
+  "description": "\"Gourmet Knight\" Streusen is the executive chef of the Big Mom Pirates, and is also the co-founder of the crew alongside Big Mom herself, having accompanied her even during her time at the Rocks Pirates. Prior to his current position, he was the chef of a pirate crew that has since fallen apart.",
+  "devilFruitName": "Kuku Kuku no Mi",
+  "englishName": "Streusen",
+  "japaneseName": "シュトロイゼン",
+  "origin": "Grand Line",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984026826"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984026826"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3e91"
+  },
+  "affiliations": "Charlotte Family; Big Mom Pirates",
+  "age": "46",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Charlotte_Opera_Anime.jpg?Expires=1742070427&Signature=cHr7VrMsmi2gduH6udrOfaCjDHyoma9bGpdAUmA1vprf-rSFDkONUm7QzV-0srvVXjCCwi4haBRUqr2i51~ewkwJIeRjXUPsQueaz5nr~EZSgeAXPz6NgqmOaOLMLYUI~69tKXA92LAtuBfohE2Vxue1kMN0J-BjobSov7DE6aoWhHDxgw4ecYPTBeJreDrRpL2gjZBGJ5iu3gi61Q3RfgU4REqpDzdOAOxJXGuETt6AWGeaNG32K2GVqSNpZx7OUpJWsRcgX-g1Eh0QZAqkIlu~VYaZMOakYO9i0pF-CmPbl~wwGkquodV2-oOnpqfEUeugqRnrFUG5YXrTZrxnHg__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "September 29th",
+  "bloodType": "N/A",
+  "bounty": "N/A",
+  "debut": "Chapter 829; Episode 789",
+  "description": "Charlotte Opera is the fifth son and the tenth child of the Charlotte Family and is the eldest quintuplet brother of Counter, Cadenza, Cabaletta, and Gala. He also is an officer of the Big Mom Pirates and served as Totto Land's Minister of Whipped Cream (生クリーム大臣, Nama Kurīmu Daijin?, Viz: \"Minister of Cream\"), governing over Noko Island. His current status is unknown after having his lifespan removed by a rampaging Big Mom.",
+  "devilFruitName": "Kuri Kuri no Mi",
+  "englishName": "Charlotte Opera",
+  "japaneseName": "シャーロット・オペラ",
+  "origin": "N/A",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984027490"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984027490"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3e92"
+  },
+  "affiliations": "Blackbeard Pirates; Four Emperors; Seven Warlords of the Sea (former); Whitebeard Pirates 2nd Division (defected)",
+  "age": "38 (debut) 40 (after timeskip)",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Marshall_D._Teach_Anime_Post_Timeskip.jpg?Expires=1742070428&Signature=aqgR6x0UmEy7SzzEUO5la4Ambvlu3Zqls4O6koQq8VjpD5~gd3HIfPDcsJNqy4WyQV7J6apnTyUdh3-QGFAj3KCM1x~aJ8CESWO4jCMpqwpuANzzpc1gs5W7ffInGHnYaxOvII8RadiyF-gfOXlZxa~Xg4Kf6z-nmt1aYulXzbOW9D7gHl-4~BqudYZOsWTAvwfu68rBMqswomDuncPFH29kC9m3TxbNJnNZ0U5zXIUEv6Xakf5zXh4MUvQaaKF75nU4YiA1AJ694-dvtB7pIaVSv3u4S0SvFqOFDw6ihTv~vi6xgeWVJxTRE72eUfkYJHZr6h5ofwLNDjL~UoXFZw__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "August 3rd",
+  "bloodType": "F",
+  "bounty": "3,996,000,000 2,247,600,000 0",
+  "debut": "Chapter 223; Episode 146",
+  "description": "Marshall D. Teach, most commonly referred to by his epithet \"Blackbeard\", is the captain-turned-admiral of the Blackbeard Pirates, and one of the Four Emperors that rule over the New World. He is also the only known person in history to wield the powers of two Devil Fruits, as well as part of a special bloodline, which is only known to a small number of individuals which includes his own crew and the Five Elders.",
+  "devilFruitName": "Yami Yami no Mi",
+  "englishName": "Marshall D. Teech (VIZ, Funimation subs, edited dub); Marshall D. Teach (Funimation uncut dub)",
+  "japaneseName": "マーシャル・Dディー・ティーチ",
+  "origin": "Grand Line",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984028164"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984028164"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3e93"
+  },
+  "affiliations": "CP0; CP9 (former)",
+  "age": "30 (debut) 32 (after timeskip)",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Blueno_Anime_Post_Timeskip.jpg?Expires=1742070429&Signature=eNYnBneVWu3SRzVRsuPNZji55SDtCzWSInTX82ycg2h2ssMzREL6~19dA1ZsXoynOeujoOuyC7jqB3jZjycTv329GhG0staQ51T3jVoDuUtedm4T9heSvQCv6T2LvFrztxJfrdxwes5vex~V2qQ1Y-ro1YE3nVIudZH3EkGv6h~05DZKGb9blJCw-IG~mC7GlBs7~m0F3oGp3VQcj8K-2J6WT81EPSGCZ8XASkYuPGny67moE7tAAw3SMYzPGNzAlHtLA04-XGZxmifxV9E9W4Syztij~Wt3IDfADtgVGAS-bGQmujy3B3TiRCLtBjxUgv4qGfWht-Ruy6ZsZRFFAA__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "April 20th",
+  "bloodType": "X",
+  "bounty": "N/A",
+  "debut": "Chapter 325; Episode 230",
+  "description": "Blueno is an agent of CP0.",
+  "devilFruitName": "Doa Doa no Mi",
+  "englishName": "Blueno",
+  "japaneseName": "ブルーノ",
+  "origin": "North Blue",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984029495"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984029495"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3e94"
+  },
+  "affiliations": "Big Mom Pirates",
+  "age": "46",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Tamago_Anime.jpg?Expires=1742070430&Signature=mI4lwp4oUam5b6GxZ9HbYOREgyFU7z84zCL3Fx80JHKPguGdp5sczvQUT8z6VxnaWp-G69sjBUsXWx-zDVsY3EQFO1jFRd6I42C76-6tJyXKAaRan~HDgx7~G~BPgHRi5X5CMEmFfJuw7iTjzYMM99hTrS6JO-WRxmrHfsF1Sjkn4mrJsFFh6sq1nhITrlu3PGDPdgx8KLAeU8vMgEZJmBoy0TW46jpgMdamzzR~4eD4BoAY1AQBPfa3ulOvYc~JoeLLYnXRFnRzS4jUk34qZFGE~WrgnFDEUGFIfph9zMq2XZFRBX8L4CYKlJYa4F2eDW1HRqqBX3hwCKc1ryQQCQ__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "May 14th",
+  "bloodType": "XF",
+  "bounty": "429,000,000",
+  "debut": "Chapter 651; Episode 570",
+  "description": "Baron Tamago (also known as Viscount Hiyoko and Count Niwatori in his second and third form respectively) is a knight-ranked combatant of the Big Mom Pirates, who originates from the Longleg Tribe. He and his partner Pekoms were responsible for collecting the monthly payment of sweets from Fish-Man Island in exchange for Big Mom's protection.",
+  "devilFruitName": "Tama Tama no Mi",
+  "englishName": "Tamago",
+  "japaneseName": "タマゴ",
+  "origin": "Grand Line",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984030213"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984030213"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3e95"
+  },
+  "affiliations": "Revolutionary Army; Dadan Family (former); Goa Kingdom (defected)",
+  "age": "10 (flashback, debut) 22 (after timeskip)",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Sabo_Anime.jpg?Expires=1742070430&Signature=c7~UKiUIOPJDnbPeSjESDMp~MTfGYD1UBSZL8F0LRJSzSxvrWt-~tW3TB6jEpUDsD3VY8FxhM7WfwebofWUk7u0p4KCt1l1NwKOtY-W7KU0MsbXd847xEi47SyWfVsvwvxvyx6jArfmnyYzfdHGx36t0kFHha4BJYWiuhNQKo6PjEsY8ZMeGwqUfcrnYoHHAJJHIJbGkpm2w8H5C6grA9mEBiEey~D~P1-sUEopuuV0k1y1zM4yYN5JfA0rj4cwk~swn67oxfGi-YlTftlzV4iCBYIBqNTNqh5v9sHabrgP6OtyANXN0lSrE09hWlGA4NEV-GkABzV21FhX0PBD6BQ__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "March 20th",
+  "bloodType": "X",
+  "bounty": "602,000,000",
+  "debut": "Chapter 583; Episode 494",
+  "description": "\"Flame Emperor\" Sabo is the Revolutionary Army's chief of staff, recognized as the No. 2 of the entire organization and outranked only by Supreme Commander Monkey D. Dragon. He is also the sworn brother of the notorious pirates Monkey D. Luffy and the late Portgas D. Ace.",
+  "devilFruitName": "Mera Mera no Mi",
+  "englishName": "Sabo",
+  "japaneseName": "サボ",
+  "origin": "East Blue (Goa Kingdom)",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984030878"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984030878"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3e96"
+  },
+  "affiliations": "Whitebeard Pirates; Spade Pirates (former); Dadan Family (former); Impel Down (former)",
+  "age": "N/A",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Portgas_D._Ace_Anime.jpg?Expires=1742070431&Signature=Aq-LSgH94wgtFrzmYrvjHW8ESWSij2mp4whIKi1dEyowG5vc30dhSkdQJQUmZ4oJIffPIwCaYAU9l4ayhmwE6tVWAWctr0XUKiVCqwUoVRFRqoIuq71vuLqbXcNG9JCXhUL5BtagZspjuL1GbfXXQdAtH-6gkYT~avU6qfUT86muXP8gywsC1lASLBrnD1AdSfhW2z9F0WThIYGHTnkAcPDE1Cq9Vgto5bCsRSULQvQ6T~IDQMDnbR4b2DpP1sVk1AUxXtM~0sEKQ0b9Bj8zI8Ii3PwWJu3DTI4osm0FWP-UHJffWZzFrR1BmQJgThBXAVCbvbmvUW~z3cfMIl4UTw__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "January 1st",
+  "bloodType": "S",
+  "bounty": "550,000,000",
+  "debut": "Chapter 154; Episode 91",
+  "description": "Portgas D. Ace, born as Gol D. Ace and nicknamed \"Fire Fist\" Ace, was the biological son of the late Pirate King, Gol D. Roger, and Portgas D. Rouge, as well as the sworn older brother of Luffy and Sabo. Ace was adopted by Monkey D. Garp, as had been requested by Roger before his execution. Ace was captain of the Spade Pirates before being recruited into the Whitebeard Pirates and becoming its 2nd division commander. He ate the Mera Mera no Mi, giving him the power to transform into and manipulate flames.",
+  "devilFruitName": "Mera Mera no Mi",
+  "englishName": "Portgas D. Ace (uncut dub); Portgaz D. Ace (VIZ, Funimation subs); Portgaz D. Trace (edited dub)",
+  "japaneseName": "ポートガス・Dディー・エース",
+  "origin": "South Blue (Baterilla)",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984031540"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984031540"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3e97"
+  },
+  "affiliations": "Golden Lion Pirates; Rocks Pirates (former); Impel Down (former)",
+  "age": "N/A",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Shiki_Anime.jpg?Expires=1742070432&Signature=kGsdb~hrL1e~lZNqCu-kJOvZNS-wl5sQWcZBXnQPOT41HcMwfLzNXEldz8E~TfOoxGnEataiFVz3NMZAHNxVk4FxiOo1Pk2S~U0~97fRknvsHLECbYd6uRIQFkMYaIR0XdS1cgrpq5Rexix-PakQc2rBsfUS3JaVrfm~P89JltxITf2vqf1OG~fDESVRbdIyzq40x37cPYO0d-XplxjXE6NUYBJ5yrGz6xkdDoyoO2qvQFRExvgAzx38Wmf4G9C7lyqJWDK5p9TZfEpDsXdPljAYeO2EiRCfgf2hqjnbTWR5ZfWGlcWCmkKywshr48xn1A7f7fpV66rdUI00iBOjJg__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "March 20th",
+  "bloodType": "N/A",
+  "bounty": "N/A",
+  "debut": "Chapter 0; Chapter 530 (mentioned); Episode 425; One Piece Film: Strong World",
+  "description": "Shiki the Golden Lion, also known as the \"Flying Pirate\", is the admiral and helmsman of the Golden Lion Pirates. He is also a former member of the Rocks Pirates and the first known prisoner to have ever escaped from Impel Down.",
+  "devilFruitName": "Fuwa Fuwa no Mi",
+  "englishName": "Shiki",
+  "japaneseName": "シキ",
+  "origin": "N/A",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984032221"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984032221"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3e98"
+  },
+  "affiliations": "Kozuki Family; Ninja-Pirate-Mink-Samurai Alliance; Nine Red Scabbards",
+  "age": "36 (born 56 years ago)",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Kin27emon_Anime.jpg?Expires=1742070432&Signature=Ni3ZiUWo0G6gGL82Jop93xD8XbILj~K8dRE-goN~clgkJdzAcjgDteZXFq6J7dpYOg~6aiWvtXIysv7jgWeOOwpjgh2mVpqqFPh97ApJMeR~hiyTDKAEqfw-XavVyDnj7S046Li~eRuEUxMV4SPLR0WJgW62l-owqpY~DPoly2FMbpHhAr1I~8Zdpuv9O5CXmetLp06qHm12nYxyUXIwgt8P9CW5BMtHKrFse8hG3wb~SKTNg0U9hZ-uypa2MdaY1HAB6qgoUgj-j2oHoQPm0pyiUUqKoGzsxTL21wuI4LGtjybgXMlk7l1vy7HUBz-kj6a~23z1MW05VHcUn1L8HQ__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "January 29th",
+  "bloodType": "X",
+  "bounty": "N/A",
+  "debut": "Chapter 656; Episode 580",
+  "description": "\"Foxfire Kin'emon\" is a samurai from the region of Kuri in Wano Country, a retainer of the Kozuki Family, the leader of the Nine Red Scabbards, the husband of Tsurujo, and a former thug. He was born 56 years before the present day, but traveled 20 years forward in time when he was 36 years old.",
+  "devilFruitName": "Fuku Fuku no Mi",
+  "englishName": "Kin'emon",
+  "japaneseName": "錦えもん",
+  "origin": "Grand Line (Wano Country)",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984032882"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984032882"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3e99"
+  },
+  "affiliations": "Germa Kingdom; NEO MADS; Fire Tank Pirates (former); Donquixote Pirates (former); Marines and World Government (former); MADS (former)",
+  "age": "55",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Caesar_Clown_Anime.jpg?Expires=1742070433&Signature=OnF2HdwAanzll2aendMxMDz29HlridN-vFbYX0G8M4cti5UfWwPGgQ1Bvm4Lx3Cu8Ul87lYuh9XTqDFxP4O3Ejl~KAB1Shy7CEFku4Aynk0j5t7kZxoZlunJ3-9DKk4eqKeHBtxB4ArTR-N13q8Hn97X6V9YfM9DahAweodkMoI-f3VTZdWxOgVXcSVcpkW~MVRVFTkPL7IzbvmiNneRCqwAfkaYcMUa63L2eQetwmBQWIUSKhuPyn1avvA7vysPwSFD7xsb4v5FPBoC0U3KCJIhhbJ-X7yhoABVRjhGxlEwEMPJM452pJGq3jr4zX25uj9sPQoqVS3b2DLOJzcHrA__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "April 9th",
+  "bloodType": "X",
+  "bounty": "300,000,000",
+  "debut": "Chapter 658; Episode 581",
+  "description": "Caesar Clown, who was referred to as \"Master\" by his subordinates, is a scientist, the leading expert on chemical weapons of mass destruction, and one of the co-founders of NEO MADS.",
+  "devilFruitName": "Gasu Gasu no Mi",
+  "englishName": "Caesar Clown",
+  "japaneseName": "シーザー・クラウン",
+  "origin": "Grand Line",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984033547"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984033547"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3e9a"
+  },
+  "affiliations": "Riku Family; Donquixote Pirates(defected)",
+  "age": "29",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Viola_Anime.jpg?Expires=1742070434&Signature=BI5DNKZdDDYksvHf5EM3FKIxCgoW-1GgvwS9XMd4jEREC6zGIU1r4GNueZ1L0rT6JQRBJjmCXVMb-9kT6-TUtLPtbVC4AyVD4s51ARImumzasILEY2OcICMFeYUGTJa4Qv~D7qyl3MXLam1E552bXGo~HV4t-9ffBQNZiXALunmDZFCgYkHnGwkSDBQsIkd8wmm1BKtrlrA9g5acSd1jYQBE~jKvwC-QocapRWkxg4nYQkOICuJazdz7zabhAAEKEV4TDKU3wiaOxQhLVOzgL2yNQlO3PwRYU3CFN8SS-HPqvV1Afq7lDU~4ncWlZuP1cqB0XcHhGCASOQDtUfQXXg__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "April 30th",
+  "bloodType": "X",
+  "bounty": "N/A",
+  "debut": "Chapter 703; Episode 632",
+  "description": "Viola is the second daughter of the Riku Family and the current crown princess of Dressrosa after her niece Rebecca abdicated her position. She is the younger sister of the late Scarlett.",
+  "devilFruitName": "Giro Giro no Mi",
+  "englishName": "Viola",
+  "japaneseName": "ヴィオラ",
+  "origin": "Grand Line (Dressrosa)",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984034235"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984034235"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3e9b"
+  },
+  "affiliations": "Blackbeard Pirates; Impel Down (former)",
+  "age": "36 (debut) 38 (after timeskip)",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Vasco_Shot_Anime_Post_Timeskip.jpg?Expires=1742070434&Signature=ERCtB6XQLiw2kD0DDgpU5Y5gq7lQWJwlcLspbSQz4OEjyqBu5JcLfimNQI3mDtNzZ5OLhq9AeRepfcXSXGOIm~SMG~cwgK13Uas38NJ9p~qnaGn3QEvD8gRPfu0Ks8tEayuvjompBQ61NQPcYBDpJ8wJJ3oVP0-RqIAk2niADqD7mVe2-tfcx~NEqTA54vM6HBl74XvHMl-83c-3mR4DA8joWa4RfFiNZ-dYYBYB2IX10LGjCaoPLNQUh3~OLdWmTpyOClnqC~P1jVJKu4DnZqtH40TS-MdkpFrpxm6mxxsoGZ0zixQzCxGkTAXjqYDK3QqWQqLc-WC8pq8KBtpUEA__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "August 5th",
+  "bloodType": "X",
+  "bounty": "Unknown",
+  "debut": "Chapter 575; Episode 484",
+  "description": "Vasco Shot, monikered \"Heavy Drinker\", is one of the Ten Titanic Captains of the Blackbeard Pirates, as the captain of the Eighth Ship. He was originally one of several legendary criminals given a life sentence on Impel Down's Level 6, before being freed by Blackbeard and joining him.",
+  "devilFruitName": "Gabu Gabu no Mi",
+  "englishName": "Vasco Shot",
+  "japaneseName": "バスコ・ショット",
+  "origin": "South Blue",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984034898"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984034898"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3e9c"
+  },
+  "affiliations": "Straw Hat Pirates; Straw Hat Grand Fleet; Four Emperors; Dadan Family (former); Baratie (temporary, former); Impel Down (former); Ninja-Pirate-Mink-Samurai Alliance (disbanded)",
+  "age": "7 (debut); 17 (pre-timeskip); 19 (after timeskip)",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Monkey_D._Luffy_Anime_Post_Timeskip.jpg?Expires=1742070435&Signature=WpR8C~BPChZaogthlIOwj29a862av4z-A9zG647dGIMYlBx8fy~WI5naf6vf0jitRnMAssJDStHqW1WydVEyrsvPbCS4cTQQwCO~7V3QD2mM~cUo2i9gVJUp2-mPkjCi4b~I7F8Y8UrStYmcCj9dlH3CZmmSH7gNVDI0TtcsMkjQ7GZBBhNqo3uzr5NwA3MtSLMS3irq6zE~PlHVzz4S~0UuGeuVckd16XkUZRBPhkIrQWU5baMwTYs0ae~vqhRjNGfFJwIfn0avPaJWwhoFkA4QhNxuufAka6hwIw9ATlVC9hZ9q7it8Yiza7Y5LPc2pEC6VQEmLNrWCHEQEAtp3Q__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "May 5th (Children's Day)",
+  "bloodType": "F",
+  "bounty": "3,000,000,000 1,500,000,000 500,000,000 400,000,000 300,000,000 100,000,000 30,000,000",
+  "debut": "Chapter 1; Episode 1",
+  "description": "Monkey D. Luffy, commonly known as \"Straw Hat Luffy\" or simply \"Straw Hat\", is the founder, captain, and strongest combatant of the increasingly infamous and powerful Straw Hat Pirates. He fearlessly pursues the legendary treasure of the late Gol D. Roger in order to become the new Pirate King, and reach a further, untold dream (currently known to only his crew and closest friends). He believes that being the Pirate King means having the most freedom in the world.",
+  "devilFruitName": "Gomu Gomu no Mi (Hito Hito no Mi, Model: Nika)",
+  "englishName": "Monkey D. Luffy",
+  "japaneseName": "モンキー・Dディー・ルフィ",
+  "origin": "East Blue (Goa Kingdom)",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984035561"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984035561"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3e9d"
+  },
+  "affiliations": "Straw Hat Pirates; Straw Hat Grand Fleet; Baroque Works (defected); Foxy Pirates (filler, temporary); Ohara Archaeologists (former); Revolutionary Army (former, temporarily); Ninja-Pirate-Mink-Samurai Alliance (disbanded)",
+  "age": "28 (debut) 30 (after timeskip)",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Nico_Robin_Anime_Post_Timeskip.jpg?Expires=1742070436&Signature=T18bKlWTHzQumTKL2f-1TZI3MrnqMdBf5SiIidzDY9wHGWeP47LHywRSWqrtE3dqkns~JVuELMn8ZLg6r28ZxjdogiYMZvA5F6IJMbNLOqqDH~xPaKy~E1VVQ1mb6QT1Kbbu7RZ4-uUT2mhH7vnLUqLgnS6uSjeRfoNOYKmPg~mRJa570VRU4kM4QxUbGsN1jWk6xXD4EqHlg-NEiph~l2AnkSlN9rq0TZT7GGxaMyB4rfYFAdLS5WE-jFGUK5LWCVTKvgbnfPB6PPGsjmIW~NzNmmnFdM-FBLFfEsarCyACa~eEdDjUOQ0qZX18LXKQzCJvQAd1dwH9pLPFvPUSXQ__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "February 6th",
+  "bloodType": "S",
+  "bounty": "930,000,000 130,000,000 80,000,000 79,000,000",
+  "debut": "Chapter 114; Episode 67",
+  "description": "Nico Robin, also known by her epithet \"Devil Child\" and the \"Light of the Revolution\", is the archaeologist of the Straw Hat Pirates and one of the Senior Officers of the Straw Hat Grand Fleet. She is the seventh member of the crew and the sixth to join, doing so at the end of the Arabasta Arc. She temporarily left the crew during the Water 7 Arc but rejoined during the Enies Lobby Arc.",
+  "devilFruitName": "Hana Hana no Mi",
+  "englishName": "Nico Robin",
+  "japaneseName": "ニコ・ロビン",
+  "origin": "West Blue",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984036911"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984036911"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3e9e"
+  },
+  "affiliations": "Tontatta Kingdom",
+  "age": "25",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Mansherry_Anime.jpg?Expires=1742070437&Signature=Cm36VU5b1H3tSxBrnEtT0CnE2MPG9Zrz0YLg40h6Tumfubm~Kidj2AXvQa6Zq9jMWPJBCs7jY8iVzPumGNgdD1CQuzNqVRM6NHMsDYSTKqxwLOarzV-YDtSTZzrqo7A4r2p7tty0znHPUYBc8IRoaeNRbd-N2uTtR4k-EsB3ZInN~uF3uRSiqPelZ0uGm3rr-yxd8jRkVsJ-Q9VIqb~NIr3tN9wuU97P8ZFOVecZFgXUZcFBYhAEU4qwB11j1lAQ3z09rLS88uVhEViw0iY2sjvObugcbWKP-LoCPaFX2HksJvMYuMrVurDJthu9C8I2OzvcZNMqEkIEPCcHBTK8Ow__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "January 28th",
+  "bloodType": "X",
+  "bounty": "N/A",
+  "debut": "Chapter 717; Episode 647",
+  "description": "Mansherry is a dwarf and the princess of the Tontatta Kingdom. She is the daughter of Gancho, the king of the Tontatta Kingdom.",
+  "devilFruitName": "Chiyu Chiyu no Mi",
+  "englishName": "Mancherie; Mansherry",
+  "japaneseName": "マンシェリー",
+  "origin": "Grand Line (Green Bit)",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984037578"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984037578"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3e9f"
+  },
+  "affiliations": "Charlotte Family; Big Mom Pirates",
+  "age": "48",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Charlotte_Oven_Anime.jpg?Expires=1742070438&Signature=JnS6-FLpmZahHkXBJ23ld36R1r2tUKK777SvjDV2Lim30Nl7vsEzu-LwIwNS0Rj~yrvOhIfiaFYf9G6777NYMmNJ8FRW2rHIP9MDf1E5XI9bUNpSaLj0Wq7y55XY5pcPdWGHx3pCtv08IA1PJRF4Lpt9GGF-g9-aCAkPWgbtqgqbIEbeTYUvzWGAQalantkxfKiU-njRTAzSVmtkfYOtfi9HDOURZsZrB9dQfl4~LKvgA1pF3lrdQs9O-yQOyp9KY9iUKw9ivx~~brwxbUSLZrMEhZSeqWH4FONh8DX6TjPVNe8jyIqetc064kwG0mMAqHo-~YHgcv3gGDmhI0UOzA__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "November 25th",
+  "bloodType": "F",
+  "bounty": "300,000,000",
+  "debut": "Chapter 861; Episode 827",
+  "description": "Charlotte Oven is the fourth son and fifth child of the Charlotte Family and the younger triplet brother of Katakuri and Daifuku. He is also an officer of the Big Mom Pirates and serves as Totto Land's Minister of Browned Food (こんがり大臣, Kongari Daijin?, Viz: \"Minister of Baking\"), governing over Yakigashi Island.",
+  "devilFruitName": "Netsu Netsu no Mi",
+  "englishName": "Charlotte Oven",
+  "japaneseName": "シャーロット・オーブン",
+  "origin": "Grand Line (On a boat)",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984038307"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984038307"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3ea0"
+  },
+  "affiliations": "Kuja (Kuja Pirates)",
+  "age": "28 (debut) 30 (after timeskip)",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Boa_Sandersonia_Anime.jpg?Expires=1742070438&Signature=e92GavhdZys0qh9~qPzXzqJd5q9c5Wrh0JdhwtgRYiZQ9fTndh3kUIDqmuSbOOw7APwNrv1y7wJWkqo7QIHB5w9lyhMa9kc3lg9eJGBO2cpNoYoVJLKxZCstUKdkRLmrdpMVEAd~9nogLwd5zDY9xJlw4DEH-xHdjuA47CBCe9dIVGxqpSnznGj0NHx5PYFAdG00cVIbPp-UL2qS-82fC1~q1IV2o-rQxY9afCJKqJ2wJ3X0l8rIACMTVEHGH0YvV5SqNTFh3QhuEzDvQ-ldMMpOQJPzmOwdySp7pnoGYZXK3UeS-s6d6hYhAPVWDcMUkOuWqnCtVz3GljoMa-DxPw__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "September 3rd",
+  "bloodType": "S",
+  "bounty": "40,000,000",
+  "debut": "Chapter 516; Episode 409",
+  "description": "Boa Sandersonia is the younger sister of Boa Hancock, the ruler of Amazon Lily. She is also one of the second-in commands of the Kuja Pirates and the older sister of Boa Marigold. She and her sisters are referred to by the Kuja as the Gorgon Sisters.",
+  "devilFruitName": "Hebi Hebi no Mi, Model: Anaconda",
+  "englishName": "Boa Sandersonia",
+  "japaneseName": "ボア・サンダーソニア",
+  "origin": "Calm Belt (Amazon Lily)",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984038977"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984038977"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3ea1"
+  },
+  "affiliations": "Kuja (Kuja Pirates)",
+  "age": "26 (debut) 28 (after timeskip)",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Boa_Marigold_Anime.jpg?Expires=1742070439&Signature=KuyW2bGI2rgO0S0Q4AQhMxwOpVhuJBif20G0zz3yfiSwREJB~I3zcFvj~FINIx1VxWq9rQfG5eJXiofP7yIR3BgSBGfGiktb2jln~rgTF3YIyhRIRymAUq-vD~tmUAFh5ugwGANuhUOJ5nX~ihzAyg3xFOseiAvCjct5-ccxyrzGQzuPPzY2xMm6gikdiFGsmv86VrH2ZjSHpmm556wSovbqeZmIIzKLoSGPALuwBeNtzDjLGZEDbluWdk8KonVdmR4N1Z-~0xnu~WIFb26kgvfAZoL4wOecEHTkW13X68OwTaSaeO63PLrdTL0IRWYrnYPXrliFFyjDHkZ9yQEUGQ__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "September 5th",
+  "bloodType": "S",
+  "bounty": "40,000,000",
+  "debut": "Chapter 516; Episode 409",
+  "description": "Boa Marigold is the younger sister of Boa Hancock, the ruler of Amazon Lily. She is also one of the second-in commands of the Kuja Pirates and the younger sister of Boa Sandersonia. She and her sisters are referred to by the Kuja as the Gorgon Sisters.",
+  "devilFruitName": "Hebi Hebi no Mi, Model: King Cobra",
+  "englishName": "Boa Marigold",
+  "japaneseName": "ボア・マリーゴールド",
+  "origin": "Calm Belt (Amazon Lily)",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984039639"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984039639"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3ea2"
+  },
+  "affiliations": "Wano Country (Kurozumi Family); Beasts Pirates (former)",
+  "age": "N/A",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Kurozumi_Orochi_Anime.jpg?Expires=1742070440&Signature=HOTXUuNNqKLjvrQ5YNkvX5rpMAABjMipvojF9eyNURAhgT7PS7YxZe8Jllx~oxcifz1naSAXe8OcbayW3puqVeXQ9cJCYqtsKjSiIqAnwIc2hUi6tBz3UI0RaD4p7pvF6FsikdgnURE-BQzJ0OmuPqiV14JN-3TXji48KiqPGMbI9SUAc39q~NwD5e1CNa~XQFMAYTXaXzDfXg3oVhy0KE6xt4Zlkn2bYBBKfzoHalWdzDFeShfiAQ~AOX5olavdhyGvwMkaabhfGOWQ0taERrvhg3PrF2YsX4Yvn3O0r-RBlBeIOfuAvzxAumztcR915Tngr7mrVE~IRbCQ4B2l3w__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "September 23rd",
+  "bloodType": "XF",
+  "bounty": "N/A",
+  "debut": "Chapter 927; Episode 921",
+  "description": "Kurozumi Orochi was the former shogun of Wano Country and one of the last members of the Kurozumi Family.",
+  "devilFruitName": "Hebi Hebi no Mi, Model: Yamata no Orochi",
+  "englishName": "Kurozumi Orochi",
+  "japaneseName": "黒炭オロチ",
+  "origin": "Grand Line (Wano Country)",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984040320"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984040320"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3ea3"
+  },
+  "affiliations": "Marines (semi-retired)",
+  "age": "77 (debut) 79 (after timeskip)",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Sengoku_Anime_Post_Timeskip.jpg?Expires=1742070440&Signature=DmLniA6oyySC0831im9UhvYD~Gb9e3OITR8ApzYmeX9sTZelyLo8fVLVbi5gi-jfrihBfB-y9sEr203U07cD6gQyR-4TLQA1UIvqGLygebz8JFwGMpeRRWhvEyg4ty6tTVjLq-WS9dVWpaqpHYkhXxQ~1-u2pL17cByhKzIHtml~AECZmPOCb~ilm4A7gjCF17jzU1p1eKsjSSsOLZr26PDJT01IvOEG7YOSf54BXBBMH8-JGYd5T0N9yVkiXBofh-j5SaaaBAqfZfcptCZkNCiZ8U5M~XA~RT02E2IJ1M4IP-LN2et-Kqo8cv78T49z58DP-i8VCTRBIezRzaU97A__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "May 9th",
+  "bloodType": "F",
+  "bounty": "N/A",
+  "debut": "Chapter 234; Episode 151",
+  "description": "Sengoku the Buddha is a former Fleet Admiral of the Marines, succeeding Kong and preceding Sakazuki. He retired from his leadership position after the Summit War of Marineford, but remained in the Marines as an Inspector General.",
+  "devilFruitName": "Hito Hito no Mi, Model: Daibutsu",
+  "englishName": "Sengoku",
+  "japaneseName": "センゴク",
+  "origin": "South Blue",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984041003"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984041003"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3ea4"
+  },
+  "affiliations": "Shimotsuki Family (Shimotsuki Ushimaru); Kozuki Family (Kawamatsu)",
+  "age": "69",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Onimaru_Anime.jpg?Expires=1742070441&Signature=LWpUUKcTw4bGGCqYgZTCmAWmAr5avOwOEfBvkdJ~emD9-TRVi9PSEfeNf-54N3rJoyR9fPVE5rdxC2fPPA3UoA4fsDZi3GZYqcctcSEKGAI~EhWtksaqczgTE8MnjBNw7hUEkIpSNHcD9g-AAmgVAQP0GDjO816OOn6HxPePoSpg~VcN6iOauqNKgw0YOonr3SXPbjBRz1fQsOewZyQvRDpIhP9tD06zy94~MqgF~QhI3RIDwZmzXiltvq0O7bPHSBPMnTZlleQTc~vq51LCNSwWGY51L3e2spIsWGRX3r1W3xzRghot4E8WR-S3bzCOogOJQU3txsKGsWRfvaq9jg__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "November 19th",
+  "bloodType": "X",
+  "bounty": "N/A",
+  "debut": "Chapter 936; Episode 932",
+  "description": "Onimaru is a komagitsune who was once the companion of the late daimyo of Ringo, Shimotsuki Ushimaru.",
+  "devilFruitName": "Hito Hito no Mi, Model: Onyudo",
+  "englishName": "Onimaru",
+  "japaneseName": "オニ丸",
+  "origin": "N/A",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984041670"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984041670"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3ea5"
+  },
+  "affiliations": "Donquixote Pirates",
+  "age": "22 (Physically 10)",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Sugar_Anime.jpg?Expires=1742070442&Signature=ii~eBIn07Rrttb-D-YWoFHaoLTaJMwQ5C4DEPkF~PVp4jbxJh-fBXD1OQOr2UoUh7V6XnQ9H57lJ1xtR78agmJhCv4z90st7Yy0HOR6bvs0ILPbOnuK~vdYSDu7K5b0t1Ooc6R-PAY1WXBUtIbTHWyQej55ADmnocwRGm0a9UBiMxyxzozQ8z8EPzDS1gMNH~DouOWPsHZlwMa8ELlGLDgRXEZi~-xet7M3gYKMRI4eS7dpmF3qNUGHEIUc4XSFaFdzzF-W7bllUFu81wL3F9iRTAEIhCyegdH8qxcDbHnGLVTWGfzRXMopkqhHztyLtNtlcIB7DBbg0EXHUmfqhwg__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "October 22nd",
+  "bloodType": "XF",
+  "bounty": "N/A",
+  "debut": "Chapter 682; Episode 608",
+  "description": "Sugar is a special officer of the Donquixote Pirates' Trebol Army. She was one of the most integral components of Doflamingo's plan in keeping Dressrosa in line, as any dissenters were turned into toys by her Hobi Hobi no Mi powers. She is also the younger sister of Monet. Due to her actions and role, she is a supporting antagonist during the Dressrosa Arc.",
+  "devilFruitName": "Hobi Hobi no Mi",
+  "englishName": "Sugar",
+  "japaneseName": "シュガー",
+  "origin": "North Blue",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984042352"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984042352"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3ea6"
+  },
+  "affiliations": "Dracule Mihawk; Thriller Bark Pirates (Mysterious Four)",
+  "age": "23 (debut) 25 (after timeskip)",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Perona_Anime_Post_Timeskip.jpg?Expires=1742070443&Signature=JhplNFQcn8M~U8NHSyGHKXMKO4grM-otc6otq7gJ8tyAnVdeJQanL3RlgERsZqWIcBr7p0iFXvdZJCHE1-q~m8frCpFFyO7cFh5qEvQ-j6Ig87i7FbhNaWh4mWDHHBJjY00u8niuJXUarTsCkBp4hDvQhlrlaEiIrdUNclXQnNQ0fD5JZBjNKFZmnBSlx8bbWcHoCq6z616WyuO5tMox-i6a2l9-dMDmSSeeNuhBSAyZMCJT21YTq0G~SFZv8c0BqbXAgux9zJrRfCIgp7imTmApx77tGVVnCwjNs~Jm-K8GiN3Nd~he4IwJv0c1aSqefjYS0V0Ssr-xRurUbMpX0w__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "June 7th",
+  "bloodType": "XF",
+  "bounty": "N/A",
+  "debut": "Chapter 443; Episode 338",
+  "description": "\"Ghost Princess\" Perona is the former commander of the Wild Zombies and Surprise Zombies of Thriller Bark prior to its collapse. She was one of the Mysterious Four and one of the major antagonists of the Thriller Bark Saga.",
+  "devilFruitName": "Horo Horo no Mi",
+  "englishName": "Perona",
+  "japaneseName": "ペローナ",
+  "origin": "West Blue",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984043084"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984043084"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3ea7"
+  },
+  "affiliations": "Revolutionary Army; Freedom Fighters (former); Kamabakka Kingdom; Newkama Land (former)",
+  "age": "51 (debut) 53 (after timeskip)",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Emporio_Ivankov_Anime.jpg?Expires=1742070443&Signature=UgR9MbxGw6sowi3T-RLxjTBQvCLTQnzT8ZbZOsMH58Av-~54qlMaml4feNMsgex~jouTs4bgB~3KPlKoV58menAV0C-HuFhrk38vhpSZEIW~XjT-3nvxAYQJtG4lFiUp8oYO0P8v4mICRYMv1TQxh4LrMYoaa8HriJegWSxGRxMFRCjlrbrZm1rGLMIae~AafGjfUz5vQQgI2UMUsqJ2sjkWQ5HPTglsUML2~uNkNhfxfzP5zPgFhVOt1DSreYUN5W7Axu7v3R2FYgx-wefZDFko2fOPs3IKy9c-NgjBZcbR5b92v23aDBb34CTBdmu-Z7KjIQTB6eGqIDWoBuhVxw__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "January 8th",
+  "bloodType": "XF",
+  "bounty": "At least 100,000,000",
+  "debut": "Chapter 537; Episode 438",
+  "description": "He was formerly a prisoner of Impel Down, where he was kept in Level 5, but lived in the secret \"Okama Paradise\" in Level 5.5. After escaping Impel Down and participating in the Summit War of Marineford, he returned to his post as Queen of Kamabakka Kingdom.",
+  "devilFruitName": "Horu Horu no Mi",
+  "englishName": "Emporio Ivankov",
+  "japaneseName": "エンポリオ・イワンコフ",
+  "origin": "Grand Line (Kamabakka Kingdom)",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984043748"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984043748"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3ea8"
+  },
+  "affiliations": "Gan Fall",
+  "age": "N/A",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Pierre_Anime.jpg?Expires=1742070444&Signature=fInG6qYCnHsO-RUwo9CrfhLQszUCWySSRrszGZc-3RrfHKGGUBbMxib0L9g164zXPT4SVx~4p~TeZsB~lnTgiISxzkNiXyklF-v4si9py~xHsfc9isZx6dVk~VmWmaoJUFda1e2xG9yNomOkYrGLi7GxgdcZjK5JH9MhM1ETQJABraTtHjPyYSZkbx0Lw73Fv8NIvb7YbjCbue1rLZZnxbXx26ZmZhZDuyIgQj4v8YZvJWCx5NGXMHg01FUKkNAnHHSsEZvwwL0q0wNpwG26dLTWj19q94YmRx0LqezIuwM2s5laZgzHB4EZuc5jTe19LB3Z8ebiMfpuSJnO0sL88w__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "October 8th",
+  "bloodType": "N/A",
+  "bounty": "N/A",
+  "debut": "Chapter 237; Episode 153",
+  "description": "Pierre is a Sky Dot Bird belonging to Gan Fall.",
+  "devilFruitName": "Uma Uma no Mi",
+  "englishName": "Pierre",
+  "japaneseName": "ピエール",
+  "origin": "N/A",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984044410"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984044410"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3ea9"
+  },
+  "affiliations": "Straw Hat Pirates; Straw Hat Grand Fleet; Foxy Pirates (former, temporary); Ninja-Pirate-Mink-Samurai Alliance (disbanded)",
+  "age": "15 (debut) 17 (after timeskip)",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Tony_Tony_Chopper_Anime_Post_Timeskip.jpg?Expires=1742070445&Signature=C2LwPNPbRPPjA9rZ1eUuzC~0LlxUtXw9TNBG4tJObJQywdQQa9uo861yikHza~G~Rijw-xCbHhF1Eoe5~qsSMoDnSkaQS05PzybdVkuiww9W7~x3W0wvJWAP7PNO8Qple93Qk7Y9RFlIt4KRWjzKTeGfp7Ko6GYcmHpxKpDlmTNbHT5euJYs0BPOt6fzYL~P-1QCqIo-0JWWVhqNjW2y24DsKeiK7RF7gSI6DNRRxbe2lJ2GCuK1J1aUMKauZVjeg3jNRZJfSsC2NQVIULBOWbyRfNNOxNzBYxEQrd59XCbHgJOMgcPLuCRwRN0nxKqxlfmteUwdhybKkxweSNsRNQ__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "December 24th",
+  "bloodType": "X",
+  "bounty": "1,000 100 50",
+  "debut": "Chapter 134; Episode 81",
+  "description": "Tony Tony Chopper, also known as \"Cotton Candy Lover\" Chopper, is the doctor of the Straw Hat Pirates and one of the Senior Officers of the Straw Hat Grand Fleet. He is the sixth member of the crew and the fifth to join, doing so at the end of the Drum Island Arc. He was temporarily forced to join the Foxy Pirates during the Long Ring Long Land Arc, but was quickly returned to Luffy's crew.",
+  "devilFruitName": "Hito Hito no Mi",
+  "englishName": "Tony Tony Chopper",
+  "japaneseName": "トニートニー・チョッパー",
+  "origin": "Grand Line (Drum Island)",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984045759"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984045759"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3eaa"
+  },
+  "affiliations": "Blackbeard Pirates; Marines (resigned)",
+  "age": "47 (debut) 49 (after timeskip)",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Kuzan_Anime_Post_Timeskip.jpg?Expires=1742070446&Signature=Q8KN1G305tIEkPNYy6mHPb81pFLax1FUrsztbJ7KHOLyeX5PH02zOzB8Yny7CtrCsr2qSdpvM0YDEWg8tGhuylqDHCtKKo9WwfbppiP2jNvh8EIJRnfl6gIrweV8gyX2Stzn4td9ueyN4WGbsOcTuC-40Zj4K2QJwJ1J8zaVCbjgDj7WOjokfFdShjh00LaDnmdMtyhJj6tIdIB8hqTTS07RoCRKHxqBnmz1TgTl8~uMz1r~AP0aOQB3u-bcwe2NM~Cd5pnMHJXh9wBkEOCSH-Ixv4GDY8mETAPserGevE7URVZVGJddvouPsEy9FtTGqqphHTZuK7LjpU5E53HZWg__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "September 21st",
+  "bloodType": "F",
+  "bounty": "N/A",
+  "debut": "Chapter 303; Episode 225",
+  "description": "Kuzan, better known by his former alias Aokiji, is one of the Ten Titanic Captains of the Blackbeard Pirates, as the captain of the Tenth Ship. Before joining Blackbeard's crew, he served as a Marine Admiral, having been taught by Monkey D. Garp. He was nominated by Sengoku for the position of Fleet Admiral; however, after fighting Sakazuki for the position and losing, Kuzan resigned from the Marines.",
+  "devilFruitName": "Hie Hie no Mi",
+  "englishName": "Kuzan",
+  "japaneseName": "クザン",
+  "origin": "South Blue",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984046441"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984046441"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3eab"
+  },
+  "affiliations": "New Spiders Cafe; Baroque Works (former)",
+  "age": "N/A",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Lassoo_Anime.jpg?Expires=1742070447&Signature=S17Q8Xsslb5oKzqkOVFWgP7Xj7IyfohRjefSQAu-HZpNXCjqKIHq2ahxQk5AXxXTvz58WI716QopbnLww9jZqxvtt~Pks033A5j4VpQCtRebfb-ygC-5rGZHTdu5nIaQbTwhBpMxTZhBk3Jox~wqcpfCzm1w66QvfzMUi26kcgHFYVc49p-s6BQ5qXmuQu2V-TrR1MD2Fo~89mLwY-w9nnlpVSWjaKkj4BxewRzEUeYW96GuC76qq1vOPjjoWoiY1EH4Xc0bayYwSE9gI~E2RcoONyEFGkQcUwxHGf5-UW8ckqxSE2o9hNlIkBNMXWakUe9Y~i8Df9IFr~gQX6QcPA__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "January 4th",
+  "bloodType": "N/A",
+  "bounty": "N/A",
+  "debut": "Chapter 160; Episode 103",
+  "description": "Lassoo is Mr. 4's gun that consumed a Devil Fruit through some unknown method which allows it to become a living dog. He is classified as a Type D creature, \"Small Savage\".",
+  "devilFruitName": "Inu Inu no Mi, Model: Dachshund",
+  "englishName": "Lassoo",
+  "japaneseName": "ラッスー",
+  "origin": "N/A",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984047800"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984047800"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3eac"
+  },
+  "affiliations": "Arabasta Kingdom",
+  "age": "39 (debut) 41 (after timeskip)",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Chaka_Anime.jpg?Expires=1742070448&Signature=g0pcRNDAH8qJaQIUt9VLfr-1CMr0tdJ3Yq6MWBix9Zm8~DNNld-liW0kKaizNRi~Tum3tPlQdYtVxoqNxhZduWruBkQMsBVvaeP6cXXVBcoTUKeu5NjbK1S8Cj08HmynP6fH~jrnwKm3xxP5IsbucKv0FIk9HvvF6yV0MKosRr81PA3OlbUsTytMoBNBbkUNYtlgkrQnyP-iYDAoxt487WZtJwYD7kBLA6tYg~x-IlMCqRLtDH3Pw7RgGK0~i75bSwW82TQJkzFT2v062-pe56G95HExaje5T8YCRMMwIIvlodvFHbXcmHg7uxVni1t2aiAg3ZXJbhWudnyYFsZ6AQ__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "April 26th",
+  "bloodType": "S",
+  "bounty": "N/A",
+  "debut": "Chapter 155; Episode 91",
+  "description": "Chaka the Jackal is one of two head guards in the Arabasta kingdom who serves under Igaram, alongside Pell. Chaka was the acting captain of the royal guard in Igaram's absence.",
+  "devilFruitName": "Inu Inu no Mi, Model: Jackal",
+  "englishName": "Chaka",
+  "japaneseName": "チャカ",
+  "origin": "Grand Line (Arabasta Kingdom)",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984048463"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984048463"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3ead"
+  },
+  "affiliations": "Blackbeard Pirates; Impel Down (former)",
+  "age": "34 (debut) 36 (after timeskip)",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Catarina_Devon_Anime_Post_Timeskip.jpg?Expires=1742070449&Signature=mm-ojr~Z2qKeYTFN1sVEXL1Ccw33PGMeOd7Yxffh4RmNZGP1ylYADRgIN2UEf2p-ZTWPs1HTwmES~~2TTaag10EXAgqRhsqKI45RxR7hqgdSG3sywjwK9XXzWuoEV3-3upv6mA3b0LNKtZI1ZT4Fz7mEDj~LMqOFzobsFEokh~Ejd8ANPbHNLj514JkP1xUGAATYPCbTg94-vPO4YPtik23ChmgHf7DjZERITxn~bDEHG8kBsUwlq-gbHhgS1-xvVPvBbJ03zVUXwoFHNr~6bDisW3c6V33Brwhe21kRMSJ0XI5bGVEuuEs5zO0nvJayhdq6VOO46w3LDFzlF0M5jw__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "March 29th",
+  "bloodType": "F",
+  "bounty": "Unknown",
+  "debut": "Chapter 575; Episode 484",
+  "description": "Catarina Devon, known as the \"Crescent Moon Hunter\", was the most dangerous female pirate ever to be imprisoned in Impel Down within the entire age of pirates. She was freed by Marshall D. Teach and recruited to the Blackbeard Pirates, where she joined the Ten Titanic Captains as captain of the sixth ship.",
+  "devilFruitName": "Inu Inu no Mi, Model: Kyubi no Kitsune",
+  "englishName": "Catarina Devon; Catalina Devon (Chapter 538)*",
+  "japaneseName": "カタリーナ・デボン",
+  "origin": "South Blue",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984049140"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984049140"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3eae"
+  },
+  "affiliations": "Ninja-Pirate-Mink-Samurai Alliance (disbanded); Beasts Pirates (defected)",
+  "age": "28",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Yamato_Anime.jpg?Expires=1742070449&Signature=cVie-GVTKvtlF45IiwKU2uxR1PTvpWKCFDzVNXtE1ihO-6k6~HSQHwmSDwEdQhnGpvNs1DsSaU2Fu~X8Ju2lsI9UydMQ3IYoZ56hEag2eLVHczStm4Yrf5HYYeHhbS8CZyO84pjDhvXhF3YrtM719S0Iyx97es8WbE~soewixH61z4NChTB7ztKluZGXIlp3gwvSJKV7B6kNdU-4TVUB0ueirhaIdhjfGqp0GFVF66SZzXSQwvAIytQAr0359ofQcHUEsHESr4IKn5lJvxfylrYN0MHaoc-cqPPbY3WKMPRFGQFx3uUHM8VGIwli5W~Cp-venf6sH307oOIaUPYiZg__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "November 3rd",
+  "bloodType": "F",
+  "bounty": "N/A",
+  "debut": "Chapter 971; Episode 972",
+  "description": "Yamato is the son of Kaidou. Born as Kaidou's daughter and groomed from a young age to be his heir, Yamato instead developed a profound admiration for the legendary samurai Kozuki Oden. After Oden's death, Yamato decided to become like him, impersonating him and adopting his mannerisms. As a result of this desire to emulate Oden, Yamato decided to become a man and identify as Kaidou's son, with his father and the Beasts Pirates referring to him as such as well.",
+  "devilFruitName": "Inu Inu no Mi, Model: Okuchi no Makami",
+  "englishName": "Yamato",
+  "japaneseName": "ヤマト",
+  "origin": "N/A",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984049802"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984049802"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3eaf"
+  },
+  "affiliations": "N/A",
+  "age": "N/A",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Bunbuku_Anime.jpg?Expires=1742070450&Signature=kqt2wHc~pSS3y5OG5BIcvn4ZPZlSYnyQxybsaWMl4HQuUsduDraf04dcbckKvxrKTjzsJQ1Bp7Y4jQJSLkOfCs31zBEKk6BcxLLqdlNutDYUF3o9RiBZFT0d3vaovy98FaPOiKsHXk502Ap2Eebl9yUDv9vHbC7JUN3O~Wzs7S336HFqCPBzl33XbVxLnbtG07BSnsFfWyZmkRaWnUfMGJiqKw-kITUT-wSZI~6W0Br~OloIfV71lzi8mCyYoktSl1iLfZE2h0YDmI2lW9BoOXHedlzLIf8Wa5Ogj2sQmcuUPmOlpfFLA8GR5jzu4Gn5OyQG3GO5l4I8My6DB-hOig__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "N/A",
+  "bloodType": "N/A",
+  "bounty": "N/A",
+  "debut": "Chapter 911, Episode 894",
+  "description": "Bunbuku is a teapot owned by Tenguyama Hitetsu that was given life by \"eating\" the Inu Inu no Mi, Model: Tanuki.",
+  "devilFruitName": "Inu Inu no Mi, Model: Tanuki",
+  "englishName": "Bunbuku",
+  "japaneseName": "ぶんぶく君",
+  "origin": "N/A",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984050477"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984050477"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3eb0"
+  },
+  "affiliations": "CP0; CP9 (former)",
+  "age": "35 (debut) 37 (after timeskip)",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Jabra_Manga_Post_Timeskip.jpg?Expires=1742070451&Signature=WyiMxCAVyK7GJjZoXeXPzk9go2SBx052Mrm6HL8dGN4XkjnZJ5QCMJqbzXTnWfKvaxTvnRsi9Gr1K0jRNwJm1cInjDWmIrFMBM~2RUM0wDeRKWFb1p6FX8EGdMUbi8tux-wsIMruLP~9cWR4WZRdeeueFwHGo7~d-FiLjGq1B3hMC7ohhLe5n~CIP4Vq-kA4HFDwDGgk05~WIKORx9C5tUZakQDOl4n4kCfHHeSD9LYJHBpTqZS78TAzZ016ih-Od4xRVE4wFM30K7KIIzVI8J3Sni0VlE3W-3-bT-gnobEr5qDMWzpX3T1IqKgvziPfcydce3nfRmQl5isBoeypRQ__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "June 5th",
+  "bloodType": "S",
+  "bounty": "N/A",
+  "debut": "Chapter 375; Episode 264",
+  "description": "Jabra is an agent of CP0. He was previously an agent of CP9, being the third strongest of this organization.",
+  "devilFruitName": "Inu Inu no Mi, Model: Wolf",
+  "englishName": "Jabra",
+  "japaneseName": "ジャブラ",
+  "origin": "North Blue",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984051155"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984051155"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3eb1"
+  },
+  "affiliations": "Blackbeard Pirates; Impel Down (former)",
+  "age": "40 (debut) 42 (after timeskip)",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Avalo_Pizarro_Anime_Post_Timeskip.jpg?Expires=1742070451&Signature=efUeql-bCuciPgn7n-WTWSORMdXy8xQ~pOEimq05XIlwHwTNAiYKZdg4qIEIj~HPC14MskLDBoWDmvurBUFUKiHmgbzdg8eVy1XSr1HolP7~ZJD2T~oocUKuXv5rw0xhkUCEf~uMwsBntRDRbmFSdbtAccxGgqVlBQ1TaQg~poxDpwJeKz6u2usv9HAXLGuXzHY2IuOvHVxqsfQZkAslxi4nhKBljXidzavOmUWojCr6eJ9rPl~gbtX6BSoA-Zyefnb486Day6isc1JhFQKvkKCDAePvMah-4bFF-9HmSrCyHqzcu9zR8jIojNY3xSKeGsAtqLggJ22Ni0IRusus3Q__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "September 30th",
+  "bloodType": "X",
+  "bounty": "Unknown",
+  "debut": "Chapter 575; Episode 484",
+  "description": "Avalo Pizarro, also known as the \"Corrupt King\", was one of the criminals who was given a life sentence in Level 6 of Impel Down, as his crimes were so atrocious, he had to effectively be erased from history. Prior to his life of crime, he was once a king of a North Blue kingdom that overthrew him for his despotic ways. He has since been freed by Marshall D. Teach and has become a member of the Blackbeard Pirates.",
+  "devilFruitName": "Shima Shima no Mi",
+  "englishName": "Avalo Pizarro",
+  "japaneseName": "アバロ・ピサロ",
+  "origin": "North Blue",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984051824"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984051824"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3eb2"
+  },
+  "affiliations": "Mogaro Kingdom",
+  "age": "36",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Kelly_Funk_Anime.jpg?Expires=1742070452&Signature=ZjZqV7-r3SQAIdjPn6gZi7kg-xqOUnDG4rHlXUkkaKWamZhKOEw-HcUYzz2aHXQPlAzbsdMtxLmjRNv~dOsswI3H4Esgz5dmIRMTKTvEdt4~CrFHaz1q64uVul1y1b2gsH8jgl8FYGr5Hk8KIzEblAcDLBWFqVnnn5fSuPbENGX7k0VjwtNIzkzfwjzQAre5XN1WipBbTdof1rqGnYgxyaurO7CYR4Q9txE0jubrFwrum3q16i92XA6dAJ-s3uGNyuhVK0U2OWHvNPpdn56Ac2z4HlYrHP5q6r1I7uaxwsTUNAKFnnepOGAulCslSs7J~GG~3h19zQfK8pGJuk7lAg__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "December 9th",
+  "bloodType": "X",
+  "bounty": "57,000,000",
+  "debut": "Chapter 704; Episode 633",
+  "description": "Kelly Funk is an assassin from the Mogaro Kingdom and Bobby Funk's older brother. He joined as a gladiator at the Corrida Colosseum to compete for the Mera Mera no Mi.",
+  "devilFruitName": "Jake Jake no Mi",
+  "englishName": "Kelly Funk",
+  "japaneseName": "ケリー・ファンク",
+  "origin": "Grand Line (Mogaro Kingdom)",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984052489"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984052489"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3eb3"
+  },
+  "affiliations": "New Spiders Cafe; Baroque Works (former)",
+  "age": "22 (debut) 24 (after timeskip)",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Mikita_Anime.jpg?Expires=1742070453&Signature=FfHZLAhOM1afSKQ4JKtxTRoL0PULcZWSY3XoxxGMPp45HekaSCUg8Hu0wVP9xzPr3PCoYjwhuQ3CVCvXwxreIV-hPtfSZpaBAuzoEm3CM8ukuc8l3dUTi7HuOdmCwXcWA3vsO86BBAcKarW0xPOD7e7lSsdCmZfEmmDLLZu7SnutGFH2L~iqLlRG1~yoP44x3joH4cht2Sct4UCV1rs9eUSRve17JLrxjoT5thfJVKJId3FC5uMJrx733mgjI95gXJyyMhkmkHIKujBx7~OodyPzoi~-fHVG33kGzMC~bX5oG9g79qnez3rAz25omN4lU9aGpWbUMXu~~mGRym52ng__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "February 14th",
+  "bloodType": "XF",
+  "bounty": "7,500,000",
+  "debut": "Chapter 110; Episode 65",
+  "description": "\"Courier\" Mikita, more commonly known by her alias Miss Valentine, is a former officer agent who was partnered with Mr. 5. As of now, she is currently working as a chocolate lady alongside most of the other Baroque Works members at the new Spiders Cafe.",
+  "devilFruitName": "Kiro Kiro no Mi",
+  "englishName": "Mikita",
+  "japaneseName": "ミキータ",
+  "origin": "West Blue",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984053196"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984053196"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3eb4"
+  },
+  "affiliations": "Beasts Pirates (Tobiroppo)",
+  "age": "29",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Black_Maria_Anime.jpg?Expires=1742070453&Signature=FY8gUTIjcwpEbOZ1NkxD2l5jK4vI4ruoX0jlnRG~aUTfH-GEB9tTNfmUXl6rE0tQav7syNHdH~rLYGaGOeqmkccDumBtIdiHCmbLmBY3~hcFMhNeuJLQj9YhS8zOdNn89i2-N9XRH4VzZodtM~JsUM0T7gxLnoXSimLq1eV0y3hBLxVyG4qFNhtCPAMJYzEy9fDMNi0hXsSz5U0qVhDZX2Red-sQ-AuMCR4xBqeB54gVZLMUYKCQ0Gb5BmIWvMsSGSdGRX4LxQ0oZCPFWQj-Co-4013MAWE1ZZS1NAN3awaqVUcLZ5c1HOeCm3dpGYN9ygnLf0EoXwPgC7VBKsQ0Iw__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "September 24th",
+  "bloodType": "S",
+  "bounty": "480,000,000",
+  "debut": "Chapter 977; Episode 982",
+  "description": "Black Maria is one of the Tobiroppo, the strongest six Shinuchi of the Beasts Pirates. She owns her own brothel on Onigashima near Kaidou's castle.",
+  "devilFruitName": "Kumo Kumo no Mi, Model: Rosamygale Grauvogeli",
+  "englishName": "Black Maria",
+  "japaneseName": "ブラックマリア",
+  "origin": "Wano Country",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984053861"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984053861"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3eb5"
+  },
+  "affiliations": "Charlotte Family; Big Mom Pirates",
+  "age": "50",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Charlotte_Perospero_Anime.jpg?Expires=1742070454&Signature=DF-d1r04KvLO5OQIPsbiGCL7x7zDbuxjRTaR1FxdMZS3RaeGVMLVokmdXF16KhBOA4tRj1VAsoBPLRo4JCtQppIe43Thv3ro14HrZUZOFb4c4UDzMRgQ5Xke32upxzXTv6EfGnMtBzShZzYWfRRJMmTRO5e662HZ5dmRg4QjzF5jqGp1sggAF-v8j~ZUOj-957y1WolZXoFh0TMSu1RFKvoS1zawKbU4u-biO2C2IIub9YmpbAar-ryLbC4CVFmMHLbLNskF817uFsoFBdGeP0qZjOBVOxdggSHo~H~3mrY8B9yb9ViY9RjPkVd5vtSSug2nGYDNjtFDpsSr57oTIg__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "March 14th",
+  "bloodType": "X",
+  "bounty": "700,000,000",
+  "debut": "Chapter 834; Episode 795",
+  "description": "Charlotte Perospero is the eldest child of the Charlotte Family and an officer of the Big Mom Pirates. He also serves as Totto Land's Minister of Candy (キャンディ大臣, Kyandi Daijin?), governing over Candy Island.",
+  "devilFruitName": "Pero Pero no Mi",
+  "englishName": "Charlotte Perospero (Viz); Charlotte Perosperaw (WT100)",
+  "japaneseName": "シャーロット・ペロスペロー",
+  "origin": "Grand Line (At a random port)",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984054524"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984054524"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3eb6"
+  },
+  "affiliations": "Marines",
+  "age": "53 (debut); 55 (after timeskip)",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Sakazuki_Anime_Post_Timeskip.jpg?Expires=1742070456&Signature=jB2u4-oNfFsEvL1NgCsw323gFJLijpMrWGsUCFxrboOgj1IFfg5AFdV~Xzv5M2jJTzMRYL3a0L7VKoy0k~JYmf8NxmvnL0gOCLOkUSWd9dOWuBnxClrF~4jTnQWZ9NE~CP~yxUW-kRkwEzXsY5AsEDM13BYVUa7SyZVq-HyfofE8krmwB4mhBKzJpMkxOgdDH7IFyjbrnF007qfw6N4Qj1MhKvGZwwvEIowcF16ZqPTijX4fyLARqwQqjevUa22L2iy-alDEnMJjFzWq31lQwIqecEGYLI8mEu37PQp0gKerJxe6wZOXHv085jvYtxi87BUCH2~nL9K5rlOKLojFmQ__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "August 16th",
+  "bloodType": "F",
+  "bounty": "N/A",
+  "debut": "Chapter 397; Episode 278",
+  "description": "Sakazuki, formerly known by his Admiral alias Akainu, is the current Fleet Admiral of the Marines, succeeding the previous Fleet Admiral, Sengoku. During the first half of the series, he was one of the three Admirals, and was the last one out of the three to debut. Upon becoming the Fleet Admiral, one of Sakazuki's first decisions was to relocate Marine Headquarters into the New World in preparation for the New Pirate Age.",
+  "devilFruitName": "Magu Magu no Mi",
+  "englishName": "Sakazuki",
+  "japaneseName": "サカズキ",
+  "origin": "North Blue",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984056568"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984056568"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3eb7"
+  },
+  "affiliations": "Kid Pirates Ninja-Pirate-Mink-Samurai Alliance",
+  "age": "21 (debut) 23 (after timeskip)",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Eustass_Kid_Anime_Post_Timeskip.jpg?Expires=1742070457&Signature=onSxOYk7yCaiMo8cuPGFrdqtXJs4-~sTQ3rvJ4UUNvydhc6B3Dd9q7~rnvmpcS7K~McQcOaZLBqxf4pKQnSPpgWZKze446Z6R0s891Gyx8IvToMlrrP4fOYOW46jXA2zua2~oo0nJOByhAIrZ3qhlU96~6WuWwtIKsweAnQB~yjbiX9FEnXmXzLi0K8tkTY2xtGWXqBhwRUn9l-EKkVWQe7D2k7vcE7h1Kym2jh0G5IVaRRZ~G826AXVKZiQJ5CK0mpAqnnoZ9F5Cnx-4KM6-9aefJBTCVpHTafcV5MaPz85xdWWL-Dk0gfugN4PkBOYUAP7VSp1fDMX~ZtlaK9ZvA__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "January 10th",
+  "bloodType": "F",
+  "bounty": "3,000,000,000 470,000,000 315,000,000",
+  "debut": "Chapter 498; Episode 392",
+  "description": "Eustass \"Captain\" Kid is a notorious pirate from the South Blue and the captain of the Kid Pirates. He is one of twelve pirates who are referred to as the \"Worst Generation\".",
+  "devilFruitName": "Jiki Jiki no Mi",
+  "englishName": "Eustass Kid",
+  "japaneseName": "ユースタス・キッド",
+  "origin": "South Blue",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984057271"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984057271"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3eb8"
+  },
+  "affiliations": "Flying Pirates; Ally of the New Fish-Man Pirates (former)",
+  "age": "35",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Vander_Decken_IX_Anime.jpg?Expires=1742070457&Signature=XQoI-5sV7HDS8Qc8Sj5QLX0~snYWIW8V8INZK17TIdW~ZF-ptJLSE0fVf1oMejhL1u2ltIGCQOLFbz7SHuv~Dy-dEemHc6FubOL1MK35oX1IsX1E4JUSP~DNGl4chmd1ytc-S4blZVRvyM3uYyhj1gJHEuux2gKzjStlpAAadGkHgcaBf~ykUms6kp9osq5Le5e2QfmtEsp9JPqTBLrJZKE9Z0yju5rDWBQBNEZWyab~RMHJCeT8KdsBODyIaOCsva4LBAoo8l5HDXOLFqMiaoaAqs-exiNNLGwkEHdV5qAZpX1hD6mH3XL0FyPxbxPrILVfgCAkRbDfnTWRJcB63w__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "August 22nd",
+  "bloodType": "XF",
+  "bounty": "Unknown",
+  "debut": "Chapter 606; Episode 525",
+  "description": "Vander Decken IX is the captain of the Flying Pirates on their ship, the Flying Dutchman, and the eighth descendant of the original Vander Decken of legend. He is a Japanese bullhead shark fish-man and the secondary antagonist of the Fish-Man Island Arc.",
+  "devilFruitName": "Mato Mato no Mi",
+  "englishName": "Vander Decken IX",
+  "japaneseName": "バンダー・デッケン九世",
+  "origin": "Grand Line (Ryugu Kingdom;Fish-Man Island)",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984057943"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984057943"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3eb9"
+  },
+  "affiliations": "Charlotte Family; Big Mom Pirates",
+  "age": "16",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Charlotte_Pudding_Anime.jpg?Expires=1742070458&Signature=PcDlLht4wulpQxi-4Dv5H1miqyOgtFeyLBhSDShThIKlHYrSnNMOu~1JJHumEWbRgnzOLw5njPuQ0LqYoe5sLRBUhUBYNQfEZEyIcSP5pQVQr9a~PoZxIN6y0Kp-y5I7hFMLonehRu5mzAgJl5IIAJExkcrlfvb-M50xcWDoRTpzKl1fvI4edKdzQ3bGIOE9w4HMumV9fYk2CBosqaq7P72D3CCDzjU-DIndC5f6cS4tF4Y-hyMPExodJv9msQ9kqdlcmFnqZoQjOL~DqQWUzcfonCsKdbuc0Yjyp6RnKSDY1rnEIkt~jRZMBoiFpSSfhrzeiRlHjYQ42eOMYfZT9A__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "June 25th",
+  "bloodType": "XF",
+  "bounty": "N/A",
+  "debut": "Chapter 651; Episode 571",
+  "description": "Charlotte Pudding is the 35th daughter and the 76th child of the Charlotte Family, an officer of the Big Mom Pirates, and a hybrid between a human and a member of the Three-Eye Tribe. She also works as a chocolatier and the owner of cafe \"Caramel\" on Cacao Island, as the candidate for the vacant position of Minister of Chocolate (チョコレート大臣, Chokorēto Daijin?). She was once Sanji's arranged fiancée, per the political agreement between their families. She is currently held captive by the Blackbeard Pirates.",
+  "devilFruitName": "Memo Memo no Mi",
+  "englishName": "Charlotte Pudding",
+  "japaneseName": "シャーロット・プリン",
+  "origin": "Grand Line (Totto Land)",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984058616"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984058616"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3eba"
+  },
+  "affiliations": "Charlotte Family; Big Mom Pirates",
+  "age": "48",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Charlotte_Katakuri_Anime.jpg?Expires=1742070460&Signature=DpIy-wxz4Er6aflSE-R2iwk8dPd6gIUikF4aM~Ai0TNIpf~mJ-MGSV0al5MP~9~JMvS1Oot~ScQaOvgbYWd4sLlEq0p93AHj4O~JrAhgCn0wh58HLV33QuqaoD5skhIR4ceDAVVGTxwAUjiaxrh2~clXGiyNNdbiM0wg34vzvULY10-YcqV4K~pOpVlHwqk-BBYJIYXBq-WE6dyFA38nZvQNo55gtc1z4pMJkSufQnsnGkcuNc~z1Sky4K3QoxPNsLSwe3unfO0YmzfcMAUNnVYm7cyZ3kLzMjrv4SwJ3JqNW6XlviE9USIDhj8JdPk21eZysrs4wlN8Gb6OEt~YQg__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "November 25th",
+  "bloodType": "XF",
+  "bounty": "1,057,000,000",
+  "debut": "Chapter 860; Episode 825",
+  "description": "Charlotte Katakuri is the second son and third child of the Charlotte Family and the elder triplet brother of Daifuku and Oven. He is also one of the Three Sweet Commanders of the Big Mom Pirates and serves as Totto Land's Minister of Flour (粉大臣, Kona Daijin?), governing over Komugi Island.",
+  "devilFruitName": "Mochi Mochi no Mi",
+  "englishName": "Charlotte Katakuri",
+  "japaneseName": "シャーロット・カタクリ",
+  "origin": "Grand Line (On a boat)",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984060651"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984060651"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3ebb"
+  },
+  "affiliations": "New Spiders Cafe; Baroque Works (former)",
+  "age": "49 (debut) 51 (after timeskip)",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Drophy_Anime.jpg?Expires=1742070461&Signature=J57qz9hrqoHPWGXZGuFNXk2l3nN~Jl2YECx91aVCFKO4LM6MmvZdZhPHX8D7hABnxWW2pUaIJoO8L9j4MDhp5PUErep8VjkiNEaF-JmrYc8Q-foXH5aRoUGQx09cJo236MTZgZSiwOnSpp8GBHqsPHIu0w2FZV3kMwB71Xb9q6F4ecSn9I~8B38LeD~NDn3s374yLLy0rXprrku~TeAJ5M0SgxlcuS0DjT7DcoAqwTSAuRNxjhsYznqFZws2O-Lh4HhCEzL27HPsw5M47szDnp13zIty2wfjOKyLD2j2m5sKVIiNSsqHsMGGtEgIOA36FAq4a~NRnD4RDgN8PP3muQ__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "December 25th",
+  "bloodType": "S",
+  "bounty": "14,000,000",
+  "debut": "Chapter 160; Episode 103",
+  "description": "\"Town-Collapser\" Drophy, better known by her alias Miss Merry Christmas, is a former officer agent partnered with Mr. 4.",
+  "devilFruitName": "Mogu Mogu no Mi",
+  "englishName": "Drophy",
+  "japaneseName": "ドロフィー",
+  "origin": "Grand Line",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984061336"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984061336"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3ebc"
+  },
+  "affiliations": "Evil Black Drum Kingdom; Drum Kingdom (former); Bliking Pirates (disbanded)",
+  "age": "27 (debut) 29 (after timeskip)",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Wapol_Anime_Post_Timeskip.jpg?Expires=1742070461&Signature=mwRa99kmcasvsGYOtlUZ4bBkcBWrwFHZE~j7Raako8de8OUwHaJtd9TQGDNZn9AsIKdNTqhpE02sI5KDH-fozsZI83F7gjdRC3rRgWmUhDIQD44EXNZgTp-bQCf5nwvoi3IGh92EBN0Lv0DarqTbdGsq-9zRXiAulD0EWNZlzJRf2kxeNLUpynUManhe2fLTS1wBfUWjF-IWPvSa8DnKpovZ3M55rNQppkvfFWp5i6h9J9wbmPfYwK88dox0bVcJwMcBibqZ0dpYRe6F~~LrM6JK3W0KNxKOn~lqbNM2~QBawI2BVkFQV446IB07i0AOkQN6RrEihnKJgrjG~d5ckA__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "August 9th",
+  "bloodType": "X",
+  "bounty": "N/A",
+  "debut": "Chapter 131; Episode 79",
+  "description": "\"Tin-Plate\" Wapol is the former monarch of the Drum Kingdom. He became a pirate after fleeing from his country when Blackbeard and his crew attacked Drum Island. After his defeat by the Straw Hat Pirates, he became the head of his own toy enterprise and married Kinderella. Two years later, he was given his own kingdom by the World Nobles and now reigns as the king of the Black Drum Kingdom. After witnessing Nefertari Cobra being assassinated by Imu and the Five Elders at the latest Levely, Wapol became a fugitive when he fled and took refuge with Morgans in his news balloon along with Vivi.",
+  "devilFruitName": "Baku Baku no Mi",
+  "englishName": "Wapol",
+  "japaneseName": "ワポル",
+  "origin": "Grand Line (Drum Kingdom)",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984062007"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984062007"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3ebd"
+  },
+  "affiliations": "Tontatta Kingdom; Tontatta Pirates; Straw Hat Grand Fleet",
+  "age": "N/A",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Kabu_Anime.jpg?Expires=1742070462&Signature=iVXT7UyVSe2y9WsqRMu4RZoxOfl84HKjn0aY8JodQ8NlbGIJ7IdAo3dC909GnAViLUMGUe5GYdOqrpWg9sQi6XWbwjVZ~KDPT7VMUtFaPDMNtMu14BIn7dqj5A4M9wkMlD9n1M68QmgXvujGmY~0nOC-WWDxbowKAOxw3rmdVQWCw9HkVYFJCkSxySrMpju3w4cf35LT3y2PJ8WHzZ1W5I3lj0p1NSydr7Mm49Rg-B8FUggKAlulak4HXg3dfcIL2n47EUwCtHOQh5m54dXPTEP4YY4QNrdUYyXopIQrrzwlpEDkwc3qEPjXBlstrgKjdkUIxz9Ae1a6Qdyh2lA4Rw__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "July 1st",
+  "bloodType": "N/A",
+  "bounty": "N/A",
+  "debut": "Chapter 710; Episode 640",
+  "description": "Kabu is a dwarf from Tontatta Kingdom who is the leader of the Yellow Kabu Squad and a member of the Tontatta Pirates.",
+  "devilFruitName": "Mushi Mushi no Mi, Model: Kabutomushi",
+  "englishName": "Cub; Kabu (FUNimation (Ep 640-648))",
+  "japaneseName": "カブ",
+  "origin": "N/A",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984062672"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984062672"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3ebe"
+  },
+  "affiliations": "Tontatta Kingdom; Tontatta Pirates; Straw Hat Grand Fleet",
+  "age": "N/A",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Bian_Anime.jpg?Expires=1742070463&Signature=BTgRATtlrSgawCQKG9vhSmv6-MchEfbH21yLEzFWUyIHzgYk2HMQouZGMnOCUOokmFge4g~6ykjSM5ULTtn3Mz1J4A2eQoBloLvlB8NzIpyOwb2kCAXGKbdCOA-tHWmRlcqhNAmDY3lI4ChmN0Y5Ctqll9BE6zbg4ro1Eu17W1KjTvCs13eWg8MzO80f-TNmjIBO0tXtscyKb24ScIPGDNZmB5m3-3Zb6C0a9KVZI2YssuVX8O90wqSyWgQESPYJ9uR1LpLcCtE-i6ax-6Ld3hdrb6ogXtmkFKNng7RjNfg6F0S6hAscAq95n0V6rO6p2XoS4iLmWmHVNy5TD1ue2g__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "N/A",
+  "bloodType": "N/A",
+  "bounty": "N/A",
+  "debut": "Chapter 717; Episode 647",
+  "description": "Bian is a dwarf from Tontatta Kingdom who serves as the leader of the Pink Bee Squad and a member of the Tontatta Pirates.",
+  "devilFruitName": "Mushi Mushi no Mi, Model: Suzumebachi",
+  "englishName": "Bian",
+  "japaneseName": "ビアン",
+  "origin": "N/A",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984063363"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984063363"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3ebf"
+  },
+  "affiliations": "CP0; CP9 (former); Galley-La Company (former)",
+  "age": "28 (debut) 30 (after timeskip)",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Rob_Lucci_Anime_Post_Timeskip.jpg?Expires=1742070464&Signature=fg46u52jPD~LoZThVXm~5SgwLAU~OR0fxVe7oUzLa5b5IniHmbPhojey5aGtnr-c563cZ8oyGh7CdyX5TKSqrFmANKJcIKfR7~sjHoFvZKrCiXB8vCqRtE9cMl9Bkx8LEsIv2HtIqIJYhVF5CGM-PtlUqJ--XbhWq15-ru0ZBkaJYb3vrbL2Mmopsm3CVOfA8pmBD3yMMkX08DZf3s6aM4JSBHKZFGiF9rLlcqrxB1ZFYzkOufVDOn6pV5suy3ti5lIO~N97l0KKnOq5nEayBO1rGRYJJHTQfCKIjIQNJqBW1nHcuvqxKHuj2MOvUV7imzl-USmtUMbX~CTlJxJqMw__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "June 2nd",
+  "bloodType": "XF",
+  "bounty": "N/A",
+  "debut": "Chapter 323; Episode 230",
+  "description": "Rob Lucci, also known as \"Massacre Weapon\", is a Cipher Pol agent of the World Government and a masked agent of CP0.",
+  "devilFruitName": "Neko Neko no Mi, Model: Leopard",
+  "englishName": "Rob Lucci",
+  "japaneseName": "ロブ・ルッチ",
+  "origin": "Grand Line",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984064817"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984064817"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3ec0"
+  },
+  "affiliations": "Beasts Pirates (Tobiroppo); Who's-Who Pirates (former); CP9 (former);",
+  "age": "38",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Who27s-Who_Anime.jpg?Expires=1742070465&Signature=IKiSX5SzwsQKPKDbhDWvZYL2iC4W8dKM0PjtiTgisS530TUaHV1iHkNldmUvJBd1TzpBHD9lrZNr-uU6W0nDZkiTkjPwlCAPrh5~5Y-unFgYO~OkX-p0tPT6hk1HOlRhYj389D~j-pfAedvCNHU2C~j8wxCqQgxjQ1IFvYYMIPvVuiRJ8NJsUs2Fpj6F2B8Y2a5JT8kEdWcbBo1SbpgMy8sGJFaD6NQch0hbd1KyzItBYDBGatLX3lYkbkfIehaVCDv7ZHO2OLLnMf6sofEDaCaFN-5M4KNAreqtWg-JXEqYJFt4DXSVrVNIdR3aRp2olDsNbd7briUxgJ3zdxS-ig__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "March 15th",
+  "bloodType": "F",
+  "bounty": "546,000,000",
+  "debut": "Chapter 977; Episode 954 (silhouette); Episode 982 (actual)",
+  "description": "Who's-Who, also known as Who of the Droplets, is one of the Tobiroppo, the strongest six Shinuchi of the Beasts Pirates.",
+  "devilFruitName": "Neko Neko no Mi, Model: Saber Tiger",
+  "englishName": "Who's-Who",
+  "japaneseName": "フーズ・フー",
+  "origin": "North Blue",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984065502"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984065502"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3ec1"
+  },
+  "affiliations": "Heart Pirates; Ninja-Pirate-Mink-Samurai Alliance (disbanded); Seven Warlords of the Sea (revoked); Donquixote Pirates (defected)",
+  "age": "24 (debut) 26 (after timeskip)",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Trafalgar_D._Water_Law_Anime_Post_Timeskip.jpg?Expires=1742070466&Signature=CsBcxfHqsdCDD2DtjeSPOAVpD0yQLMyUC2YteU8kdhz8YYqBbEC3AfUHeum-CmFn~0sk0jrltDj0q4iVxVcYxyqp-Ewn~qKZagbOoumErJyFXRKGnRn8WagzfYDuSZmH6vCwJch1oB7XIgS5TQv8J9xxaEPvgOOZ85SXH3tmRLbyNQcCkj58IM0fAftQePskz-LQYv~B2Zikv6d09zEoMq4fh6~Ed1TRUNkmv98m9yvxQiRRSb5vWcNuo1KgG3hXWUBTlqep0F-poL1NY-VSZTiu-PDZX0Zn8v0NKMs2H0HMZVh7Wx8uQSbhVqafly-vv9pIpTbhfsrOVYEz1FvETg__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "October 6th",
+  "bloodType": "F",
+  "bounty": "3,000,000,000 500,000,000 440,000,000 200,000,000",
+  "debut": "Chapter 498; Episode 392",
+  "description": "Trafalgar D. Water Law, more commonly known as just Trafalgar Law (トラファルガー・ロー, Torafarugā Rō?) and by his epithet as the \"Surgeon of Death\", is a pirate from the North Blue and the captain and doctor of the Heart Pirates. He is one of twelve pirates who are referred to as the \"Worst Generation\". He became one of the Seven Warlords of the Sea during the timeskip, but his position was revoked for allying with the Straw Hat Pirates. Law, like many other pirates, dreams of finding the One Piece, while also desiring to know the purpose of the Will of D.",
+  "devilFruitName": "Ope Ope no Mi",
+  "englishName": "Trafalgar D. Water Law",
+  "japaneseName": "トラファルガー・Dディー・ワーテル・ロー",
+  "origin": "North Blue",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984066202"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984066202"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3ec2"
+  },
+  "affiliations": "Marines",
+  "age": "56 (debut) 58 (after timeskip)",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Borsalino_Anime.jpg?Expires=1742070468&Signature=okDXI0FefzUZDst1uzdHCjZW6nDx~V8sdGGdsq--b5ekK-LRxRwhBKNsdj2mvAFkkV0jFmoEtBXiDHfVhSgVvVeuC1spq3imEKcLd~6ADwaQ0vwDglmvLNCzrow5s6usXCoM4Q1xH4QatEQGL1QrJGb35HsgmKGZxT7kSxX9a2HGdw5PaF1ye7b4i9u-ts~IKSZaweOywSd1Tr97ygUinWNV0iiYAouho2b2yj76BYs6Y8v8~yJe3QxMol0ABpaY-eYtfza988cu7XAeF82pz-5ZRID3YHWWkIO6VtY9w4JWv8s1j9~rcHCCHsUvXvWhyRzR05-kllO18yOkAiRArg__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "November 23rd",
+  "bloodType": "XF",
+  "bounty": " (3,000,000,000)",
+  "debut": "Chapter 504; Episode 398",
+  "description": "Borsalino, more commonly known by his alias Kizaru, is an Admiral in the Marines. After Kuzan resigned from the Marines and Sakazuki was promoted to Fleet Admiral, Kizaru is now the only remaining Admiral from the previous trio.",
+  "devilFruitName": "Pika Pika no Mi",
+  "englishName": "Borsalino",
+  "japaneseName": "ボルサリーノ",
+  "origin": "North Blue",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984068213"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984068213"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3ec3"
+  },
+  "affiliations": "Whitebeard Pirates",
+  "age": "N/A",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Blamenco_Anime.jpg?Expires=1742070469&Signature=XP6xq9M~A7YpHdhAw9GmhUIxDVF2pSdxGVUHVfH9rRYsKQdGchwpiZ8HOwdD2LstnS4~~mUT84Om5~fQpDw5aOfWixbZ9ksjHLlc9Kd0R5VHVfzUfjMpsit3Afc5kjllUr2oiXYFv5C~nmAxWL~TigGKBeEutYKCwLV2QlomycvUEADwnRUpxEwduWAC23YwPDfrcxLb~N~MYhhyaYCsQQotINPN-saxE26g6TyAKVfgPwFYq5amo4piibeXNRTgZsC8jBS2IHGFLNg8xz9ea~umoJ7FiFvTkZtM3Il-~lOa-3hohn~SxK34jMdUk-XfdgLc~Pv4EvxAcZq2Ws9lZA__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "February 5th",
+  "bloodType": "N/A",
+  "bounty": "N/A",
+  "debut": "Chapter 553; Episode 461",
+  "description": "Blamenco is the former 6th division commander of the Whitebeard Pirates.",
+  "devilFruitName": "Poke Poke no Mi",
+  "englishName": "Blamenco",
+  "japaneseName": "ブラメンコ",
+  "origin": "South Blue",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984069540"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984069540"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3ec4"
+  },
+  "affiliations": "Donquixote Pirates",
+  "age": "33",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Gladius_Anime.jpg?Expires=1742070470&Signature=H58bzGzcBo5KwY9eYXYBajBGeFLsgiK5aKmAPBcW2miKxhjcGcIUO-BjT6gnAaZCcd8u7UVQtKfiFdbhVBNwxCxDyptrd3LTB3HWvL92UQ6n3TYOQWqyN04c6lsgPjWDFKuGtRNgeAEY3av-3yXghWRgZsX15TFJYtZo5jJA6juOni9F52QVj0eD2T7NLfo0V5LFYh6LG35q4lStSqz43gYSgYgeOdFhSC3lvKGRSWipu15wr3mwk0PtmANyFdoOHUuPKG9oe52SuZF9YPsTYlAtBtaVlpMrR61QEpMZ9oTVBKSuDH-KTg5IrcL9Us4KyE2Jt-TffZu-aU8vkbpZgQ__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "August 6th",
+  "bloodType": "XF",
+  "bounty": "31,000,000",
+  "debut": "Chapter 682; Episode 608",
+  "description": "Gladius is an officer of the Donquixote Pirates' Pica Army.",
+  "devilFruitName": "Pamu Pamu no Mi",
+  "englishName": "Gladius",
+  "japaneseName": "グラディウス",
+  "origin": "North Blue",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984070243"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984070243"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3ec5"
+  },
+  "affiliations": "Marines",
+  "age": "54",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Issho_Anime.jpg?Expires=1742070470&Signature=mf7B17udJmVlAPRnbJKbgpQScEcgfAFJ~nDBogJYdv0MAdGOGnePSdHyL7XDnIGoT31jVQa90JH4N~s7TcWQ--rf3IDjANd879MYbqsDfd-W3FLmFa34eBqql0t40s-g-Q7st7sCCYy9aF2nAr0Lb0FLk1BUj2-z-2-DNcmp3bBdqXy4Xn0~pRMIE-UhD75bw7zgRTX9jA-Y84EEiNwy-FuijIYCO6SP0gIrpSkLRJaRwKga-snoKIvW2VJxYEggN66Htmn2T77REXKDvql6B7Eos-1~bVUmh3N3l~ZeSmC2VnLDZlDP1yYR~kDBILtJr1wDkTOOWD75-OIFDTMUPA__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "August 10th",
+  "bloodType": "S",
+  "bounty": " (3,000,000,000)",
+  "debut": "Chapter 701; Episode 630",
+  "description": "Issho, better known by his alias Fujitora, is an Admiral in the Marines. He was conscripted through a World Military Draft during the two-year timeskip, being appointed to his rank to fill one of the Admiral vacancies caused by Kuzan's resignation and Sakazuki's promotion. A proponent of \"Humane Justice\", Fujitora notably spearheaded a campaign for the abolishment of the \"Seven Warlords of the Sea\" system, which came to pass during the most recent Levely.",
+  "devilFruitName": "Zushi Zushi no Mi",
+  "englishName": "Issho",
+  "japaneseName": "イッショウ",
+  "origin": "Grand Line",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984070919"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984070919"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3ec6"
+  },
+  "affiliations": "Charlotte Family; Big Mom Pirates",
+  "age": "48",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Charlotte_Daifuku_Anime.jpg?Expires=1742070471&Signature=NCWqTZjRLqCzblWehFkPo2Sine~s2jgHWegSPURHDA3cHf7-LAmXEnR1MXO9y3O-oLSnyroM3Tb7OhGI3YkIV2EvnuBWz8Hc4NhfOGMW~IBumnlWMIPLuhWWALTy~31Pzmgv8E10~2w14dIQuSZhkTeJu4190LAB4RR5zsZqDpoBmUYYLxbNHSD1ef3TMTHmTidaRj0F31aAH3rAZGQHs~q2vrJi6zvNAZV2Rg1n~~jSWnaI692RnjF2a6ElagW2XYa40GBgNuWUyc38H3lmxORJpXbduyTNdTFMVTNhjQJIqbBRx6lJ085OEki4opeCdNWk9on1zSAU88AumhiuVg__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "November 25th",
+  "bloodType": "X",
+  "bounty": "300,000,000",
+  "debut": "Chapter 861; Episode 826",
+  "description": "Charlotte Daifuku is the third son and fourth child of the Charlotte Family and the middle triplet brother of Katakuri and Oven. He is also an officer of the Big Mom Pirates and serves as Totto Land's Minister of Beans (豆大臣, Mame Daijin?), governing over Poripori Island.",
+  "devilFruitName": "Hoya Hoya no Mi",
+  "englishName": "Charlotte Daifuku",
+  "japaneseName": "シャーロット・ダイフク",
+  "origin": "Grand Line (On a boat)",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984071584"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984071584"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3ec7"
+  },
+  "affiliations": "Revolutionary Army (East Army)",
+  "age": "34",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Belo_Betty_Anime.jpg?Expires=1742070472&Signature=lz7VdoglK0eMKin-rVVVzw2kKjvQrv7O3bilZ4LfpVw5FYbgl6q-NlbPO1SjHWswB4SV68tLgpM11W85l3u6EgXxZDju6iXyNa0-6liRG64xUI12-RC7oiP3UDrdobBxHvPsozFfudJhjyLgA5n6eQSqNl6l9JLZq31lq37F73dV5WuggD0Qe3o2KI95wXbEgOj23xdIzl7OKICY7dEil57OS2I1RyAPj2wAV-jLtIfg4bXmvBUnPIOZ~7QI2ssS5-iHXixPmMlJ3PxEaviSOD7qqgrXH-LyGPYqWxIcnIcVS8gfTZl-H9W5c~BQr-ToPS1rFJ63DbMWdtxiVWHWQA__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "June 15th",
+  "bloodType": "XF",
+  "bounty": "457,000,000",
+  "debut": "Chapter 904; Episode 880",
+  "description": "Belo Betty is the current commander of the East Army in the Revolutionary Army following the death of the previous commander, Ginny.",
+  "devilFruitName": "Kobu Kobu no Mi",
+  "englishName": "Belo Betty",
+  "japaneseName": "ベロ・ベティ",
+  "origin": "East Blue",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984072280"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984072280"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3ec8"
+  },
+  "affiliations": "Revolutionary Army (West Army)",
+  "age": "160",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Morley_Anime.jpg?Expires=1742070472&Signature=Uf7SfjRs8CHxn4LbnfQh8A9sEkBD9J~FiPLdynQEkr9jL-k8898mKe2crSssBin-WD5YeXHfBSRkUyCP1XjSHKZYYD7blHsnQ8uCykUVvlc6REDdu9glBZWXZwv4d~WY2zDKaOl8MS1qB6kS7l6crdljbew-PgUXPLrWl52jwMi3Ej79wWMswilmEPhROtpG4zVxhkU4Qg0yrvxpN-ba1t4JeHqzR-Ek0jyDYkLVymmk7iNZjkbagF16YvXcuwFkY8MTBHFl6ko2v~D8GxQCQRXnlFi56ep9RVjabk6cDNjTLZChtPKAau4T6kQF4A272fxTQQtI9ziH00MParStyA__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "September 11th",
+  "bloodType": "F",
+  "bounty": "293,000,000",
+  "debut": "Chapter 904; Episode 880",
+  "description": "Morley of Fur is a giant and a newkama, as well as the commander of the West Army in the Revolutionary Army.",
+  "devilFruitName": "Oshi Oshi no Mi",
+  "englishName": "Morley",
+  "japaneseName": "モーリー",
+  "origin": "West Blue",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984072947"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984072947"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3ec9"
+  },
+  "affiliations": "Straw Hat Pirates; Straw Hat Grand Fleet; Rumbar Pirates (former); Ninja-Pirate-Mink-Samurai Alliance (disbanded)",
+  "age": "38 (first death); 88 (debut); 90 (after timeskip)",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Brook_Anime_Post_Timeskip.jpg?Expires=1742070473&Signature=dE6hiKE5tk-blBOYB2Cbr~ALXYvOhB0mPWfWv-e~9RV9weSwLLa6wNXJ6Ar7GIp~tdtVAkRYQz1G6cubwzO5hqhUkYVWysShWDIc~h~VxraGhPgguMGB5icV4fa7NjJ0Eu3HKcrZzRyNx5VboLaLpBwVhwB~m40nAqyrXF5LF5ZULKM8k5TkYz~6z99~fE-9B53qD1eUxD5nboR39T6TqBfQAFY9nnJFbnft7GXRw8NF40~zF7l~nykv~Hz~HwAaOug2KX-NGXgk4KC~HdeZzrLQjaC6E41NcEE1J7AzuYWI4itmof8r1GJF5qTtxD-aND7MVvZBK8JIM9X5B0yItQ__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "April 3rd",
+  "bloodType": "X",
+  "bounty": "383,000,000 83,000,000 33,000,000",
+  "debut": "Chapter 442; Episode 337",
+  "description": "\"Soul King\" Brook is the musician of the Straw Hat Pirates, one of their two swordsmen, and one of the Senior Officers of the Straw Hat Grand Fleet. He is the ninth member of the crew and the eighth to join, doing so at the end of the Thriller Bark Arc.",
+  "devilFruitName": "Yomi Yomi no Mi",
+  "englishName": "Brook",
+  "japaneseName": "ブルック",
+  "origin": "West Blue",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984073617"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984073617"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3eca"
+  },
+  "affiliations": "Marines",
+  "age": "N/A",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Bluegrass_Manga.jpg?Expires=1742070474&Signature=lsIoW~FrKzXItN7hbWjU9i0lDRHHOprmt4wsB9~2JvTmqHljrkGoLHhSrTd~qM58szwehhEXBf1HjmqLU2MORU0dFcl40hZHZk4cBR~ogn~PAQj83OK9zY5Ab6bbm13-0eVUv4UQvYesza~uRzvn7zpnX5OClHgOQVdJK464FYP0MdW7wP1YzuSz6Ir3tppoGABgFRkE3JKe2jV6kLpbj8lu~vC8cSpmffd-pHgCdWM29y0l8VmIVbWux5kf1beVCjt8YkuaT6BXYSJCKYa21GweB6fvH8e-AeAxkXuwdEFTprtc3~8gjuwxRFMdMTjBBrYggdS60iADf6lxZ5fOZQ__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "N/A",
+  "bloodType": "N/A",
+  "bounty": "N/A",
+  "debut": "Chapter 1089",
+  "description": "Bluegrass is a Marine Vice Admiral and one of the nine that took part in the siege of Egghead.",
+  "devilFruitName": "Nori Nori no Mi",
+  "englishName": "Bluegrass",
+  "japaneseName": "ブルーグラス",
+  "origin": "N/A",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984074289"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984074289"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3ecb"
+  },
+  "affiliations": "Kozuki Family",
+  "age": "49",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Shinobu_Anime.jpg?Expires=1742070474&Signature=LKCIom6u0K9xopwYyit0rNjNkWjsUClzp3NqL~X8KR4qnJYPQd6ScrOl6nC0VkqgJeCkjnUROr4IHt2-zjy4ffQHUvGS7KJr0D4J0EdLcByJnL3dZlYB-M4DOKYd1qZfjSHzxE5poVrrDkHEZbi6QdPgrIkZ-6x13-7lB5zOglmatAsh-Oa4NiO-x4U-fReZ1ehUcmDdf0MC4hf6OH5NF~5C~03yXHvGOssq4VaMUaZ~Zh6ChHphXRj~J-zAkZkYcyThmq~t-lZiaQaTswln4BXW4wYoUrd78lQ7K7gfGkqAx6OnpnwG-meCErv742CSeeYi2shvT2FRpes7i9CPGw__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "October 23rd",
+  "bloodType": "F",
+  "bounty": "N/A",
+  "debut": "Chapter 921; Episode 911",
+  "description": "Shinobu is a kunoichi from Wano Country and a retainer of the Kozuki Family, having once served in the Oniwabanshu of the Kozuki Shogunate and trained under Kin'emon as his protégée. She is also the younger sister of Shinosuke.",
+  "devilFruitName": "Juku Juku no Mi",
+  "englishName": "Shinobu",
+  "japaneseName": "しのぶ",
+  "origin": "Grand Line (Wano Country)",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984074970"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984074970"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3ecc"
+  },
+  "affiliations": "Donquixote Pirates",
+  "age": "45",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Diamante_Anime.jpg?Expires=1742070475&Signature=UZQBHPgzUY87LABsKZ1YGRW-VYCp4Vowbw5w7Jde1ckZbnjJdsLLK2xJkUwECb8F~PVq2xdLY15j-32XdBICP6ECffD0-J7SRILa8ubgLDyT26j7-5UJT0PhcsJivrmEobNd16kAAVQeEYOmusacvymtKg1sog9sD7L3wpn3Yw7lvnkA31w0DEkNVfXVXsZb0scoLFYxRYWkAr1jgG7vAtjxwaY6deqnhieCpV4n2vAufEOFPvEq3wCMKajvb~6dw5DOBKneQU0ro0llEsbCbq0pWFCKha80GYXMPxgafVrHp5SR1ktfZm-maCy4tykyclN6u4w6pmeahP8C7QOBNg__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "May 29th",
+  "bloodType": "S",
+  "bounty": "99,000,000",
+  "debut": "Chapter 700; Episode 629",
+  "description": "Diamante is one of the top three officers of the Donquixote Pirates. He occupies the Diamond seat of the Donquixote Family and is the leader of the crew's Diamante Army subdivision.",
+  "devilFruitName": "Hira Hira no Mi",
+  "englishName": "Diamante",
+  "japaneseName": "ディアマンテ",
+  "origin": "North Blue",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984075641"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984075641"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3ecd"
+  },
+  "affiliations": "God's Army (former); Automata",
+  "age": "37 (debut) 39 (after timeskip)",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Enel_Anime.jpg?Expires=1742070476&Signature=ZfoZBx3YiboedB7BE5410sPTZJeXqeWs8dwVRujKkuNLovIxEvc1-PYNHyahUz2xwqAKAQ04BcqYkYNzFcrLyb~B2MFqSVBHrO8NsTIGFNwunYs83USzdL878fqNCp5~ybMdln7KE7bQCD9yUq0bj0ZMIM1bU~3qMNagTes3ZJCPyr~k-4ogyQrfDEMieH9At2893mqPUXiayVIaA82wvNiLUDDuTRu0ELAYtVhWvvgtaXDwNkhFQMsVBlMmwB1ks~-a3mP226uy13g1wE~UEaz4f7B9Plp-4EuCjxjl~yiQSd6AW24HJFWV80r8mKnRhbUUDPGsDe4P1SgnDVVUHQ__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "May 6th",
+  "bloodType": "S",
+  "bounty": "N/A",
+  "debut": "Chapter 254; Episode 167",
+  "description": "Enel is the former tyrannical ruler — or \"God\" — of Skypiea.",
+  "devilFruitName": "Goro Goro no Mi",
+  "englishName": "Eneru; Enel (WT100)",
+  "japaneseName": "エネル",
+  "origin": "Sky Islands (Birka)",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984076326"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984076326"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3ece"
+  },
+  "affiliations": "Mt. Atama Thieves; Kozuki Family; Nine Red Scabbards",
+  "age": "N/A",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Ashura_Doji_Anime.jpg?Expires=1742070476&Signature=TS4AE3PoCQOMBeKCvJfL8hbaZRovbZrnxOq2QWBDnCxixz-Bld82PXAsXrTELboy-a1E6QLB2XVWoBhiKi-h7lYQslxGjYzSpAw1K6zr~FvlidJS3fNXM~SilFAWs4LiqcYzzACh4YpGuzhdmzoK7-byRX3rZi1I80~gDsr5sBF~4boxYe5FxTPLhBziMzKnmmpUN9Tw6OAQ8tf6Z7wXobeaFvCUfZjo9p7kZLiutD~A0fecg1EkonSayO9NBwERjMYSh~V~MP67z0Nd9nrWuJU4Bs-WL33e0wtCReqWi~pp2IHZE2dH9FT7ROfNlFPRepr0gF8k16Uh8F-GvYWcdQ__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "April 10th",
+  "bloodType": "X",
+  "bounty": "N/A",
+  "debut": "Chapter 920; Episode 910",
+  "description": "Ashura Doji was a former bandit, a samurai from Wano Country and a retainer of the Kozuki Family, serving as one of Kozuki Oden's Nine Red Scabbards. After Oden's death, he returned to being a criminal under the name Shutenmaru, assuming leadership of the Mt. Atama Thieves. He initially severed his ties with the Kozuki Family in the present but rejoined after witnessing Yasuie's death.",
+  "devilFruitName": "N/A",
+  "englishName": "Ashura Doji",
+  "japaneseName": "アシュラ童子",
+  "origin": "Grand Line (Wano Country)",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984077039"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984077039"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3ecf"
+  },
+  "affiliations": "Beasts Pirates; MADS (former)",
+  "age": "56",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Queen_Anime.jpg?Expires=1742070478&Signature=bZWGuyNI-ET2ibIgMNglAgUxtVggTk3A0r7AZbAsBaBjAJygZ0uMgeVfr1jSYoOzTO6UkeW2yNQl4SIVLcTq40EE7vfQcdb~26mfGkmsduVJVp0snVknaxgt-i~OKib0G1f6mdK6OKiSoGNuU0FIONk47TooOaTQpagjGGfRTPU5GS8pUO0ooCEGMpA0d~njIwNBwyZFRQ66~C~WMxhUnwVZsryGII2suB9IgxxrDTs30R22iulkkK-92lddK7B1cVS0CNb7xJNkfde1zC0Bw651KuR0PE50K8fYTN~epaHwBWXJS5tMWjsWX0vpW2pSmA4ucVHWJwtIEc1VXXfu7w__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "July 13th",
+  "bloodType": "XF",
+  "bounty": "1,320,000,000",
+  "debut": "Chapter 920; Episode 910 (silhouette); Chapter 925; Episode 918",
+  "description": "Queen the Plague is an All-Star of the Beasts Pirates as one of Kaidou's three closest confidants. He formerly served as the de-facto ruler of Udon, a region in Wano Country. He previously was also part of MADS.",
+  "devilFruitName": "Ryu Ryu no Mi, Model: Brachiosaurus",
+  "englishName": "Queen",
+  "japaneseName": "クイーン",
+  "origin": "Grand Line",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984078385"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984078385"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3ed0"
+  },
+  "affiliations": "Beasts Pirates (Tobiroppo)",
+  "age": "22",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Ulti_Anime.jpg?Expires=1742070479&Signature=ecZG6GlcIL-JWhaDQC16CLTO5BBIilvjCvX5d4tz4zYx8ZAYP5vWjShb4CRx2BxOVwurNfd~P~MuKGfSGlU7FMJ9OH53wQSa2Jwtm9K2LN3fxJX1Ngi-wFbbSLyf8XJ9mVK4kuokT2Xx8DVEq64dfRlSSD7o9YiEymXb50eZSQlXMaaHWFV-MbHYwe8BeBmbvf0ftVzIjZCOhwCPm-9YNh~~Mv85LPa42Z7ZljgOGOEAuHnROeb-QqzNI0~SO14KbUxMewrbZoeMZRoLZrSv~Xe2y0T9KGM~vfyO-EIsz8CLzfLnsiAI9HHKOVLEtKU~jv7zFhYamdEhmdrZ90O9LQ__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "January 4th",
+  "bloodType": "XF",
+  "bounty": "400,000,000",
+  "debut": "Chapter 977; Episode 982",
+  "description": "Due to her actions and role, she is a supporting antagonist in the Wano Country Arc.",
+  "devilFruitName": "Ryu Ryu no Mi, Model: Pachycephalosaurus",
+  "englishName": "Ulti",
+  "japaneseName": "うるティ",
+  "origin": "Grand Line",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984079068"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984079068"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3ed1"
+  },
+  "affiliations": "Rocks Pirates (former); MADS (former)",
+  "age": "76",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Buckingham_Stussy_Anime.jpg?Expires=1742070479&Signature=W7eJhS2xrLkjNQsFKrJoi6Uv2Pd4NRI1dqLLlVT3PaBC99~DLvmvRVOG8ks4gVTcxCXjWyWvHJ8Xr5DPIR-GFadifPwQsr2bC-r88hqo1decfoBYNzzucz5vmozMCZPs6z2oIRatTHtE8pcgYO~TffJZZwsaO7MXgeKRhsOpwFQLIiXy3tMbrgXg8jCDHZrkhWCMvVLl1ytzKjDSf5OSEfTpA1BAqjLt4QWJbkJTBkxyZr2PUhRuvRn51Blcqqs-8khsydOC02h6h2cDLQs5i35BeX653MV~rYbEyB3awWtrnoOJ3ydNef9--SbmtkqfhSAORIQywird9KJxWmDrow__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "April 12th",
+  "bloodType": "S",
+  "bounty": "N/A",
+  "debut": "Chapter 802; Episode 752",
+  "description": "Miss Buckingham Stussy, currently going by Miss Buckin, is a former member of both the Rocks Pirates and the illegal science institute MADS. She is the self-proclaimed lover of the deceased Emperor Edward Newgate and the mother of Edward Weevil, a former Warlord of the Sea.",
+  "devilFruitName": "N/A",
+  "englishName": "Buckingham Stussy",
+  "japaneseName": "ミス・バッキンガム・ステューシー",
+  "origin": "Grand Line",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984079750"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984079750"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3ed2"
+  },
+  "affiliations": "Beasts Pirates (Tobiroppo)",
+  "age": "20",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Page_One_Anime.jpg?Expires=1742070480&Signature=dihPTHPZWNwKgv5NMg1bbJNYM9g6o9Z09x5fW~cU-SYFfMJqc~HFfTHbb4G5HlNgVnuVlOOqCrClNglNWku-9W6iFoXieh2VmAUilHDK1ZJCYjM~8-qTLvSeznFROLzGiuhtfrREkduzoKoDc-K9eDmpe2w9JCFDPEh4-D1CTf89-VyLr6PbXK-9LNtT2hy6kyUCEa6~UAmwbJ8XaYAwhJE5tASi990kttXjrXMjVfC-bbo~UmgftSuRh1FjP3hXULR-b69SVqBwhtnaR7BOLuhDSnmIHxq~Aol9uYaHcRckcNP77AtYRA0F0hN~HQLQftVsGQX8p-xRweW-hvpIdg__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "February 10th",
+  "bloodType": "X",
+  "bounty": "290,000,000",
+  "debut": "Chapter 929; Episode 923",
+  "description": "Page One is one of the Tobiroppo, the strongest Shinuchi of the Beasts Pirates. He is the younger brother of fellow Tobiroppo Ulti.",
+  "devilFruitName": "Ryu Ryu no Mi, Model: Spinosaurus",
+  "englishName": "Page One",
+  "japaneseName": "ページワン",
+  "origin": "Grand Line",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984080413"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984080413"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3ed3"
+  },
+  "affiliations": "Beasts Pirates (Tobiroppo); Sasaki Pirates (former)",
+  "age": "34",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Sasaki_Anime.jpg?Expires=1742070481&Signature=Ya7AMe39SMEb4S1yeLJ7WvDAYwOUULweyP3efWQ-wY7F-A6uz2qKYjWUtDvfad98oW2nnWC8uxIcJGw9jAM3XybvLV74kAO09YfFprVj9TV82xQLjlD5gTeTl14bQmC1OlRPGnvvI2-pyEklRxHPE6NplTU-CpzCL~AFtui9KHOTng1VJWmjol4dqZ1FTqCuvEl5z-QYQcw8~KZ9LqOU5HWpY5UluTkHmbcDy1FK0FIUri8XjMAFb3tm67hUVPPyXvVBDa2QR~UYRSmK8x34izqk2vi~zkCDBhSVSB0AS5HvMwVF4oKE0mh-BCWeXJ38doA5dV7pgg7mNhdM-cZ3eQ__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "February 3rd",
+  "bloodType": "XF",
+  "bounty": "472,000,000",
+  "debut": "Chapter 977; Episode 954 (silhouette); Episode 982 (actual)",
+  "description": "\"Overflowing\" Sasaki is a bluespine unicornfish fish-man and one of the Tobiroppo, the strongest six Shinuchi of the Beasts Pirates. He also leads the crew's Armored Division. Before joining the Beasts Pirates, he captained his own crew called the Sasaki Pirates.",
+  "devilFruitName": "Ryu Ryu no Mi, Model: Triceratops",
+  "englishName": "Sasaki",
+  "japaneseName": "ササキ",
+  "origin": "Grand Line",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984081096"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984081096"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3ed4"
+  },
+  "affiliations": "Cross Guild; Seven Warlords of the Sea (former); Baroque Works (former); Impel Down (former)",
+  "age": "44 (debut) 46 (after timeskip)",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Crocodile_Anime.jpg?Expires=1742070481&Signature=cpmeiKyYkrSN6bz~1AM3zNLR4v9635478b8Vwkwr1Ej9vHoPR2jjvFHoo~V7x4LwOr4dxkNhbd84kWjrF99duFd2eS46g3iwYmFO2b9qO8KFC4vdFkUi4RlV9gYs073ZeifvBztNsoXKIe5jKlgjFQaB-WJNoNEt0yX~YOYJfImKvPVyc27sVUAPEIB6KVgEQp4b65g7gdwMqi8YBOCvOk6UjdBnp3LduTmWoJuIwgm59OusSFlpQcp6ce1J-MPYDzY4abGP1dM0fS5MK9jGtKATz6j1p2FnKNtZJPmpERoI2hKHaRaS27UNrU~hzoW1NBSE~POFp2vgBhWAdLm8dA__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "September 5th",
+  "bloodType": "S",
+  "bounty": "1,965,000,000 81,000,000",
+  "debut": "Chapter 126; Episode 76",
+  "description": "\"Desert King\" Sir Crocodile is the former president of the mysterious crime syndicate Baroque Works, formerly operating under the codename \"Mr. 0\". He ate the Suna Suna no Mi, a Logia Devil Fruit that allows him to become and control sand.",
+  "devilFruitName": "Suna Suna no Mi",
+  "englishName": "Crocodile",
+  "japaneseName": "クロコダイル",
+  "origin": "Grand Line",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984081774"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984081774"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3ed5"
+  },
+  "affiliations": "Caesar Clown",
+  "age": "N/A",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Smiley_Anime.jpg?Expires=1742070482&Signature=jK07koI2YtRhjHSSuMp2PPXfjENxI9-6iTNpwhLVX6Aq3wQdaA~GLr-nseut8-PzjF2wLMn4hMkdE85sal-9I91Rzcypvn33XaUhYI~r8qoMCvQbEoYOwXidtkd2Z8n54IXi6OIPOUFc02ExTeVw6MXoNyT9FAw8-lpnfyF8fOmjmlGuHTB82E1N09911aVdo0silYojv0HI4KwSgjtzuHvCVCqee-RP-xB9CLZALNeg09lKqBIcXYbgp3VvPlz2qRwsIeyM2KiG4XZi-SSor0rwY~lSYsve73-mCNUyPbUCnIFCG70PLApq9ctQxiCO-kiVpj7ZDyQW4RaP6lFG7w__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "July 18th",
+  "bloodType": "N/A",
+  "bounty": "N/A",
+  "debut": "Chapter 668; Episode 594",
+  "description": "Smiley, more commonly known as Slime (スライム, Suraimu?), was a pet of Caesar Clown. It was created by gathering and compressing the poisonous H2S gas that spread throughout Punk Hazard and using Vegapunk's process of Zoan devil fruit animation to bring it to life. It was kept in the Punk Hazard Burning Lands before being released.",
+  "devilFruitName": "Sara Sara no Mi, Model: Axolotl",
+  "englishName": "Smiley",
+  "japaneseName": "スマイリー",
+  "origin": "N/A",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984082438"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984082438"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3ed6"
+  },
+  "affiliations": "Kozuki Family; Nine Red Scabbards; Ninja-Pirate-Mink-Samurai Alliance",
+  "age": "35 (born 55 years ago)",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Raizo_Anime.jpg?Expires=1742070483&Signature=Sp1qfwnxLzygc8Doc5o311HdqWLFNxoLaPlk2jQU5MzUBHVN2QbFzsZyXqZgU3B8ygzT~V7XmM1LcTDlsqXx3iow~z~Xa5PCjFoSVEQdR9JQX1PSKtya6~bajFPwzIbgOoY7Khlm0MLhcUNCD0ie0FV5jswS~yN72epCzsmr27G5koPAWeRrHV53DrZnvJhYYQeshNQatiAK-Qc-kstj0wQY2AyAD5zef-dXiwyb0KEPflagyaOhQ4660a2lV0otGRTOtMU6ofqtYg1hsG2YPMbSQSfzulwTvirjvOGfKNwQDC7Zgk3uhnkFEkM9eWkZMfw4tvjS6~5q3kB4wM8chQ__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "February 26th",
+  "bloodType": "X",
+  "bounty": "N/A",
+  "debut": "Chapter 817; Episode 768",
+  "description": "Raizo of the Mist is a ninja and retainer of the Kozuki Family, being one of the Nine Red Scabbards that served the legendary samurai Kozuki Oden during the Legendary Hour 20 years ago. He was born 55 years ago, but traveled 20 years forward in time at age 35.",
+  "devilFruitName": "Maki Maki no Mi",
+  "englishName": "Raizo",
+  "japaneseName": "雷ぞう",
+  "origin": "Grand Line (Wano Country)",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984083170"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984083170"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3ed7"
+  },
+  "affiliations": "Thriller Bark Pirates (Mysterious Four); Seven Warlords of the Sea (former); Gecko Pirates (former)",
+  "age": "48 (debut) 50 (after timeskip)",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Gecko_Moria_Anime.jpg?Expires=1742070483&Signature=a-Cygxuj7EZPJ5mflJ4ZXQaUfTYJZe7wQbDr594jyriOUZey6qvlytPKbtDjQ5UJPNaa1r~UQ7NOurzX9TUDwbk6POD3uSDnX2yNsaTvs-FFnsduukPbSR245E3KtbfpkW1NPJBx1QtlRv6d1lOAwbx3GV7cNupiQ4FURk3126zKkUO4LWf5XLPO4jsV1hejH1~1UdOeL8X0x5MwwNKtEV276dbRVG-t14YH-v57izPXrGIsA5XLhtCQCqHjjRVbPo1z9PJsXDqqTeeRPEfPfmbf76wEQw61Mp53vF10kEhDgpLX7J2jksWdq9YnjCTVOpisazDWhJSmbWgZEWKFFg__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "September 6th",
+  "bloodType": "X",
+  "bounty": "320,000,000",
+  "debut": "Chapter 449; Episode 343",
+  "description": "Gecko Moria is the captain of the Thriller Bark Pirates and a former member of the Seven Warlords of the Sea who resides on Thriller Bark, the largest ship in the world. His bounty is 320,000,000, which was frozen until he lost his Warlord position.",
+  "devilFruitName": "Kage Kage no Mi",
+  "englishName": "Gecko Moria",
+  "japaneseName": "ゲッコー･モリア",
+  "origin": "West Blue",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984083834"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984083834"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3ed8"
+  },
+  "affiliations": "Blackbeard Pirates",
+  "age": "26 (debut) 28 (after timeskip)",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Doc_Q_Anime.jpg?Expires=1742070484&Signature=eub8KJj7VTP6YhEyD7vffM6dEr5ycUn3YNDQ~NSyDq4Mq9~C~uGD1rTlw0QIMYbCyj2RgFYMy4IIacpy4vA52oAI33mLS2Iv5Hj13uXx~foeOwjqKvk0r3Pho1ZP~oc7~SuKnZ0LSPSMhbB5a74R5AfYL72HjYfTwtcY701U-8EG088IHBVCluZqgd8P14lQqIQ7WjCTf6m5tCICzoCfMEvGxml96e4tEJ1bFnUOB1leVfGp5hsrzh~64GSwSu36M2ybkCGMlYCKsk9vs0XoinAgePbRbYti~3y0F9K5GTOBZRieTFS1biZN52UoeuNY5BAEQ7KQ4YyPTzTA4oi73A__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "October 18th",
+  "bloodType": "S",
+  "bounty": "At least 72,000,000",
+  "debut": "Chapter 223; Episode 146",
+  "description": "Doc Q, known as \"Death God\", is the doctor of the Blackbeard Pirates. Ironically, he has a sick body and needs his horse, Stronger (who is just as sick as he is), to get around.",
+  "devilFruitName": "Shiku Shiku no Mi",
+  "englishName": "Doc Q",
+  "japaneseName": "ドクQ",
+  "origin": "North Blue",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984084495"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984084495"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3ed9"
+  },
+  "affiliations": "Cross Guild; Buggy's Delivery, Buggy and Alvida Alliance; Buggy Pirates (Acting Captain, temporarily); Alvida Pirates (formerly)",
+  "age": "25 (debut) 27 (after timeskip)",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Alvida_Anime.jpg?Expires=1742070485&Signature=TpoQgsNdqiLcr5avsuTfDkn7URFTUid8uNg~uroQhrAfHJFWc5yie55sssqJNmEKKIQ0Ryzl9aAxV9olX1bR13xmUJ7XnMSseip18KkQNli2kAQG3Wfnr6I2h4VhHGthU7GLAvAqTaZ4pCTbZxxa6be51RO5dCeJZvIwryqJQo2MxbdvS35fa-QMHiSa3csoO-l7m2wnAMdikfEiUmmU-fl5BQNmIg40vrsDwS0xT-3XlMEbczjHPOt7FLvuUWkJKXMlTT-hT9ZCNx8WKWHN6xvLdm-KBbSMlGRAgjJMU4XTuPfsQ4cKn2219ya0mBShewWOW3xxEXVxhrb~Op80Gw__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "March 14th (Beauty Day)",
+  "bloodType": "S",
+  "bounty": "5,000,000",
+  "debut": "Chapter 2; Episode 1",
+  "description": "\"Iron Mace\" Alvida is the former captain of the Alvida Pirates and the first antagonist encountered by Luffy on his journey after going to sea. Due to her actions, she can be regarded as the secondary antagonist of the Romance Dawn Arc and the tertiary antagonist of the Loguetown Arc.",
+  "devilFruitName": "Sube Sube no Mi",
+  "englishName": "Alvida",
+  "japaneseName": "アルビダ",
+  "origin": "East Blue",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984085189"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984085189"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3eda"
+  },
+  "affiliations": "Foxy Pirates",
+  "age": "36 (debut) 38 (after timeskip)",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Foxy_Anime.jpg?Expires=1742070485&Signature=HZGT~aGCQfPVLVQlfCsQPAlqHx-oYqNg14GOBiBLNZBb8j-dPS3xacAsr9D5y3RYXkKKXuE1CwIjG26eipEddP0-JGKA1TCFgeJSCGlcVLhoIXEFoObqnygnwJhwJn2w~JO8FxnGMbPyDOvg3JCe5X6-nh7iR-jZ3OTeJSJbLIY~gYrCpgpmTvKn0u3OIcLimrOT51ZQDS06md2wdWHD2dwk68k8DTm2XEsBowaJBLyT0LThhZ2qBgGKoP0htnOUgvQf9UukBU9aCgXMtUGZie6PgtoRb3feTNZF53LeK8XlEV2a-M-exYZMvn7brGLZtVI09nA6eImPaML~qsRE5Q__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "April 4th",
+  "bloodType": "S",
+  "bounty": "24,000,000",
+  "debut": "Chapter 305; Episode 207",
+  "description": "Foxy the Silver Fox is the captain of the Foxy Pirates, and the main antagonist of the Long Ring Long Land Arc.",
+  "devilFruitName": "Noro Noro no Mi",
+  "englishName": "Foxy",
+  "japaneseName": "フォクシー",
+  "origin": "South Blue",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984085854"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984085854"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3edb"
+  },
+  "affiliations": "Marines; G-5; Loguetown Marine Base (former)",
+  "age": "34 (debut) 36 (after timeskip)",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Smoker_Anime_Post_Timeskip.jpg?Expires=1742070486&Signature=drYUpM8s21iFuLLDtUUkM~F7p19sVtvv~23E~RptxgIETt1atPRzCMGQ0rWaVXnXfBrIGSbuSCnI5Sgh~NoSQ7hGV73VMjCCwyU6LyUYyfI04dlKeCGSlKnx~R3nxt05Xgmk5hlNJjIWSkd61mEiP~XMONr5KRCgjcLO7L~Kb0ZwFPhGiAqzVMLAETvGLJjrniEh2su5rkpXcJsCWkMSmKLedY29KHJJUe1t-3Iti1GPCR~Db8Yvy-RN5d7D9u5HWnvgsS572Fr-NCjm2ma33aJRjKmHEChsnY~gY7NH5LHBTBSOfHeFjfVTr-excYW9YJ31wbtcbFO2qGGbqrRsCw__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "March 14th",
+  "bloodType": "XF",
+  "bounty": "N/A",
+  "debut": "Chapter 97; Episode 48",
+  "description": "Smoker the White Hunter is a Marine vice admiral and the Commander of the G-5 Marine base, following the treason of his former superior Vergo. He was first introduced as a captain in Loguetown, where he made it his mission to capture Luffy, and was later promoted to the rank of commodore, due to the events in the Arabasta Kingdom. Since his debut, he has been the superior of Tashigi, serving as her mentor as well.",
+  "devilFruitName": "Moku Moku no Mi",
+  "englishName": "Smoker (VIZ, Funimation), Chaser (4Kids)",
+  "japaneseName": "スモーカー",
+  "origin": "Grand Line",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984086525"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984086525"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3edc"
+  },
+  "affiliations": "Kamabakka Kingdom; Newkama Land; Revolutionary Army; Impel Down (former)",
+  "age": "27 (debut) 29 (after timeskip)",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Inazuma_Anime.jpg?Expires=1742070487&Signature=eedUaI0OFZkkawPRe8XqNI~4Gj0Qxo6c7hWqP8BLVoLaKoLYgNXeoJ~0VQDHQMYC2ACjwjPichJMGlZ3fD7bEucLhxnCZfgj3Qui0FHTu4DLh0ORXibOjA9592ZVRODFCA1l3Ce1JugC93s-FAwrxAvhDD5qYns33393TwVQ2bY6hXwsNkLh7mqXs05GtyB-bUUJsk0m9MxXXE2jJVrNebx~vbLXss1DAWrawdkTXNWq6QepUne5ckP1igDxQwHg3ZZlV~vuGJeTxoOKITMDjAqvt6B9pSYpiJZ6x-gpvOk-5n0cylxBixQlP0ye8pxMkEW1Of8faE9b53nctEN2ng__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "August 3rd",
+  "bloodType": "F",
+  "bounty": "At least 100,000,000",
+  "debut": "Chapter 536; Episode 438",
+  "description": "Inazuma is a newkama and the deputy commander of the G Army in the Revolutionary Army, serving under Emporio Ivankov as his right hand man.",
+  "devilFruitName": "Choki Choki no Mi",
+  "englishName": "Inazuma",
+  "japaneseName": "イナズマ",
+  "origin": "South Blue",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984087217"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984087217"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3edd"
+  },
+  "affiliations": "Caesar Clown (espionage); Donquixote Pirates",
+  "age": "N/A",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Monet_Anime.jpg?Expires=1742070487&Signature=FzrPY8dLlwzcu7yE-m7bB6JehvzyxqXXEfDd-JCh~~qFmT905ZjJiiCCid9yv06wwEPJcOLr9zHuHEmFSR~tdopHZyumh9TkmyB5gNe0GhYwqWIOJgOWpJ-jLF2US9DgeW7wqv9wBRzo44OYwvhAlX-b80oIgrY1bd0C8yvt69tU-TH2ywhDGmxyFCuiLWYS~JovsCkTq65Ns5ocBo2ke6GIVtDZRu-r1nUO9s~zaM~7fzT3z-4BnoYZ31fpGIlkUxgZOzuORjN2pZe4OmxNrFtbsjCd2lQaO9XuDfCcFbSpPwqLylJm4Iwbfu8Kcf35K-W9vvQ0wk3tDUqkkwbS6g__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "August 27th",
+  "bloodType": "X",
+  "bounty": "N/A",
+  "debut": "Chapter 657; Episode 581",
+  "description": "Monet was a scout and assistant for Caesar Clown and his underlings in the research facility on Punk Hazard. She had her original human arms and legs replaced with bird limbs, giving her an appearance resembling a harpy. She was, in truth, a member and officer of the Donquixote Pirates and was sent as a deep cover agent by Doflamingo.",
+  "devilFruitName": "Yuki Yuki no Mi",
+  "englishName": "Monet",
+  "japaneseName": "モネ",
+  "origin": "North Blue",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984087886"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984087886"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3ede"
+  },
+  "affiliations": "Revolutionary Army (North Army)",
+  "age": "45 (debut) 47 (after timeskip)",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Karasu_Anime.jpg?Expires=1742070488&Signature=mOeDINzt6Hpgfwyvyis19EiGjh4HMdTt-qS9rvYba21fsq5krz4UOaP7Sr0zj7zAdIKASqjQbPbdj8jtZZnqV6yjgmERR04odu4W16unFFxP3gj6P7MUC3rKrp1Mown6XL7AfIaqNFk1n-uy3GUgPWzPeOEBuTGWw61micJyk3sUYupjehowVvGypNLRERhLLdSi~s9bKhliXfs1NWWPZHhXgunEL6I0bNzdMTHeJRbasNUQVV07yu7~jgx0TQw1HJ0L34UraegZfmyXUpz9cKaiW6l3Fi~j2Ru7RxkV~pYffpWDCYbijk7vOa35Bbj1xqovBI9JIhzTKVu7oRo0Gg__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "September 18th",
+  "bloodType": "S",
+  "bounty": "400,000,000",
+  "debut": "Chapter 593; Episode 510",
+  "description": "Karasu is the commander of the North Army in the Revolutionary Army.",
+  "devilFruitName": "Susu Susu no Mi",
+  "englishName": "Karasu",
+  "japaneseName": "カラス",
+  "origin": "North Blue",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984088548"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984088548"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3edf"
+  },
+  "affiliations": "Big Mom Pirates; Rocks Pirates (former); Four Emperors (former); Charlotte Family",
+  "age": "68",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Charlotte_Linlin_Anime.jpg?Expires=1742070489&Signature=Pyc3ZaIqBfFYcJnApKVw7p8a478IKHUeQD1YkVSRt9yVmDrAtfZG1pIgKr9ry~gW~syKwDaiks3PwN5ppotBRsHvXoK0rNQCYmWh7lhjk-7VfMkDIaYeVqqmRXEAmfs3BPwkejiD54NaMpQfZRZbFVDCJ-V~~2q3HkL74wAE9NXIIppnrLuQn64-i2M1Lb9dcTF5MTxOBr1YmgnNBhml1YA3~MESMTi8-38ebZc7MUds9wqZxZMjskaaXLH-ikTfBweQZxMJUBkn9evVKHcbQGkgSoKllTwG3nF0tLeV~H1qJI6K4DQCWOspqfDkjPcS8t9tFi4yIGvAKVUMFSaagg__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "February 15th",
+  "bloodType": "X",
+  "bounty": "4,388,000,000 500,000,000 50,000,000",
+  "debut": "Chapter 651; Episode 571",
+  "description": "Charlotte Linlin, better known as \"Big Mom\", is the captain of the Big Mom Pirates and was formerly one of the Four Emperors ruling over the New World, as the only female member of that group. She is the matriarch of the very large Charlotte Family, whose many children make up the infrastructure of her crew. She is also the creator of the unique race of creatures known as Homies, who mainly inhabit all of Totto Land, and happily serve her. Big Mom possesses three special homies, Napoleon, Prometheus, and Zeus, but unhappy with Zeus' continued failures, Big Mom decided to disown and replace him with a new Homie named Hera.",
+  "devilFruitName": "Soru Soru no Mi",
+  "englishName": "Charlotte Linlin",
+  "japaneseName": "シャーロット・リンリン",
+  "origin": "Grand Line",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984089233"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984089233"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3ee0"
+  },
+  "affiliations": "Underworld; Sheep's House",
+  "age": "N/A",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Carmel_Anime.jpg?Expires=1742070489&Signature=TQ7p8VFdtf1~gzNlPhNj-ZuIwUya9SPqXTJXaZfKL58vK8hZJnSDjPwYX9HuYdJ7ZOXFuzNCInLIezVAdh8vq0SIdcUXSGW5NZLNl7EMx42TDaWuZzzmx-jLUAwWnEccjKAxWA1WpOkvZvj-W0XvT8ekjyuJw5eJB0d4u4sha3sDT3ZOtA29s5s8bSPVLT~2JXoujCFylIzwqguuW~h2XJgzVqFO59s3kNhsSmgaVDftqNBm4VBNsLcGOQ5L4tKirL4kxvTd7rFkpId5KZQpO78OiVSTFwGuu2NiYy2vs9vHvmjm5QNe8VIDCagoi7m-7f4Fvtrd6D6zMUvESqE77w__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "December 21st",
+  "bloodType": "S",
+  "bounty": "N/A",
+  "debut": "Chapter 861; Episode 831",
+  "description": "Mother Carmel was a child trafficker dealing in orphans, that operated in the Underworld several decades ago, under the code name of \"Mountain Witch\". Running an orphanage known as the \"Sheep's House\", her seemingly benevolent nature caused her to be known as the \"Holy Mother\".",
+  "devilFruitName": "Soru Soru no Mi",
+  "englishName": "Carmel",
+  "japaneseName": "カルメル",
+  "origin": "West Blue",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984089895"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984089895"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3ee1"
+  },
+  "affiliations": "New Spiders Cafe; Baroque Works (Former)",
+  "age": "26 (debut) 28 (after timeskip)",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Zala_Anime.jpg?Expires=1742070490&Signature=mYqMpnfSX9hWDXwP9y63Mgh8GhQK~v4uYP~m083B-eVYlj62VQtN4D4TovKrpOnx4mvg0s1QVtfYqvnlbAxHC1oKZBGgDYXmupmjHkfHS43JN-vqo5UDjtLAwUvO21m897G7O6nibwhSxdjQOo7UzSsulDsI3CLjGIWGiNLEnCZiv~djt6RDGdQnLwUt72fsvJ6dR9JpKARmSbv6M0EjNF507l4UW7Vib8MmCwOl1Acx0xsupQJ6C4wyy9qwIOGp-pwkWNHr1E4xBx3CDNNtYLrSUz4gtAoOfA4IYmKBoJ6UT3FR1i4lH~hOPInNn~e3xwMa5J-xoSMjPjMth2jeSg__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "July 30th",
+  "bloodType": "X",
+  "bounty": "35,000,000",
+  "debut": "Chapter 155; Episode 103",
+  "description": "\"Poison Spider\" Zala, better known by her alias Miss Doublefinger, was the second highest ranking female officer agent in the secret organization known as Baroque Works. As an officer agent, she was partnered with Mr. 1. She also used the alias of Paula while she acted as the owner of Spiders Cafe in Arabasta.",
+  "devilFruitName": "Toge Toge no Mi",
+  "englishName": "Zala",
+  "japaneseName": "ザラ",
+  "origin": "Grand Line",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984090564"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984090564"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3ee2"
+  },
+  "affiliations": "Donquixote Pirates",
+  "age": "30",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Buffalo_Anime.jpg?Expires=1742070491&Signature=IGowaaXDzFc7DXsp1BP~wJs3WtcfDkL23-qgT5fqG~JYgrmsMLEGhSpVvlsOnHhqgRCNv2pna0ngrGBRNgTeDfu2wQ09P9MBuf49R6yXtm7P3jxUToh07--oycTZjdsQJn52DErVxk3bsteVj~V44-c2TzMFa7Qj85JytoAHORybGD2Sh5Ws84uOdncz0kypcICQnyIHOY-yGbYxl9-npa~aWTjjEHSU2iVvbZL2UWP0rLiPmPNOUKNH2wpQo5wSZLDQ3EAQD7t19AwFiZ2YWB~bf45dz8hiKLXSIQwduwvMK-2eQLCl2rZax4BYda4ZxHY0~jnA7ojfwrDNqjxB0g__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "April 8th",
+  "bloodType": "F",
+  "bounty": "N/A",
+  "debut": "Chapter 692; Episode 618",
+  "description": "Buffalo is a combatant and an assassin of the Donquixote Pirates and an officer of the Pica Army. His real name is yet to be revealed, as \"Buffalo\" is a codename given to him upon joining the Donquixote Pirates.",
+  "devilFruitName": "Guru Guru no Mi",
+  "englishName": "Buffalo",
+  "japaneseName": "バッファロー",
+  "origin": "North Blue",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984091240"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984091240"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3ee3"
+  },
+  "affiliations": "Donquixote Pirates (former); Bellamy Pirates (former)",
+  "age": "25 (debut) 27 (after timeskip)",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Bellamy_Anime_Post_Timeskip.jpg?Expires=1742070491&Signature=lIP7S-jD2DqRVEUITeDe1hrl0zbc99a2EJSm5Lhk426yePvdvynhcSh8opa68wMRWto82oPotU9n235KwapVob4dQGjlH9ob9lIXOBfCihZlv~maVqKQd06dNDlrTx6HPUN5pXWjWwQK43GX26cTYmjcpXr6q337xgntwzf8g97o3WDiqT6JlpbIzwouRlEY8U7OcjpKEfd9SG8ffK6MGtNopmNFi-L3T4MvjMeCliJK96ToCcWqmgrvVF4uX3n7d0zaZaYeEysixdOMn3nm~frb4SIDmWyt1EklS6VUCeGnrzZLP0CrQSF16ffhjEFuc4WqVYJD8la5Z8WA-iLswA__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "August 7th",
+  "bloodType": "F",
+  "bounty": "195,000,000 55,000,000",
+  "debut": "Chapter 222; Episode 146",
+  "description": "Bellamy the Hyena is the former captain of the Bellamy Pirates, and a former member of the Donquixote Pirates. After the Dressrosa Arc, he retired from piracy and became a dyer.",
+  "devilFruitName": "Bane Bane no Mi",
+  "englishName": "Bellamy",
+  "japaneseName": "ベラミー",
+  "origin": "N/A",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984091908"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984091908"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3ee4"
+  },
+  "affiliations": "Donquixote Pirates",
+  "age": "49",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Trebol_Anime.jpg?Expires=1742070492&Signature=W3ul7Jj7y5h6yBw6XRto1axul3DWu8KBT68YpcmkUx~QNC~g0bKElHRMqmQBLDye1Mb0ocQGb9vs-F9UElR1AIdVrJXHJPD34t6YGT4RCcbVPcmwrt3VKYkpNotl4bJQYuT7M70Sugt953gIZ8ckrDbqWB6OA2j7JuPwtigT7rINWzu3IYWLl9NLjo1E29pG9fBCYkHPFeEBspWvcEIgdMBi~ofO6YkqKGjgi-KL3Y8AQPNFFTW730b2hqM59Wf9IMrr3-5Q0IvthZXD7vKSOg678tHZQ0QxakNGYWuUsNiOJt5sCPqAJw2aVIK2oF9sr5zs1QJW9j88C5RoLpkLow__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "March 18th",
+  "bloodType": "F",
+  "bounty": "99,000,000",
+  "debut": "Chapter 700; Episode 629",
+  "description": "Trebol is one of the top three officers of the Donquixote Pirates, acting as a Staff Officer. He occupies the Club seat of the Donquixote Family and is the leader of the crew's Trebol Army subdivision.",
+  "devilFruitName": "Beta Beta no Mi",
+  "englishName": "Trebol",
+  "japaneseName": "トレーボル",
+  "origin": "North Blue",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984092577"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984092577"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3ee5"
+  },
+  "affiliations": "Tontatta Kingdom; Straw Hat Grand Fleet (Tontatta Pirates)",
+  "age": "25",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Leo_Anime.jpg?Expires=1742070493&Signature=iM3cJ1yiTAmC3UGZF-ffHhAFtaXYG8d7Uc8DjniaKUlkyJ0PA--ajHbyi~TvXaZFQfAVoueXvGhZ6xdKtX3kxYNo5kpxTVMMOiuDCbqM6Xwa29ut5SdIdNRfqSukRAxBugP5XdBBxHndrGbAjI8CcCJKDCCBBVim9OPZ3J9seDdbTEpOpUaoub2oWyzdg3aIABelQh~cZjHXESQP0SLXwFS1Rr5SyDKblCLnu05RqWBeWRmlFCheT1VE9O1v8sx03UK~HRj0NpsSWATMpGRtH2TwyRgqYKYts~7GKQQEB9Fq7VxBVQ9WUPzp5~Yq4U19QGgWpLqlM2IgAcoquiLtTA__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "July 24th",
+  "bloodType": "S",
+  "bounty": "N/A",
+  "debut": "Chapter 710; Episode 640",
+  "description": "\"Warrior\" Leo is a dwarf from the Tontatta Kingdom and the leader of the \"Tonta Corps \" (トンタ兵長, Tonta-heichō?), which was later reformed as a pirate crew now known as the Tontatta Pirates, with Leo now acting as the captain. He is the captain of the fifth ship of the Straw Hat Grand Fleet.",
+  "devilFruitName": "Nui Nui no Mi",
+  "englishName": "Leo",
+  "japaneseName": "レオ",
+  "origin": "Grand Line (Green Bit)",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984093260"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984093260"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3ee6"
+  },
+  "affiliations": "Donquixote Pirates",
+  "age": "40",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Pica_Anime.jpg?Expires=1742070493&Signature=en5sUcLVcIw2ka6JMWlTIZMhqSZ0qjtj2TcDAcOoS9EYc8NfAILv94MF0imi~CSdL~cseRnuku3HoCjQFI3Ywod8MrvDhFOcG0KOufORnhL3H5M54bPCIfaQJ~LGVw4m4JdqV688EdNV8gCu1wDtjdqaeNsQ6ZpKsbqPMmTqCaIcDErGn5cNTUf6QcXld6xoCzQ1i-ARpZwJIv0L7q6~K6sFpKjryo5iIFUCg9yWdFZ472wgluCKt~Pon-Dktsfmh37wtIAgYcpJMiQdTmsKbcwEieODE5ana9eaeOcWjBTJYzC9ZlqXjGdWTUr9zzVgZ6kp8fhhk2ZT66CPwHcCYA__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "December 14th",
+  "bloodType": "X",
+  "bounty": "99,000,000",
+  "debut": "Chapter 700; Episode 629",
+  "description": "Pica is one of the top three officers of the Donquixote Pirates. He occupies the Spade seat of the Donquixote Family and is the leader of the crew's Pica Army subdivision. Due to his actions and role, he is one of the major antagonists in the Dressrosa Arc.",
+  "devilFruitName": "Ishi Ishi no Mi",
+  "englishName": "Pica",
+  "japaneseName": "ピーカ",
+  "origin": "North Blue",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984093929"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984093929"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3ee7"
+  },
+  "affiliations": "Hawkins Pirates; Beasts Pirates",
+  "age": "29 (debut) 31 (after timeskip)",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Basil_Hawkins_Anime_Post_Timeskip.jpg?Expires=1742070494&Signature=T7D5lzb5O9Xj4OMlxWdcNe-RBbukCITuyEn2DhUsHSx0ZETfUs1PBbouwVYk2gZtop8gCBGFxFbVWfrKIVnmMezVYclO~l1Rd3GZjhlKKnQrFtV6M5-cApOyX0XULUbVOafpJVE30prnNOnd1rOHXebUOnCb6Up~lnDX1thBY-s0ouwPCm0xtooIFlBGnYUAX-8wFg~rxt79LPvzPEUFgYhsCAjHD4J9yfHMsUjXsfZqVNEre1PxiymM~GSo7GV-AXZTN-2eWJk1T-B4g2Ul5lrmC7y23eP~SFjl-draJ71l0DjGcMbiGEDQVVtI0F9PmD2sukTdhMPJB55dD0VhWg__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "September 9th",
+  "bloodType": "S",
+  "bounty": "320,000,000 249,000,000",
+  "debut": "Chapter 498; Episode 392",
+  "description": "Basil Hawkins is an infamous pirate from North Blue known as the \"Magician\" and the captain of the Hawkins Pirates. He is one of twelve pirates who are referred to as the \"Worst Generation\". His previous known bounty amounted to 249,000,000, but after the timeskip, it was raised to 320,000,000. After encountering Kaidou, he joined the Beasts Pirates and became one of the crew's Shinuchi.",
+  "devilFruitName": "Wara Wara no Mi",
+  "englishName": "Basil Hawkins",
+  "japaneseName": "バジル・ホーキンス",
+  "origin": "North Blue",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984094597"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984094597"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3ee8"
+  },
+  "affiliations": "Donquixote Pirates; Impel Down; Underworld; World Government (secret); Seven Warlords of the Sea (former); Dressrosa (former)",
+  "age": "39 (debut) 41 (after timeskip)",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Donquixote_Doflamingo_Anime.jpg?Expires=1742070495&Signature=EXGvTEc1yq2CfIxtMRT999gt7fQk6-DXrVw0OG3P~9u7~Xo8Ay6pWZzpTdFArWfsiIy34VPQpNOYV4W-fS-3H1YCOzGUTGBEZZQcVT2dhuCFrv3eKz9EJZ4UD1pCteJ-GI1PUkRnJAUUWnc9ht1vkKEEXJ9eLURPC26yK70VCf9UClIvEekBd0DkdlyQqc1jseF5T6Z2WF5HcDpxDRYv75piaZ3TvFVAG8ZbxktezSgUlb95-EIINz45XR3-ACgeQeGh1toTZKHOw7rJ6KPgTNsHU3W3-shVX~0eMa~IaOseV6z2RIaNbhLXsNG-rrPZq-o3J4mqYQTWvyXpOgajsg__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "October 23rd",
+  "bloodType": "X",
+  "bounty": "340,000,000",
+  "debut": "Chapter 233; Episode 151",
+  "description": "Donquixote Doflamingo, nicknamed \"Heavenly Yaksha\", is the captain of the Donquixote Pirates. Prior to his imprisonment, he was a member of the Seven Warlords of the Sea with a frozen bounty of 340,000,000, as well as the most influential underworld broker under the codename \"Joker\". He is also a former World Noble, descended from the Donquixote Family.",
+  "devilFruitName": "Ito Ito no Mi",
+  "englishName": "Don Quixote Doflamingo (VIZ); Donquixote Doflamingo (Funimation subs)",
+  "japaneseName": "ドンキホーテ・ドフラミンゴ",
+  "origin": "Red Line (Mary Geoise)",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984095299"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984095299"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3ee9"
+  },
+  "affiliations": "Blackbeard Pirates",
+  "age": "27 (debut) 29 (after timeskip)",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Jesus_Burgess_Anime_Post_Timeskip.jpg?Expires=1742070495&Signature=h14yfJR7VICDQ~CZX7cJu0BaEaexZesBhFBVbi2zfgkhMGdwslOy6v~emM5Py1Hue6tEPr9O0g4dM~xbTTFtpPsg5C95pJw98TpRCwBvM4FQYiOeFkJk7mTyxDxbeUzdaqBrbBXvRdLTxmhlgirhmnzqCRewYPUzvEAMM7RxTUvlfXmz~9dIypB258r3DvYNTIXGO8Yj7OY166~URrlK2A3htK4pIEfe5-qBH57dYtQnfn2x-sGtOOiIk3P1mFklSkXVfzIeq8S8Fn5dr51GSyGjwKGoEMkH7e9dT5gka3df8IsJOaCRAJw86pZxh0BeKu9T9~ixHiRmNQfJoPfGlQ__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "December 25th",
+  "bloodType": "F",
+  "bounty": "At least 20,000,000",
+  "debut": "Chapter 222; Episode 146",
+  "description": "Jesus Burgess, better known as the \"Champion\", is the helmsman and one of the Ten Titanic Captains of the Blackbeard Pirates, as the captain of the First Ship.",
+  "devilFruitName": "Riki Riki no Mi",
+  "englishName": "Jesus Burgess (VIZ, uncut dub); G. Zass Burgess (edited dub)",
+  "japaneseName": "ジーザス・バージェス",
+  "origin": "Grand Line",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984095960"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984095960"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3eea"
+  },
+  "affiliations": "Caribou Pirates; Fake Straw Hat Crew (former, temporary)",
+  "age": "32",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Caribou_Anime.jpg?Expires=1742070496&Signature=WI4v-R4sluNhvA4QhLb27KCpTvyzZ1Alts27mjZ9CUGWfL9cvEES9kqbmt1Pck6uDVmvd47iWWWVcpkqD8OGoODp4rE5Q-jIiktu2FFvcGUGB-fzrYkOaiDnOVQ9L1m3im8QRJ0bklrVL5nrhEjs2wC8feaVOD00nzkVzpKCqJbficNCyfcqHG2L6RmnTJeFipO74uHpbw4kw2Acn1VuRcPRoXAqMLEqd3ttfMnEiEu8z~NVJIG8sp7ofGhEuhw83LNaxTcR6r41~DW2KMrfXVZ91~1bw7-nx~j11ZE-~e9EDwyV4LuAu0Ad-cu7fjbUIbk99ii6z3hzWa8GP4XQKQ__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "July 4th",
+  "bloodType": "XF",
+  "bounty": "210,000,000",
+  "debut": "Chapter 600; Episode 519",
+  "description": "\"Wet-Haired Caribou\" is an infamous rookie pirate who was at the Sabaody Archipelago around the time of the Straw Hat Pirates' reunion. He has earned a bounty of 210,000,000, making him part of the new generation of rookie pirates with bounties over 100,000,000. A fierce admirer of Marshall D. Teach, Caribou dreams of becoming part of the Blackbeard Pirates.",
+  "devilFruitName": "Numa Numa no Mi",
+  "englishName": "Caribou",
+  "japaneseName": "カリブー",
+  "origin": "North Blue",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984096630"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984096630"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3eeb"
+  },
+  "affiliations": "Kozuki Family; Amatsuki Family; Whitebeard Pirates (former); Roger Pirates (former)",
+  "age": "N/A",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Kozuki_Toki_Anime.jpg?Expires=1742070497&Signature=boGan1-TLSjg8V0qQlFgKFMWMA0uXry6t6IgSaFti65RLodH-T2sActxG~TwFohZXk3RakUX0aUzpXyzwUTDox8xuOeZ9MefQ5P97MGpVp9mB1qCb0Pi-qktmPm1~mC8GdM0QUiMwQ3oB3r4fP8OtHoEq3s0W1JHufXhcUf5TsTKOGAZu7Zk~MTfHW0nEo9pRTiuLRkp5D-moB~tZBxe0iUfbxzbvHS5xKX3K~7fuTULR5QfRNHW01xgMnUAhgSIRs74e7Fx5WEwN-K4kL-XCZSuHNdVWD5mdFlKhbIh~RIc4mXDJ69lM4boRSdyHm9TcSHCNecjqhGlWzkl4uEX-A__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "January 19th",
+  "bloodType": "X",
+  "bounty": "N/A",
+  "debut": "Chapter 919; Episode 893",
+  "description": "Kozuki Toki, born Amatsuki, was the wife of the daimyo of Kuri Kozuki Oden and the mother of Kozuki Momonosuke and Kozuki Hiyori.",
+  "devilFruitName": "Toki Toki no Mi",
+  "englishName": "Kozuki Toki; Kouzuki Toki (OPCG)",
+  "japaneseName": "光月トキ",
+  "origin": "N/A",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984097983"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984097983"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3eec"
+  },
+  "affiliations": "On Air Pirates; Beasts Pirates",
+  "age": "29 (debut) 31 (after timeskip)",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Scratchmen_Apoo_Anime_Post_Timeskip.jpg?Expires=1742070498&Signature=SZ8oMHD-RRx1kfFR8WcuI9ttwsFoKcf-ytdyLpWmG7Jq9Y9Ahz8-4vA7bThvqaA79dhZhJ0yJX5-dc56OXTF1YAjUYzlokozJnoyP1w7FWKirwOq15Q-44kbryZetyrtVtMj0469HQMH2EoaXwdm9WQqf8R-92DLEsx5tE~SFDVv~rBZNZptntiAc4QmhfspP7Hael5-h0GdrrpFDVFt8OvPGPaYw-IT9KSz4bmWYlj~aiK6aaBokVkMv8MWABM3u-flcGqpmhWKwX7cjBZXDbhx~M9NZZl1zoamaUeM5tEIw2cqrbIVxCv5x13s7eJWQNF-i2UWTHjYKpJH4DcRlA__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "March 19th",
+  "bloodType": "XF",
+  "bounty": "350,000,000 198,000,000",
+  "debut": "Chapter 498; Episode 392",
+  "description": "Scratchmen Apoo, also known as \"Roar of the Sea\", is the captain of the On Air Pirates and was formerly an informant for the Beasts Pirates, led by Kaidou of the Four Emperors.",
+  "devilFruitName": "Oto Oto no Mi",
+  "englishName": "Scratchmen Apoo",
+  "japaneseName": "スクラッチメン・アプー",
+  "origin": "Grand Line",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984098649"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984098649"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3eed"
+  },
+  "affiliations": "Donquixote Pirates",
+  "age": "52",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Machvise_Anime.jpg?Expires=1742070499&Signature=OqGPotkctGH9CSL~5~WAPHiTqoPZnKjQdu--uZmxiIwQCEeAR2HBa4mk~eAunXi2CWz1xMeopsTGgx7Wi5zwtYOoQGpJrO4UHo18lngKNSVPxZdaG3JHRNI2Y3bYp7Ku2zazUaj0~hxW~fn1RUzKEGkMIW0nYS17kRGXxT41vDT-feNi2nXY7mEiHTcZR9u8SfvVBBci-kXyyB19jzp7DXAh-w7noS9KAc6EM6Fx2n-IMRoyZ6lo12VXnjL33bUke33jwwytJei1Jh06OMth1ADEvV0Zt6RXJAYe7GVzXzI0SpZnTEUyan8uQ1hXIfCYRl2qQYYwEAgbGI-aVxjtiA__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "August 13th",
+  "bloodType": "S",
+  "bounty": "11,000,000",
+  "debut": "Chapter 682; Episode 608",
+  "description": "Machvise is an officer of the Donquixote Pirates' Diamante Army.",
+  "devilFruitName": "Ton Ton no Mi",
+  "englishName": "Machvise (FUNimation Simulcast, Formerly Viz); Mach Vise (Viz)",
+  "japaneseName": "マッハバイス",
+  "origin": "North Blue",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984099332"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984099332"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3eee"
+  },
+  "affiliations": "World Economy News Paper; Underworld",
+  "age": "53",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Morgans_Anime.jpg?Expires=1742070499&Signature=V8Nz0oUjLBGgtp~euq22bqQDHXoc59bVcVFW1KRCtVkSGfcQ2~khflDC3Hm~jX8ObsnDfaw4ZQvDdNkO9cFPKfI~JmTM0Ip8lBqT98TK-oC4XXmUDWh7p3NzsVSwemiBSkchGhLx4PL9nKxr5LrUI7vHi9n4ELYXLBICRn0Daurej18ZA8Yt2ofGy0-KfwQHuQdMnHlgpPG1NjYUlrE85sy0bbKVZPhjjxTdh1qfwJcSE2syR8WzzNk4aL5~9EmkoQvGDR-mnQwWwU0mlNzCi~oZl6FXrtkpyxZsHkfa1MgVrCYbULjPLRm9BtzhUCH8qQ6CBZ5iqb1zHkN70u4BEA__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "July 14th",
+  "bloodType": "XF",
+  "bounty": "N/A",
+  "debut": "Chapter 860; Episode 828 (silhouette); Episode 830 (actual)",
+  "description": "\"Big News\" Morgans is the president of the World Economy News Paper and one of the emperors of the Underworld.",
+  "devilFruitName": "Tori Tori no Mi, Model: Albatross",
+  "englishName": "Morgans",
+  "japaneseName": "モルガンズ",
+  "origin": "Grand Line",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984100002"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984100002"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3eef"
+  },
+  "affiliations": "Arabasta Kingdom",
+  "age": "33 (debut) 35 (after timeskip)",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Pell_Anime.jpg?Expires=1742070500&Signature=mIaRBDCvptevcDtuV4Bf0dUymBSEO6fD8D0b6Qs4xvtwNPinp1a6KlnK1DiwP2-MvnkeNcUbcZatSxW5AoiM9ODjuN991sH3lfG42TFk~7YLTw9V03z4Y52JzZT7sVNT6~rr~VcFoWWk1r6I~HdTswEzipZVUcdwdL2YJrb2kcQU7yVvCSHas7~tKaIUvDKTdY3CponkeshAZXBOpsYPGvdTOLWRFK2~dr4T8GVb2Cqla01fFzXjgGzAa1H9jHstGP-YREZqQ-Ug7IhDz~x0QCP1Oa4hyhtGGNmeL2zaF8EguWwTnsrRGZGTAh4Vwl5lXW-CjqjLLv9Dyo50i50ztQ__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "August 23rd",
+  "bloodType": "X",
+  "bounty": "N/A",
+  "debut": "Chapter 155; Episode 91",
+  "description": "Pell the Falcon is one of the two head guards in the Arabasta Kingdom that serve under Igaram, the other being Chaka. He is said to be the strongest fighter in all of Arabasta.",
+  "devilFruitName": "Tori Tori no Mi, Model: Falcon",
+  "englishName": "Pell",
+  "japaneseName": "ペル",
+  "origin": "Grand Line (Arabasta Kingdom)",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984100669"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984100669"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3ef0"
+  },
+  "affiliations": "Whitebeard Pirates (former); Ninja-Pirate-Mink-Samurai Alliance(disbanded)",
+  "age": "43 (debut) 45 (after timeskip)",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Marco_Anime_Post_Timeskip.jpg?Expires=1742070501&Signature=b5nq45ZDTJlF351pBW6eqd73DfztmMQgniK7-ZRSGesKveq2f7jkP3GCWVozInEVWoIrDKI6zbLaNJpnd1yYik31gmEzXIEF~DFD1XXKScPD8zLtep73jHxankiWnwVTCom8aSrg9D4JCQ159ciDr4LwxMdyxQq~BDthaGG~xJ4NzUn-no4GS9bl9XkCxaylmAF-gRUWzocJzLhClWE5ymjWKyX1TqDOWpk6-uV8BSWCkojFJuT9bKYYKCDkk~HDtnzghWKBkYu32Q-HCu16~~lmJgbJfzfA2KCJAN9PiNm1pjmLeQdx0xn9sp5Ny9rd0Qd1F4EHxYXxfoQSgv-xzw__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "October 5th",
+  "bloodType": "X",
+  "bounty": "1,374,000,000",
+  "debut": "Chapter 234; Episode 151",
+  "description": "Marco the Phoenix is the former 1st division commander of the Whitebeard Pirates. Once starting out as an apprentice on the crew, he eventually came to be Whitebeard's closest confidant and right-hand man. After his captain's death during the Summit War of Marineford, Marco assumed leadership of the Whitebeard Pirates until the crew's disbandment following the Payback War.",
+  "devilFruitName": "Tori Tori no Mi, Model: Phoenix",
+  "englishName": "Marco",
+  "japaneseName": "マルコ",
+  "origin": "Grand Line",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984101337"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984101337"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3ef1"
+  },
+  "affiliations": "Whitebeard Pirates; Rocks Pirates (former); Four Emperors (former)",
+  "age": "N/A",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Edward_Newgate_Anime.jpg?Expires=1742070503&Signature=EUeRJ0cM5Dx7jyjr44Q3hctprqARqbg80F31o6KSka1mTuwJPGqWoMLa~qYUIC3wSA1VhLx~lk83Rg9dOg1GoeXMkz0uANpU2J88fJZVyOSr8zwNKUcQfoPEp2p1vcdCI9st~q9bvGK6FUzW7W8nD3xhafnbFi1-IPrSMm1ZteXeDHjREUL6vyslWixtfuZkaMTWZtR4Np3AClD1UrxfFH4ldyDZySbZfBfqMWt0kCLXW57DQ9CjyyVVbIspFY4td3xbUUNJxjpkSgOr9ixkqECbApRmZwggKRThhzP5j3aaZlP3aZwLGYyaKD9~zuWODMApA4s3mMur30DmbGW4Lg__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "April 6th",
+  "bloodType": "F",
+  "bounty": "5,046,000,000",
+  "debut": "Chapter 159; Episode 95 (silhouette); Chapter 234; Episode 151 (full)",
+  "description": "Edward Newgate, more commonly known as \"Whitebeard\", was the captain of the Whitebeard Pirates and was widely known as the \"Strongest Man in the World\" and, after Gol D. Roger's death, the \"Man Closest to One Piece\".",
+  "devilFruitName": "Gura Gura no Mi",
+  "englishName": "Edward Newgate (VIZ, Funimation); Ward Newgate (4Kids)",
+  "japaneseName": "エドワード・二ューゲート",
+  "origin": "Grand Line",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984103338"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984103338"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3ef2"
+  },
+  "affiliations": "Big Mom Pirates; Nox Pirates (former)",
+  "age": "27",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Pekoms_Anime.jpg?Expires=1742070503&Signature=RYyPuFmtZCB6Ob1h79DfVlhYT7Wr~vpxRCHi3dvEFLkmd4GGYpw8Dbta80V63xMaiGXbNZzAqydjTTp1joeX-ql6flRAw8HgTA2Re5fPdfXreYa2RlFQ~E7bsTN0SXsCyLl0Tn5JTVEkuHcuY1YHoZ1~XlVO4hr95wkvZjw-bPdxEz3jxXRA-5tWJ11pseV5ERx4nRCMYAu1S8OFOsa~UulIFe0PuPejAyyFIoGOpJXRxhlepD4fDkybK9BF3h6tjg7JHDtmQnfsBLp~-UL4VGScAW4UDujcxXCa6wCF6Yqi047vuIy1NKu3kwfGwj53qb0wbY3furxtX2KnSWJUbQ__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "April 11th",
+  "bloodType": "S",
+  "bounty": "330,000,000",
+  "debut": "Chapter 651; Episode 570",
+  "description": "Pekoms is a combatant of the Big Mom Pirates and a lion mink. He is partnered with Tamago, and both are responsible for collecting the monthly payment of sweets from Fish-Man Island in exchange for Big Mom's protection.",
+  "devilFruitName": "Kame Kame no Mi",
+  "englishName": "Pekoms",
+  "japaneseName": "ペコムズ",
+  "origin": "N/A",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984104002"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984104002"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3ef3"
+  },
+  "affiliations": "Whitebeard Pirates",
+  "age": "40 (debut) 42 (after timeskip)",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Jozu_Anime.jpg?Expires=1742070504&Signature=WudLc3ZVzNwN4KjrdzQpj0TZ5X3LryOqCz1l6EPyqnI-~Yw0QiIQFTFgrPsKm~BVlC-vSmFCBQwHw0xkppMjZEzsiUp1NjTj70HQ7uOd79DtMFzk6h1ko~7G~yFjN4uSTo8nH3f7r9f8xa3ptIXKkXdLok04YKbJZAzzqVuy3ePly1qRLZL78vm8T0nZ8uk5GPfs9UckZBFruvrUgo4uK7pdhsxc4vlO1ge0sEB~tEsUapqBB0eOhYGph-vLFTWOa4-VNezAAONwVTSMlezpOSaeksiwOKM1CIKRCTlbX2wL8x1pd3ra7o7VT3xqTKLINFDBYybcE-txSO0bRu~dEQ__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "November 11th",
+  "bloodType": "X",
+  "bounty": "Unknown",
+  "debut": "Chapter 234; Episode 151",
+  "description": "\"Diamond\" Jozu is the former 3rd division commander of the Whitebeard Pirates, serving as one of the crew's most prominent members.",
+  "devilFruitName": "Kira Kira no Mi",
+  "englishName": "Jozu",
+  "japaneseName": "ジョズ",
+  "origin": "West Blue",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984104664"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984104664"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3ef4"
+  },
+  "affiliations": "Blackbeard Pirates",
+  "age": "N/A",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Stronger_Anime.jpg?Expires=1742070505&Signature=TRnLrQpQyZk8PZPirZIGdeohuN2mHsTCHkMNSH5zi-Qpn3~yFMgJXLsmPYgEv2FPAlGC44YosM2-gZ5oweZ7gJjt5QjkoeOBpJu8PmtoQ-F~WJCKF58WTIFX9DyRH29LXZG732Mlx2T7NcxK8z-ZJAESmXqCy33wavuhS48-ZlKIVk~2Xhu8x7YfwGhT8l5GsI5jjztPgAtw-GH6hG5Xt4dqVweO2d1fgNcPe0yEV~I0k10IdIEzWYNJbJhfKanRzGBj7QgyB-lCEN-IfC9sYLogbC5ZoCCXZq5q-YLg5C99CUpQb~TYFcy25hwBX3i0ErOR5f2NljPdCCq3qSz0og__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "April 16th",
+  "bloodType": "N/A",
+  "bounty": "N/A",
+  "debut": "Chapter 223; Episode 146",
+  "description": "Stronger is the horse that Doc Q rides on. Because Doc Q is seemingly always sick, he rides on Stronger all the time, since the doctor tends to collapse if left unsupported for some time; however, Stronger is just as sick as he is. He is classified as a Type A creature, \"Big Friendly\".",
+  "devilFruitName": "Uma Uma no Mi, Model: Pegasus",
+  "englishName": "Stronger (Funimation, VIZ); Strongheart (Formerly VIZ)",
+  "japaneseName": "ストロンガー",
+  "origin": "N/A",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984105345"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984105345"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3ef5"
+  },
+  "affiliations": "Sakura Kingdom",
+  "age": "33 (debut) 35 (after timeskip)",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Dalton_Anime.jpg?Expires=1742070506&Signature=FMkM9Di6a7ftpFUoaY~8wo~MMfmY2m1jt17qhkzfO2urDGug0qfVUOy7TkBAxCeyd9rK~GQmWdeDBY9BlqsMGTbyqYS0mSBY8~X4g3NnTLgq6Xug6y57uvZxodnrmt8Hy0VB5ZABdqfv1OzQI~~yDOdVYS9O8umoh3Gs95ssE7BR2gmhBUnhoGYd8FTEoeTSHtY1i-DCj-tSHD6wsZC6FRUwZGNzHkBKE30TmuoKdAIOIh0JiMxQAQ-vVK2czZNgbnhQ8e2jObFAUGM95N5gNpAetdZPtS2T71NSecDh7jc-vZVwOjVsIXMi-0p-89iwk1KLGv4kJamX9SbJDJ7cRA__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "June 10th",
+  "bloodType": "X",
+  "bounty": "N/A",
+  "debut": "Chapter 132; Episode 79",
+  "description": "Dalton is the elected king of the Sakura Kingdom (formerly called the Drum Kingdom). He is a former Royal Guard who once served under Wapol.",
+  "devilFruitName": "Ushi Ushi no Mi, Model: Bison",
+  "englishName": "Dalton Dolton (Odex)",
+  "japaneseName": "ドルトン",
+  "origin": "Grand Line (Drum Kingdom)",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984106685"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984106685"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3ef6"
+  },
+  "affiliations": "Heart Pirates",
+  "age": "N/A",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Ikkaku_Anime.jpg?Expires=1742070507&Signature=ilc15DmcQ7TWwqNnkgfrWp71XTg3XylV-zeGDGZNywF8eCo7joT64x~8X1-1D~T3~QWuRhk7I1RLm2MujVxSb~43xQXhf99LdfJVR~zFvyfEHPstgivptcsPkWz8ss2-BVJbuVUusV7G2PEiGvJXMHH6iepgMq~Qm4wO0IFL2VLVlNqBGApqrCH37k7-OBL6U5UbNhogYEshOWLEXU4fBAuQ9AroPji0rt~YQH0U~wSqa212PK0Y0ddjh9uLiaCu9Xxqa61Oy~2uXhxaY4HTsoP~6oaXt4TUHMGqzMHJXmwq4kJ-MigExqju6kGVf0~Ke9mfZJGtb3ie4TFJRf1HWg__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "December 7th",
+  "bloodType": "N/A",
+  "bounty": "N/A",
+  "debut": "Chapter 810; Episode 757",
+  "description": "Ikkaku is the only female member of the Heart Pirates.",
+  "devilFruitName": "N/A",
+  "englishName": "Ikkaku",
+  "japaneseName": "イッカク",
+  "origin": "N/A",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984107364"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984107364"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3ef7"
+  },
+  "affiliations": "Impel Down",
+  "age": "45 (debut) 47 (after timeskip)",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Magellan_Manga_Post_Timeskip.jpg?Expires=1742070508&Signature=bjMc5UdlUOutQV9bdyxqmKneqdcSwXn-FPCGzJydnAzWsI3nB7d5FDEiF-7nKCu6IxZkk-NTQ-~oqz1F6MtuNm8Lxlo~TMZrMRaxOYMRU32RtHbZPg3vvaNYVwVrDF-Jji5qe3KvFxnRBwX2eue1Be1TnrByAWs-CWgGFjrVjKy-YkL~gWbrtA1XNe-V-AwdTZyctG2y3-Vl58cporYZY56IRnrkW9zZylXzcp9u6rG8vyljd~uqVrCdhzNNUHVF~JkojnK5VlHjoMS2B565ztaHw-FUu1RknFhBjKTVm-EqNFUiOtQ6V2l8BWOEmio9H2g2WFpBemVSj6gyhdbJCg__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "October 9th",
+  "bloodType": "X",
+  "bounty": "N/A",
+  "debut": "Chapter 528; Episode 425",
+  "description": "Magellan is the vice warden of Impel Down. He was formerly the chief warden, but after his failure to stop the jail's one and only mass-breakout, he was replaced by Hannyabal and demoted to vice warden.",
+  "devilFruitName": "Doku Doku no Mi",
+  "englishName": "Magellan",
+  "japaneseName": "マゼラン",
+  "origin": "Grand Line",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984108710"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984108710"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3ef8"
+  },
+  "affiliations": "Blackbeard Pirates",
+  "age": "25 (debut) 27 (after timeskip)",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Van_Augur_Anime_Post_Timeskip.jpg?Expires=1742070509&Signature=VIe6D4g-TzUxmm3Zs3S7V-O~ijeXU0nJPX-yUN3G1QrVAQnpV1nMjcST0cBLz4V~I3dQ7qbK~Nv~MzBihdSWWuUjYA95V69lcGAad3biICFx-h9aFlGyKYMkZOm5kTC1vBlZlBGn8Z4IcU7sR17QhOlo7AwkqKQ955GvUQ2nMipP6-DItsAgC~GcVZ3R~Miw3Hp4~8H3oRnjq7oqL9f1-tp0m63a5C2Qm1fiQUNnFD5BR5Fh3pCrkEnCQdvhYZhDUHf65Oo2tuHTFcwruddiVMkUqXgkZjUHF6r1osvdgenTnQEqAsBmngLo45grvfig-AnjZ~tCdRnQYcNH5~Kljw__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "October 5th",
+  "bloodType": "X",
+  "bounty": "At least 64,000,000",
+  "debut": "Chapter 222; Episode 146",
+  "description": "Van Augur, nicknamed \"The Supersonic\", is the sniper of the Blackbeard Pirates, as well as one of the Ten Titanic Captains, as the captain of the Third Ship.",
+  "devilFruitName": "Wapu Wapu no Mi",
+  "englishName": "Van Augur (VIZ) Van Ogre (Formerly VIZ, Edited Funimation) Van Auger (Uncut Funimation)",
+  "japaneseName": "ヴァン･オーガー",
+  "origin": "East Blue",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984109387"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984109387"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3ef9"
+  },
+  "affiliations": "N/A",
+  "age": "55",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Tsurujo_Anime.jpg?Expires=1742070510&Signature=WoE2RosNhpYL3vvbznTpSJhrUl7Y~iqTxr28TngTZF8M9-6yeEBxk~l8yxPS4qtBiYQ9I79ziJ8PYBez04Z1L58phkny4uInmhBE-cMGjtnX1cGByqq1bXTGNjIhj0ZtzGl8LnvdF3H7lX9W1SBXOC3dyUf7flKa~1YUfAPmyV1jw~jgjT~legV0lSABdVT6psFZbcnulKXGO6oZRBviJvhJ8TsPegG5SW5uSMQuEg6ZpGBOUt0dcyVpSRh5v~b2-msrO0b78gO2dPb~Wvg-hh5ElcsO5sgPCOZHVSvebyS8gcxAdpEK5uslAuIOXbtFDeuJ-0Urd4u487ZyT6jlKg__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "September 15th",
+  "bloodType": "F",
+  "bounty": "N/A",
+  "debut": "Chapter 912; Episode 897",
+  "description": "Tsurujo, commonly known as O-Tsuru (お鶴?), is a tea house owner who lives in the Kuri region in Wano Country. She is also the wife of Kin'emon.",
+  "devilFruitName": "N/A",
+  "englishName": "Otsuru",
+  "japaneseName": "鶴女",
+  "origin": "N/A",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984110070"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984110070"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3efa"
+  },
+  "affiliations": "Cross Guild; Buggy's Delivery; Buggy and Alvida Alliance; Baroque Works (formerly)",
+  "age": "35 (debut) 37 (after timeskip)",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Galdino_Anime.jpg?Expires=1742070510&Signature=bhB8xn4F0AsJS2Vehwu4lz~tzvPMquuunDo9BwE6WArc48yr0eS4nu~hRtwpmU6lINHCPPkUHeaC-6DSaRJXml5fJCsuRZhzvQFFM-zkFYk-NOZrjr9~LXcDXhNiI-lNtkSrbCzQGxIlWEyGJFSFuin499JHUJAT2EvNx1-qlS~9v4wpNe-xhAtJC3U0G7fFtiOV7PvVERbRF2qQGJD-eL3vHkCGE4~bYrd6Hg1K8bqTQlIkEOzC5cMiI7tdi9CXIZ2wjfpjHDXCSHU2Rydw7ONXwXi7LXCzYDZBgWRohmet7CiSPLwsPYv8dk0BQlQoKDcOnpSP8tputAwhSQUPFA__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "March 3rd",
+  "bloodType": "F",
+  "bounty": "24,000,000",
+  "debut": "Chapter 117; Episode 70",
+  "description": "\"Loan Shark\" Galdino, alias Mr. 3, is a former officer agent of Baroque Works, alongside his partner Miss Goldenweek.",
+  "devilFruitName": "Doru Doru no Mi",
+  "englishName": "Mr. 3/Galdino",
+  "japaneseName": "ギャルディーノ",
+  "origin": "South Blue",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984110738"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984110739"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3efb"
+  },
+  "affiliations": "Marines (SWORD)",
+  "age": "N/A",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Kujaku_Manga.jpg?Expires=1742070512&Signature=D2CsUmPuNPAGkpZIlZgjTkFZ8yWe026jqCr4EVRFDZFIu9DTSxJPDH~umsxfCINKz-K6zY~rcEcQujNyiOfXq1d4VjSWxf3iMQzCKZHeZbV-4cu8gf89y-aOlV~i-P8s2GaThRtbIuEuIHv7bpdEq4q7CAWzSXCBs0xbquMdHIKnjtowehoySdwqd1hpBZEhrt123PxoeX7QqqjBR~B9IOYjE-~87uGMD1znca1tq73RaugfpJ29~3HAc6MDiKvhaFlW-Mypb~7dfBNA4HCdq4HwJL9eyznJl~gSSorb71siYD5jnxCsda1a70QSXO45dZo3xQzJ8EZtNjMQZf7LHw__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "N/A",
+  "bloodType": "N/A",
+  "bounty": "N/A",
+  "debut": "Chapter 966 (cover); Episode 1090",
+  "description": "Kujaku is a Marine Rear Admiral stationed at Marine Base G-14 and also a member of SWORD. She is the granddaughter of Marine Vice Admiral Tsuru.",
+  "devilFruitName": "Muchi Muchi no Mi",
+  "englishName": "Kujaku",
+  "japaneseName": "孔雀",
+  "origin": "N/A",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984112086"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984112086"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3efc"
+  },
+  "affiliations": "Marines",
+  "age": "N/A",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Aramaki_Anime.jpg?Expires=1742070512&Signature=BOP3szDmVpAlVNcw4noSbplLBAP~zEE9QDwI6HTETj6ubRxCpZFeRFpdlZr7zH4Mmj0xbekmyU4yDG2ajE7oMrkbxUyxKJZtZEFIgavYtxyLcb2-0QA9G3SW5-1l5fWqHliOTBQieH7ZwUSkyA~we8hqOkqeJ7QiOWMY~hirQCsAXN2ViFQLFa8W~YPYJ6LVMd8ZrBJPXyEtS9Fwcnb-MIb~Yo14ZorjHOvwgyJbIfr9F4m57ip1Iea8LZvf8jzg2shkwVfCdebihhxrQeE334cdv4bgmGBjQafwB~JTiT-dECSwuQio-5JcWphe0~Ymeh~TgN1zUY-GcHJJ1-nAZQ__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "N/A",
+  "bloodType": "N/A",
+  "bounty": " (3,000,000,000)",
+  "debut": "Chapter 905; Episode 882",
+  "description": "Aramaki, better known by his alias Ryokugyu, is an Admiral in the Marines. He was appointed to the rank during the two-year timeskip (next to Fujitora) to fill the two Admiral vacancies caused by Kuzan's resignation and Sakazuki's promotion.",
+  "devilFruitName": "Mori Mori no Mi",
+  "englishName": "Aramaki",
+  "japaneseName": "アラマキ",
+  "origin": "N/A",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984112758"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984112758"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3efd"
+  },
+  "affiliations": "Charlotte Family; Big Mom Pirates",
+  "age": "35",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Charlotte_Smoothie_Anime.jpg?Expires=1742070513&Signature=cgYgw~4Vq5tOlJ-kWBKrYuDu661vgq~mN47XyzS7YPfoWFi8KiolZMw4FG9gM74K7LmnjnKeNECj3lDCjQomnKu1cgaat3wu2FH~zx7fVjLtiOR78TPnQAep-37GbqxcwnQLxWgE9BlU9D-2VCVewNBJTjcAcVfNw1NyLyx9dFn7rEMAVUztN8VKMXKD9Mk1nywSRaJ8wRaSMqRvgLI8PZrNvKzJHYQg22SHYsNxok9pFhB8M7c7-PVujMjgoIg7sL3zIZlDXq322DxgS8lZTNfMOH~QQRs3mzQfngFlmovSWPnvtBGqrYJnbt0PveSce-vU1QaA9Ly4Y3KL40P2GA__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "October 12th",
+  "bloodType": "F",
+  "bounty": "932,000,000",
+  "debut": "Chapter 846; Episode 812",
+  "description": "Charlotte Smoothie is the 14th daughter and 35th child of the Charlotte Family, the older triplet sister of Citron and Cinnamon, and a longleg-human hybrid. She serves as one of the Three Sweet Commanders of the Big Mom Pirates and as Totto Land's Minister of Juice (ジュース大臣, Jūsu Daijin?), governing over 100% Island.",
+  "devilFruitName": "Shibo Shibo no Mi",
+  "englishName": "Charlotte Smoothie",
+  "japaneseName": "シャーロット・スムージー",
+  "origin": "Grand Line (Totto Land)",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984113420"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984113420"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3efe"
+  },
+  "affiliations": "CP0, CP9 (former)",
+  "age": "N/A",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Funkfreed_Anime.jpg?Expires=1742070514&Signature=PKlmKY6-FHGE1gNb22v98TuQ7IV8RtSUzhOR213lUyQLpmRoAaDtsC~HnWznXUhx4ukbLmzZr79UbRKRRYrh3JBwEh83eHRHOI3z~NtqpUquSQOnjY~ay6bQbF-8DfN5Fo81P3h4t5L1sRAX3sW~sfY5QU6eFzhdAC9XmlbIDUp8sPLsFYaYK7OLD-4DMEiK6aYxHVEXcQe5QMgRtuPEz~11qAPeEiOg4LEslvXKkpTpuoNZSBnF-IlBwiEzVOH4R-yYozLukhj3qXVM-C3586oK61l6utY~UqVRl4pJIxSFRklHVWQjW0X7rq~QOuA6vlwsEQNif1loPCGFQwnADQ__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "April 28th (Elephant Day)",
+  "bloodType": "N/A",
+  "bounty": "N/A",
+  "debut": "Chapter 365; Episode 254",
+  "description": "Funkfreed is Spandam's sword, a unique weapon that \"ate\" the Zou Zou no Mi and became an Elephant Sword (象剣, Zōken?). As such, he also serves as a pet and unofficial bodyguard for Spandam, compensating his master's physical slightness.",
+  "devilFruitName": "Zou Zou no Mi",
+  "englishName": "Funkfreed (FUNimation, Viz manga); Funk Freed (Unlimited Adventure)",
+  "japaneseName": "ファンクフリード",
+  "origin": "N/A",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984114101"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984114101"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d491735cd8e84ecf3a3eff"
+  },
+  "affiliations": "Beasts Pirates",
+  "age": "28",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Jack_Anime.jpg?Expires=1742070514&Signature=KDpsPp3cJbD6dharrguPbqFVzTa~Xb~3SsZuNgXi48kehxEo4QDCFBj4DCHSKSm6D-c4D5DZPoFpFCSVi~VmNLiHSgI4heLskQHSEEBqicTNgoVCnY4Ay~544pr-SGMqQScVHfPTxDyxw-i5dgYmG75YdkJpj3aW3HXYclcKKUJg6VCEIPztUlKoFja5Dw1u95ncjlf6CZ0c3AB1hh2kfga0QrMH5uWu0FixpQo78X9Ma54iyq7EHVobiJv8-CZF1LKPV-fpwL53icr3T0rcECaNPtdiyw5QRWeT91g5m6WRp0vja0TlrFvJoFPF4JZ5mVAuczAoXegpceKUYM5zaQ__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "September 28th",
+  "bloodType": "F",
+  "bounty": "1,000,000,000",
+  "debut": "Chapter 801; Episode 746",
+  "description": "Jack the Drought is an All-Star of the Beasts Pirates as one of Kaidou's three closest confidants, and the captain of the Mammoth. He was formerly considered to be the ruler of the region of Kuri in Wano Country. He is also a giant grouper fish-man.",
+  "devilFruitName": "Zou Zou no Mi, Model: Mammoth",
+  "englishName": "Jack",
+  "japaneseName": "ジャック",
+  "origin": "Grand Line",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1741984114807"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1741984114807"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "67d52552b4a7a5dd9609a476"
+  },
+  "affiliations": "Whitebeard Pirates; Spade Pirates (former); Dadan Family (former); Impel Down (former)",
+  "age": "N/A",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Portgas_D._Ace_Anime.jpg?Expires=1742108370&Signature=QtCBJk9y0akWK5m3TcM1-fefy36aPJnKuAZB6OCChIVAFKLDgSwZgNNfAiGEtLN4uwZT8X7alq0l5VppbV1qynAbNv8RUJ7meSZxJCQg2UyF1aziHRIGwwTUMPxnoPEqTLJYH994~2j0Z8Qt3c9iroUSJIKHjOc9GOxzQyiLNTLtzly4sk1pe4IFqkEeOleaBTFQaf7-KkJVHft9ganG~SxYsFP0DHsoD97a3W~1-qWBb3-8B1cf6wOwf4tRyxyHV2EaLiBa~n3Q0wWVsqoHJrWm~YqW7uDuK5jdFCP9xD3IttxbqxsM8y48t-x99NtVBeBbCpzXPZwg4MPuh7pAqA__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "January 1st",
+  "bloodType": "S",
+  "bounty": "550,000,000",
+  "debut": "Chapter 154; Episode 91",
+  "description": "Portgas D. Ace, born as Gol D. Ace and nicknamed \"Fire Fist\" Ace, was the biological son of the late Pirate King, Gol D. Roger, and Portgas D. Rouge, as well as the sworn older brother of Luffy and Sabo. Ace was adopted by Monkey D. Garp, as had been requested by Roger before his execution. Ace was captain of the Spade Pirates before being recruited into the Whitebeard Pirates and becoming its 2nd division commander. He ate the Mera Mera no Mi, giving him the power to transform into and manipulate flames.",
+  "devilFruitName": "Mera Mera no Mi",
+  "englishName": "Portgas D. Ace (uncut dub); Portgaz D. Ace (VIZ, Funimation subs); Portgaz D. Trace (edited dub)",
+  "japaneseName": "ポートガス・Dディー・エース",
+  "origin": "South Blue (Baterilla)"
+},{
+  "_id": {
+    "$oid": "67d5295b42bccdd2ec1509b0"
+  },
+  "affiliations": "Donquixote Pirates; Impel Down; Underworld; World Government (secret); Seven Warlords of the Sea (former); Dressrosa (former)",
+  "age": "39 (debut) 41 (after timeskip)",
+  "avatarSrc": "https://dok1t7q1m768g.cloudfront.net/Donquixote_Doflamingo_Anime.jpg?Expires=1742109403&Signature=KTSEUgtMtx66gwEre7N4gawzP9cMr0c01kqqe61qKGBDRmxMRGL2eV-9~NBI5JjBQzvk-O0M5d6LpZOxe03X40AcsW5GWwzatG-sliPa3ZGEpMwBOqx0nNAKLXNU3tFBmahAe0DRSGkqHtnwqf-Z2aluCzCgX9bbOwB0zbwQ1Xme-26CNfY1jmGhk4gni~yXqL0NEFAj4BU19G9rzaqQoOkJdXHxcCSZud77lJJq7aze7sACLjBiGsM0xQhh6lORWJb6gcevgvAeKQYuUTC8tnAKsVp3hRxizBmUxdaKJxfCw-UAVNKzsel6D3ynMgoCRJXvkbApjHlFxBLUp9P0Iw__&Key-Pair-Id=K2RCJ8R40JMUEM",
+  "birthday": "October 23rd",
+  "bloodType": "X",
+  "bounty": "340,000,000",
+  "debut": "Chapter 233; Episode 151",
+  "description": "Donquixote Doflamingo, nicknamed \"Heavenly Yaksha\", is the captain of the Donquixote Pirates. Prior to his imprisonment, he was a member of the Seven Warlords of the Sea with a frozen bounty of 340,000,000, as well as the most influential underworld broker under the codename \"Joker\". He is also a former World Noble, descended from the Donquixote Family.",
+  "devilFruitName": "Ito Ito no Mi",
+  "englishName": "Don Quixote Doflamingo (VIZ); Donquixote Doflamingo (Funimation subs)",
+  "japaneseName": "ドンキホーテ・ドフラミンゴ",
+  "origin": "Red Line (Mary Geoise)"
+}]

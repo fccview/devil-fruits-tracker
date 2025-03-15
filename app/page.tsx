@@ -14,100 +14,36 @@ export default function Home() {
   const [fruits, setFruits] = useState<DevilFruit[]>([])
   const [isLoading, setIsLoading] = useState<boolean>(false)
   const [searchTerm, setSearchTerm] = useState<string>('')
-  // Cache structure: { chapter: { number: fruits[] }, episode: { number: fruits[] } }
-  const [cache, setCache] = useState<{
-    chapter: { [key: string]: DevilFruit[] },
-    episode: { [key: string]: DevilFruit[] }
-  }>({ chapter: {}, episode: {} })
   const [selectedFruitTypes, setSelectedFruitTypes] = useState<string[]>([])
 
-  const handleFetch = useCallback(async (value) => {
+  const handleFetch = useCallback(async (value: string) => {
     if (!value) {
       setFruits([])
       return
     }
 
-    // Check cache first
-    const cachedNumbers = Object.keys(cache[type])
-      .map(Number)
-      .sort((a, b) => b - a) // Sort in descending order
-
-    // Find the highest cached number that's lower than or equal to the requested number
-    const nearestCachedNumber = cachedNumbers.find(n => n <= value)
-
-    if (nearestCachedNumber) {
-      const cachedFruits = cache[type][nearestCachedNumber]
-
-      if (nearestCachedNumber === Number(value)) {
-        // Exact cache hit
-        setFruits(cachedFruits)
-        return
-      } else {
-        // Partial cache hit - only fetch fruits between cached number and requested number
-        setIsLoading(true)
-        try {
-          const newFruits = await fetchDevilFruits(Number(value), type)
-          // Merge with cached fruits, remove duplicates
-          const mergedFruits = [...cachedFruits, ...newFruits]
-          const uniqueFruits = Array.from(new Map(mergedFruits.map(fruit =>
-            [fruit.englishName, fruit]
-          )).values())
-
-          // Update cache and state
-          setCache(prev => ({
-            ...prev,
-            [type]: {
-              ...prev[type],
-              [value]: uniqueFruits
-            }
-          }))
-          setFruits(uniqueFruits)
-        } catch (error) {
-          console.error('Error fetching fruits:', error)
-        } finally {
-          setIsLoading(false)
-        }
-        return
-      }
-    }
-
-    // No cache hit - fetch all data
     setIsLoading(true)
     try {
       const data = await fetchDevilFruits(Number(value), type)
-      // Update cache and state
-      setCache(prev => ({
-        ...prev,
-        [type]: {
-          ...prev[type],
-          [value]: data
-        }
-      }))
       setFruits(data)
     } catch (error) {
       console.error('Error fetching fruits:', error)
     } finally {
       setIsLoading(false)
     }
-  }, [type, cache])
-
-  // Clear cache when changing type
-  useEffect(() => {
-    setCache(prev => ({ ...prev, [type]: {} }))
   }, [type])
 
-  // Debounced search effect
+
   useEffect(() => {
     const timeoutId = setTimeout(() => {
       handleFetch(number)
-    }, 500)
+    }, 1000)
 
     return () => clearTimeout(timeoutId)
   }, [number, handleFetch])
 
-  const filterFruits = useCallback((fruits) => {
-    return fruits.filter(fruit => {
-      // Text search with spoiler-safe values
+  const filterFruits = useCallback((fruits: DevilFruit[]) => {
+    return fruits.filter((fruit: DevilFruit) => {
       const searchString = `${getSpoilerSafeValue(fruit, 'englishName', number, type)
         } ${getSpoilerSafeValue(fruit, 'type', number, type)
         } ${getSpoilerSafeValue(fruit, 'usageDebut', number, type)
@@ -134,7 +70,6 @@ export default function Home() {
 
   return (
     <main className="min-h-screen bg-[#1a1a2e]">
-      {/* Hero Background */}
       <div className="fixed inset-0 bg-[url('/one-piece-bg.png')] bg-cover bg-fixed bg-center opacity-20" />
 
       <div className="relative">
@@ -189,7 +124,6 @@ export default function Home() {
         </div>
       </div>
 
-      {/* Add the Buy Me a Coffee button */}
       <BuyMeACoffee />
     </main>
   )
