@@ -33,10 +33,10 @@ export default function ArcSelector({
     query === ""
       ? allArcs
       : allArcs.filter(
-          (arc) =>
-            arc.displayName.toLowerCase().includes(query.toLowerCase()) ||
-            arc.parentArc?.saga.toLowerCase().includes(query.toLowerCase())
-        );
+        (arc) =>
+          arc.displayName.toLowerCase().includes(query.toLowerCase()) ||
+          arc.parentArc?.saga.toLowerCase().includes(query.toLowerCase())
+      );
 
   const handleArcSelect = (
     selectedItem: (Arc & { parentArc?: Arc | null; displayName: string }) | null
@@ -68,7 +68,7 @@ export default function ArcSelector({
               onChange={(event) => setQuery(event.target.value)}
               placeholder="Search or select an arc"
             />
-            <Combobox.Button className="absolute inset-y-0 right-0 flex items-center pr-2">
+            <Combobox.Button className="absolute inset-y-0 right-0 flex items-center pr-2 z-30">
               <ChevronUpDownIcon
                 className="h-5 w-5 text-gray-400"
                 aria-hidden="true"
@@ -82,7 +82,7 @@ export default function ArcSelector({
             leaveTo="opacity-0"
             afterLeave={() => setQuery("")}
           >
-            <Combobox.Options className="absolute mt-1 max-h-60 w-full overflow-auto rounded-lg bg-gray-900/95 border border-white/10 py-1 shadow-lg ring-1 ring-black ring-opacity-5 focus:outline-none">
+            <Combobox.Options className="absolute mt-1 max-h-60 w-full overflow-auto rounded-lg bg-gray-900/95 border border-white/10 py-1 shadow-lg ring-1 ring-black ring-opacity-5 focus:outline-none" style={{ zIndex: 9999 }}>
               {filteredArcs.length === 0 && query !== "" ? (
                 <div className="relative cursor-default select-none px-4 py-2 text-gray-400">
                   Nothing found.
@@ -96,8 +96,7 @@ export default function ArcSelector({
                         : arc.name
                     }
                     className={({ active }) =>
-                      `relative cursor-default select-none py-2 pl-4 pr-4 ${
-                        active ? "bg-red-500/20 text-red-200" : "text-gray-300"
+                      `relative cursor-default select-none py-2 pl-4 pr-4 ${active ? "bg-red-500/20 text-red-200" : "text-gray-300"
                       } ${arc.parentArc ? "pl-8" : ""}`
                     }
                     value={arc}
@@ -105,9 +104,8 @@ export default function ArcSelector({
                     {({ selected }) => (
                       <>
                         <span
-                          className={`block truncate ${
-                            selected ? "font-semibold text-red-400" : ""
-                          }`}
+                          className={`block truncate ${selected ? "font-semibold text-red-400" : ""
+                            }`}
                         >
                           {arc.parentArc && "↳ "}
                           {arc.displayName}

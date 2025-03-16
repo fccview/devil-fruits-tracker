@@ -23,7 +23,7 @@ export default function SearchFilters({
   return (
     <div
       className="max-w-2xl mx-auto mb-16 bg-white/5 backdrop-blur-lg p-8 rounded-2xl 
-                    border border-white/10 shadow-2xl"
+                    border border-white/10 shadow-2xl relative z-50"
     >
       <div className="flex flex-col gap-4">
         <TypeSelector type={type} setType={setType} number={number} />

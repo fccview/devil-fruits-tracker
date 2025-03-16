@@ -34,10 +34,16 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      >
-        {children}
+      <body className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
+        <div className="min-h-screen bg-[#1a1a2e] relative">
+          {/* Background Elements */}
+          <div className="fixed inset-0 bg-gradient-to-b from-red-500/5 to-transparent pointer-events-none" />
+          <div
+            className="fixed inset-0 bg-[url('/one-piece-bg.png')] bg-cover bg-center opacity-10 pointer-events-none"
+            style={{ maskImage: 'linear-gradient(to bottom, black, transparent)' }}
+          />
+          {children}
+        </div>
       </body>
     </html>
   );

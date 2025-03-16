@@ -17,7 +17,7 @@ if (!global.serverCache) {
 
 const LATEST_CHAPTER = process.env.LATEST_CHAPTER
   ? Number(process.env.LATEST_CHAPTER)
-  : 1000;
+  : 1142;
 
 export async function fetchDevilFruits(
   number: number,
@@ -206,4 +206,8 @@ async function fetchFromAPI(number: number) {
 
 export const returnLatestChapter = async (): Promise<string | undefined> => {
   return process.env.LATEST_CHAPTER;
+};
+
+export const returnLatestEpisode = async (): Promise<string | undefined> => {
+  return process.env.LATEST_EPISODE;
 };

@@ -359,7 +359,18 @@
   "japaneseName": "トシトシの実",
   "previousOwner": "N/A",
   "type": "Paramecia",
-  "usageDebut": "Chapter 499; Episode 393"
+  "usageDebut": "Chapter 499; Episode 393",
+  "spoilers": [
+    {
+      "threshold": {
+        "chapter": 1098,
+        "episode": 1093
+      },
+      "previousValues": {
+        "description": "The Toshi Toshi no Mi is a Paramecia-type Devil Fruit that allows the user to manipulate the ages of people, making them an Age Manipulation Human."
+      }
+    }
+  ]
 },{
   "_id": {
     "$oid": "67d491725cd8e84ecf3a3e5d"
@@ -891,7 +902,19 @@
   "japaneseName": "オペオペの実",
   "previousOwner": "Unknown",
   "type": "Paramecia",
-  "usageDebut": "Chapter 504; Episode 398"
+  "usageDebut": "Chapter 504; Episode 398",
+  "spoilers": [
+    {
+      "threshold": {
+        "chapter": 763,
+        "episode": 702
+      },
+      "previousValues": {
+        "currentOwner": "Trafalgar Law",
+        "description": "The Ope Ope no Mi is a Paramecia-type Devil Fruit whose ability is to create a spherical domain in which the user can freely rearrange, take apart (without harm), and generally remodel the structure/anatomy of anything and anyone."
+      }
+    }
+  ]
 },{
   "_id": {
     "$oid": "67d491725cd8e84ecf3a3e5e"
@@ -1213,13 +1236,36 @@
     "$oid": "67d491725cd8e84ecf3a3e26"
   },
   "avatarSrc": "/images/fruits/Mero_Mero_no_Mi.jpg",
-  "currentOwner": "Boa Hancock S-Snake (Artificial)",
+  "currentOwner": "Boa Hancock",
   "description": "The Mero Mero no Mi is a Paramecia-type Devil Fruit that allows a range of attacks which use emotions of love, lust or adoration to transform opponents into stone. It was eaten by the former Warlord Boa Hancock, who was force-fed it by a World Noble.",
   "englishName": "Love-Love Fruit",
   "japaneseName": "メロメロの実",
   "previousOwner": "N/A",
   "type": "Paramecia",
-  "usageDebut": "Chapter 516; Episode 410"
+  "usageDebut": "Chapter 516; Episode 410",
+  "seraphim": "S-Snake",
+  "spoilers": [
+    {
+      "threshold": {
+        "chapter": 517,
+        "episode": 415
+      },
+      "previousValues": {
+        "description": "The Mero Mero no Mi is a Paramecia-type Devil Fruit that allows a range of attacks which use emotions of love, lust or adoration to transform opponents into stone.",
+        "seraphim": "Unknown"
+      }
+    },
+    {
+      "threshold": {
+        "chapter": 1059,
+        "episode": 1087
+      },
+      "previousValues": {
+        "description": "The Mero Mero no Mi is a Paramecia-type Devil Fruit that allows a range of attacks which use emotions of love, lust or adoration to transform opponents into stone. It was eaten by the former Warlord Boa Hancock, who was force-fed it by a World Noble.",
+        "seraphim": "Unknown"
+      }
+    }
+  ]
 },{
   "_id": {
     "$oid": "67d491725cd8e84ecf3a3e28"

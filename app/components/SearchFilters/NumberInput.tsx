@@ -1,4 +1,4 @@
-import { returnLatestChapter } from "@/app/actions/databaseActions/fetchFruit";
+import { returnLatestChapter, returnLatestEpisode } from "@/app/actions/databaseActions/fetchFruit";
 import { ViewType } from "@/app/types";
 import { useEffect, useState } from "react";
 import { Arc, arcs } from "@/app/data/arcs";
@@ -21,14 +21,20 @@ export default function NumberInput({
   setSelectedArc,
 }: NumberInputProps) {
   const [LATEST_CHAPTER, setLATEST_CHAPTER] = useState<number>(0);
-
+  const [LATEST_EPISODE, setLATEST_EPISODE] = useState<number>(0);
   useEffect(() => {
     const fetchLatestChapter = async () => {
       const latestChapter = await returnLatestChapter();
       setLATEST_CHAPTER(Number(latestChapter));
     };
 
+    const fetchLatestEpisode = async () => {
+      const latestEpisode = await returnLatestEpisode();
+      setLATEST_EPISODE(Number(latestEpisode));
+    };
+
     fetchLatestChapter();
+    fetchLatestEpisode();
   }, []);
 
   const findMatchingArc = (value: number) => {
@@ -45,9 +51,9 @@ export default function NumberInput({
         value <= arcEnd &&
         (arc === arcs[0] ||
           value >
-            (type === "chapter"
-              ? arcs[arcs.indexOf(arc) - 1].endChapter
-              : arcs[arcs.indexOf(arc) - 1].endEpisode))
+          (type === "chapter"
+            ? arcs[arcs.indexOf(arc) - 1].endChapter
+            : arcs[arcs.indexOf(arc) - 1].endEpisode))
       );
     });
   };
@@ -73,6 +79,10 @@ export default function NumberInput({
     // Enforce max chapter limit
     if (type === "chapter" && value > LATEST_CHAPTER) {
       value = LATEST_CHAPTER;
+    }
+
+    if (type === "episode" && value > LATEST_EPISODE) {
+      value = LATEST_EPISODE;
     }
 
     setNumber(value.toString());
@@ -110,6 +120,12 @@ export default function NumberInput({
         <div className="mt-1 text-xs tracking-wider uppercase">
           <span className="text-gray-500">Latest </span>
           <span className="text-red-400 font-medium">{LATEST_CHAPTER}</span>
+        </div>
+      )}
+      {type === "episode" && (
+        <div className="mt-1 text-xs tracking-wider uppercase">
+          <span className="text-gray-500">Latest </span>
+          <span className="text-red-400 font-medium">{LATEST_EPISODE}</span>
         </div>
       )}
     </div>

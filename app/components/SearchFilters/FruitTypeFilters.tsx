@@ -21,23 +21,47 @@ export default function FruitTypeFilters({
   }
 
   return (
-    <>
-      <div className="text-gray-300 text-sm">Filter by:</div>
-      <div className="flex flex-wrap gap-3">
+    <div className="flex flex-col items-center gap-4">
+      <div className="flex flex-wrap justify-center gap-2">
         {fruitTypes.map((fruitType) => (
-          <button
+          <label
             key={fruitType}
-            onClick={() => toggleType(fruitType)}
-            className={`px-4 py-2 rounded-lg font-medium transition-all duration-300
-                    ${selectedTypes.includes(fruitType)
-                ? 'bg-red-500 text-white shadow-lg shadow-red-500/30'
-                : 'bg-white/5 text-gray-300 hover:bg-white/10'
-              }`}
+            className={`
+              relative inline-flex items-center gap-2 px-3 py-1.5 
+              rounded-full cursor-pointer select-none
+              transition-all duration-300 
+              ${selectedTypes.includes(fruitType)
+                ? 'bg-red-500/20 text-red-400'
+                : 'bg-red-500/5 text-red-400/70 hover:bg-red-500/10 hover:text-red-400/90'
+              }
+            `}
           >
+            <input
+              type="checkbox"
+              className="hidden"
+              checked={selectedTypes.includes(fruitType)}
+              onChange={() => toggleType(fruitType)}
+            />
+            <div className={`
+              w-2 h-2 rounded-full transition-all duration-300 bg-red-400
+              ${selectedTypes.includes(fruitType)
+                ? 'opacity-100'
+                : 'opacity-40'
+              }
+            `} />
             {fruitType}
-          </button>
+          </label>
         ))}
+
+        {selectedTypes.length > 0 && (
+          <button
+            onClick={() => setSelectedTypes([])}
+            className="text-xs text-gray-400 hover:text-gray-300 transition-colors duration-300 opacity-60 hover:opacity-100 underline"
+          >
+            clear all
+          </button>
+        )}
       </div>
-    </>
+    </div>
   )
 } 

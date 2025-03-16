@@ -8,6 +8,7 @@ import { fetchDevilFruits } from "./actions/databaseActions/fetchFruit";
 import { DevilFruit, ViewType } from "./types";
 import { getSpoilerSafeValue } from "./utils/globalFunctions";
 import { Arc } from "./data/arcs";
+import Header from "./components/Header";
 
 export default function Home() {
   const [number, setNumber] = useState<string>("");
@@ -17,6 +18,7 @@ export default function Home() {
   const [searchTerm, setSearchTerm] = useState<string>("");
   const [selectedFruitTypes, setSelectedFruitTypes] = useState<string[]>([]);
   const [selectedArc, setSelectedArc] = useState<Arc | null>(null);
+  const [hasSearched, setHasSearched] = useState(false);
 
   const handleFetch = useCallback(
     async (value: string) => {
@@ -45,6 +47,10 @@ export default function Home() {
 
     return () => clearTimeout(timeoutId);
   }, [number, handleFetch]);
+
+  useEffect(() => {
+    setHasSearched(!!number);
+  }, [number]);
 
   const filterFruits = useCallback(
     (fruits: DevilFruit[]) => {
@@ -113,35 +119,14 @@ export default function Home() {
   const filteredFruits = filterFruits(fruits);
 
   return (
-    <main className="min-h-screen bg-[#1a1a2e]">
-      <div className="fixed inset-0 bg-[url('/one-piece-bg.png')] bg-cover bg-fixed bg-center opacity-20" />
+    <main className="min-h-screen pt-16">
+      <Header />
 
-      <div className="relative">
-        <div className="container mx-auto px-4 py-12">
-          <div className="text-center mb-16">
-            <h1
-              className="text-7xl font-bold bg-gradient-to-r from-red-500 via-yellow-400 to-red-500 
-                         bg-clip-text text-transparent drop-shadow-lg mb-6 
-                         font-pirate tracking-wider animate-float"
-            >
-              Devil Fruits
-            </h1>
-            <p className="text-xl text-gray-300 max-w-2xl mx-auto">
-              Devil fruit listed by chapter/episode. <br />
-              <span className="text-xs">
-                Background artwork by{" "}
-                <a
-                  href="https://zzyzzyy.deviantart.com/"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="text-blue-500 hover:text-blue-600"
-                >
-                  zzyzzyy
-                </a>
-              </span>
-            </p>
-          </div>
-
+      <div className={`
+        relative transition-all duration-700
+        ${hasSearched ? 'pt-8' : 'pt-[25vh]'}
+      `}>
+        <div className="w-full max-w-2xl px-4 mx-auto">
           <SearchFilters
             type={type}
             setType={setType}
@@ -156,26 +141,31 @@ export default function Home() {
             selectedArc={selectedArc}
             setSelectedArc={setSelectedArc}
           />
+        </div>
+      </div>
 
-          <div className="container mx-auto lg:px-4">
-            {isLoading ? (
-              <LoadingSpinner />
-            ) : filteredFruits.length > 0 ? (
-              <DevilFruitList
-                fruits={filteredFruits}
-                number={number}
-                type={type}
-              />
-            ) : fruits.length > 0 ? (
-              <p className="text-center text-gray-400 text-xl">
-                No devil fruits found matching your search
-              </p>
-            ) : number ? (
-              <p className="text-center text-gray-400 text-xl">
-                No devil fruits found for this {type} number.
-              </p>
-            ) : null}
-          </div>
+      <div className={`
+        transition-all duration-700 
+        ${hasSearched ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-12'}
+      `}>
+        <div className="container mx-auto px-4 py-8">
+          {isLoading ? (
+            <LoadingSpinner />
+          ) : filteredFruits.length > 0 ? (
+            <DevilFruitList
+              fruits={filteredFruits}
+              number={number}
+              type={type}
+            />
+          ) : fruits.length > 0 ? (
+            <p className="text-center text-gray-400 text-xl">
+              No devil fruits found matching your search
+            </p>
+          ) : number ? (
+            <p className="text-center text-gray-400 text-xl">
+              No devil fruits found for this {type} number.
+            </p>
+          ) : null}
         </div>
       </div>
 
