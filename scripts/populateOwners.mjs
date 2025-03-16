@@ -20,7 +20,7 @@ async function populateOwners() {
         console.log('Connected to MongoDB');
 
         const db = client.db('devil-fruits');
-        const collection = db.collection('owners-test');
+        const collection = db.collection('owners');
         const dataPath = path.join(__dirname, 'data', 'owners.json');
         const ownersData = JSON.parse(fs.readFileSync(dataPath, 'utf8'));
 

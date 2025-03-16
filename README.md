@@ -72,10 +72,11 @@ cp .env.example .env.local
 MONGODB_URI=your_mongodb_uri_here
 ```
 
-5. Populate the database:
+5. Populate the database and download latest images:
 ```bash
 yarn populate:fruits
 yarn populate:owners
+yarn download:images
 ```
 
 6. Run the development server:
