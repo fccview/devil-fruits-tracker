@@ -8,7 +8,8 @@
     "start": "next start",
     "lint": "next lint",
     "populate:fruits": "ts-node scripts/populateFruits.mjs",
-    "populate:owners": "ts-node scripts/populateOwners.mjs"
+    "populate:owners": "ts-node scripts/populateOwners.mjs",
+    "download:images": "ts-node scripts/downloadImages.mjs"
   },
   "dependencies": {
     "mongodb": "^6.14.2",

@@ -9,7 +9,7 @@
 
 ## Support the Project
 
-This project is open source and completely free to use. If you find it helpful, please consider supporting its development:
+This project is open source and completely free to use. If you find it helpful, please consider supportin  its development:
 
 <div align="center">
   <a href="https://www.buymeacoffee.com/fccview">
