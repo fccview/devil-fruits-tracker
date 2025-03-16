@@ -62,24 +62,21 @@ cd devil-fruits-tracker
 yarn install
 ```
 
-3. Set up your environment variables:
-```bash
-cp .env.example .env.local
+3. Add your MongoDB URI to `.env.local`:
+```
+MONGODB_URI=<your_mongodb_uri_here>
+LATEST_CHAPTER=<latest_chapter_number>
+LATEST_EPISODE=<latest_episode_number>
 ```
 
-4. Add your MongoDB URI to `.env.local`:
-```
-MONGODB_URI=your_mongodb_uri_here
-```
-
-5. Populate the database and download latest images:
+4. Populate the database and download latest images:
 ```bash
 yarn populate:fruits
 yarn populate:owners
 yarn download:images
 ```
 
-6. Run the development server:
+5. Run the development server:
 ```bash
 yarn dev
 ```

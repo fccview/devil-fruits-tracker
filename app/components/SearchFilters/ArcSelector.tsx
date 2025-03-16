@@ -19,7 +19,6 @@ export default function ArcSelector({
 }: ArcSelectorProps) {
   const [query, setQuery] = useState("");
 
-  // Flatten arcs and subarcs into a single array for searching
   const allArcs = arcs.flatMap((arc) => [
     { ...arc, displayName: arc.name, parentArc: null },
     ...(arc.subArcs?.map((subArc) => ({
@@ -29,10 +28,14 @@ export default function ArcSelector({
     })) || []),
   ]);
 
+  const availableArcs = type === "episode"
+    ? allArcs.filter(arc => arc.endEpisode !== null)
+    : allArcs;
+
   const filteredArcs =
     query === ""
-      ? allArcs
-      : allArcs.filter(
+      ? availableArcs
+      : availableArcs.filter(
         (arc) =>
           arc.displayName.toLowerCase().includes(query.toLowerCase()) ||
           arc.parentArc?.saga.toLowerCase().includes(query.toLowerCase())

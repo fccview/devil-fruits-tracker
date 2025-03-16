@@ -132,8 +132,8 @@ export const arcs: Arc[] = [
         endChapter: 1125,
         endEpisode: 1200,
         subArcs: [
-            { name: 'Egghead', endChapter: 1125, endEpisode: 1200 },
-            { name: 'Elbaf', endChapter: 1142, endEpisode: 1200 },
+            { name: 'Egghead', endChapter: 1125, endEpisode: 1122 },
+            { name: 'Elbaf', endChapter: 1142, endEpisode: null },
         ]
     },
 ]; 
