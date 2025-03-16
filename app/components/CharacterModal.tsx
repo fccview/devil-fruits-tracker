@@ -1,5 +1,6 @@
 'use client'
 import { useEffect, useState } from 'react'
+import { createPortal } from 'react-dom'
 import { fetchCharacter } from '../actions/databaseActions/fetchCharacter'
 import { Character } from '../types'
 
@@ -19,6 +20,23 @@ export default function CharacterModal({
   const [character, setCharacter] = useState<Character | null>(null)
   const [loading, setLoading] = useState<boolean>(true)
   const [showAllBounties, setShowAllBounties] = useState<boolean>(false)
+  const [mounted, setMounted] = useState(false)
+
+  useEffect(() => {
+    setMounted(true)
+    return () => setMounted(false)
+  }, [])
+
+  useEffect(() => {
+    if (isOpen) {
+      document.body.style.overflow = 'hidden'
+    } else {
+      document.body.style.overflow = 'unset'
+    }
+    return () => {
+      document.body.style.overflow = 'unset'
+    }
+  }, [isOpen])
 
   useEffect(() => {
     if (isOpen && characterName) {
@@ -35,14 +53,24 @@ export default function CharacterModal({
     }
   };
 
-  if (!isOpen) return null
+  if (!isOpen || !mounted) return null
 
-  return (
+  const modalContent = (
     <div
-      className="fixed inset-0 bg-black/50 backdrop-blur-sm z-50 flex items-start justify-center p-4 overflow-y-auto"
+      className="fixed inset-0 w-screen h-screen bg-black/50 backdrop-blur-sm z-[9999] 
+                 md:flex md:items-center md:justify-center overflow-hidden"
       onClick={handleBackdropClick}
     >
-      <div className="bg-[#1a1a2e] border border-white/10 rounded-2xl w-full max-w-2xl overflow-hidden shadow-2xl my-8">
+      <div
+        className="fixed w-full h-[80vh] bottom-0 md:relative md:h-auto 
+                   md:max-w-2xl md:m-4 bg-[#1a1a2e] border border-white/10 
+                   rounded-t-2xl md:rounded-2xl overflow-hidden shadow-2xl
+                   transition-transform duration-300 ease-out
+                   translate-y-0"
+        style={{
+          transform: isOpen ? 'translateY(0)' : 'translateY(100%)',
+        }}
+      >
         {loading ? (
           <div className="h-96 flex items-center justify-center">
             <div className="animate-spin rounded-full h-12 w-12">
@@ -50,8 +78,7 @@ export default function CharacterModal({
             </div>
           </div>
         ) : character ? (
-          <>
-            {/* Header with both banner and avatar */}
+          <div className="h-full md:h-auto overflow-y-auto">
             <div className="relative">
               <div className="h-48 overflow-hidden">
                 <img
@@ -151,14 +178,14 @@ export default function CharacterModal({
                 <p className="text-gray-300 text-sm leading-relaxed">{character.description}</p>
               </div>
             </div>
-          </>
+          </div>
         ) : (
           <div className="p-6 text-center text-gray-400">
             No character information found
           </div>
         )}
 
-        <div className="p-4 border-t border-white/10 flex justify-end">
+        <div className="sticky bottom-0 p-4 border-t border-white/10 flex justify-end bg-[#1a1a2e]">
           <button
             onClick={onClose}
             className="px-4 py-2 bg-red-500 text-white rounded-lg hover:bg-red-600 transition-colors"
@@ -169,4 +196,6 @@ export default function CharacterModal({
       </div>
     </div>
   )
+
+  return createPortal(modalContent, document.body)
 } 

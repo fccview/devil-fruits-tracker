@@ -82,7 +82,7 @@ export default function ArcSelector({
             leaveTo="opacity-0"
             afterLeave={() => setQuery("")}
           >
-            <Combobox.Options className="absolute mt-1 max-h-60 w-full overflow-auto rounded-lg bg-gray-900/95 border border-white/10 py-1 shadow-lg ring-1 ring-black ring-opacity-5 focus:outline-none" style={{ zIndex: 9999 }}>
+            <Combobox.Options className="absolute mt-1 max-h-60 w-full overflow-auto rounded-lg bg-gray-900/95 border border-white/10 py-1 shadow-lg ring-1 ring-black ring-opacity-5 focus:outline-none z-[50]">
               {filteredArcs.length === 0 && query !== "" ? (
                 <div className="relative cursor-default select-none px-4 py-2 text-gray-400">
                   Nothing found.
