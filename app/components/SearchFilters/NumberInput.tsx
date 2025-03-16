@@ -18,7 +18,7 @@ export default function NumberInput({
   setNumber,
   setSearchTerm,
   isLoading,
-  setSelectedArc
+  setSelectedArc,
 }: NumberInputProps) {
   const [LATEST_CHAPTER, setLATEST_CHAPTER] = useState<number>(0);
 
@@ -32,26 +32,51 @@ export default function NumberInput({
   }, []);
 
   const findMatchingArc = (value: number) => {
-    return arcs.find(arc => {
-      const arcEnd = type === 'chapter' ? arc.endChapter : arc.endEpisode;
+    return arcs.find((arc) => {
+      const arcEnd = type === "chapter" ? arc.endChapter : arc.endEpisode;
       const nextArc = arcs[arcs.indexOf(arc) + 1];
       const nextArcStart = nextArc
-        ? (type === 'chapter' ? nextArc.endChapter : nextArc.endEpisode)
+        ? type === "chapter"
+          ? nextArc.endChapter
+          : nextArc.endEpisode
         : Infinity;
 
-      return value <= arcEnd && (arc === arcs[0] || value > (type === 'chapter'
-        ? arcs[arcs.indexOf(arc) - 1].endChapter
-        : arcs[arcs.indexOf(arc) - 1].endEpisode));
+      return (
+        value <= arcEnd &&
+        (arc === arcs[0] ||
+          value >
+            (type === "chapter"
+              ? arcs[arcs.indexOf(arc) - 1].endChapter
+              : arcs[arcs.indexOf(arc) - 1].endEpisode))
+      );
     });
   };
 
-  const handleChange = (e) => {
-    let value = parseInt(e.target.value, 10);
-    if (type === 'chapter' && value > LATEST_CHAPTER) {
+  const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+    const inputValue = e.target.value;
+
+    // Only allow numbers
+    if (!/^\d*$/.test(inputValue)) {
+      return;
+    }
+
+    // Handle empty input
+    if (inputValue === "") {
+      setNumber("");
+      setSelectedArc(null);
+      setSearchTerm("");
+      return;
+    }
+
+    let value = parseInt(inputValue, 10);
+
+    // Enforce max chapter limit
+    if (type === "chapter" && value > LATEST_CHAPTER) {
       value = LATEST_CHAPTER;
     }
+
     setNumber(value.toString());
-    setSearchTerm(''); // Reset search when changing number
+    setSearchTerm(""); // Reset search when changing number
 
     // Find and set matching arc
     const matchingArc = findMatchingArc(value);
@@ -59,24 +84,34 @@ export default function NumberInput({
   };
 
   return (
-    <div className="flex gap-3">
-      <input
-        type="number"
-        placeholder={`Enter ${type} number...`}
-        className="w-full px-6 py-3 bg-white/5 rounded-xl text-gray-100 
-                 border border-white/10 focus:border-red-500/50 
-                 focus:outline-none focus:ring-2 focus:ring-red-500/20
-                 placeholder-gray-500 transition-all duration-300"
-        value={number}
-        onChange={handleChange}
-        max={type === 'chapter' ? LATEST_CHAPTER : undefined}
-        disabled={isLoading}
-      />
-      {type === 'chapter' && (
-        <div className="text-xs text-gray-400 mt-1">
-          Latest available chapter: {LATEST_CHAPTER}
+    <div className="flex flex-col items-center">
+      <div className="text-sm text-gray-400 mb-1 font-medium tracking-wide">
+        Enter {type === "chapter" ? "chapter" : "episode"} number
+      </div>
+
+      <div className="relative">
+        <input
+          type="text"
+          inputMode="numeric"
+          pattern="\d*"
+          placeholder={`${type === "chapter" ? "Ch." : "Ep."}`}
+          className="w-40 text-6xl font-bold text-center bg-transparent 
+                   text-gray-100 border-b-2 border-white/20
+                   focus:border-red-500 focus:outline-none
+                   transition-all duration-300 hover:border-white/40
+                   py-2 px-1"
+          value={number}
+          onChange={handleChange}
+          disabled={isLoading}
+        />
+      </div>
+
+      {type === "chapter" && (
+        <div className="mt-1 text-xs tracking-wider uppercase">
+          <span className="text-gray-500">Latest </span>
+          <span className="text-red-400 font-medium">{LATEST_CHAPTER}</span>
         </div>
       )}
     </div>
   );
-} 
+}

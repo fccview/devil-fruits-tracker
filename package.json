@@ -12,6 +12,8 @@
     "download:images": "ts-node scripts/downloadImages.mjs"
   },
   "dependencies": {
+    "@headlessui/react": "^2.2.0",
+    "@heroicons/react": "^2.2.0",
     "mongodb": "^6.14.2",
     "next": "15.2.2",
     "react": "^19.0.0",

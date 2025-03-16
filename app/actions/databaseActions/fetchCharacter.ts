@@ -15,19 +15,17 @@ export async function fetchCharacter(name: string): Promise<Character | null> {
     });
 
     if (character) {
-      // Convert MongoDB document to plain object and serialize ObjectId
-      const { _id, ...rest } = character;
-      const serializedCharacter = {
-        ...rest,
-        id: _id.toString(), // Convert ObjectId to string
-      };
-      return serializedCharacter as Character;
+      // Convert MongoDB document to plain object and remove _id
+      const { _id, ...characterData } = character;
+      return characterData as Character;
     }
 
     const apiCharacter = await fetchCharacterFromAPI(name);
     if (apiCharacter) {
-      await collection.insertOne(apiCharacter);
-      return apiCharacter;
+      // Remove any potential _id field before insertion
+      const { _id, ...cleanApiCharacter } = apiCharacter;
+      await collection.insertOne(cleanApiCharacter);
+      return cleanApiCharacter;
     }
 
     return null;
