@@ -122,10 +122,12 @@ export default function Home() {
     <main className="min-h-screen pt-16">
       <Header />
 
-      <div className={`
+      <div
+        className={`
         relative transition-all duration-700
-        ${hasSearched ? 'pt-8' : 'pt-[25vh]'}
-      `}>
+        ${hasSearched ? "pt-8" : "pt-[25vh]"}
+      `}
+      >
         <div className="w-full max-w-2xl px-4 mx-auto">
           <SearchFilters
             type={type}
@@ -144,11 +146,15 @@ export default function Home() {
         </div>
       </div>
 
-      <div className={`
+      <div
+        className={`
         transition-all duration-700 
-        ${hasSearched ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-12'}
-      `}>
-        <div className="container mx-auto px-4 py-8">
+        ${
+          hasSearched ? "opacity-100 translate-y-0" : "opacity-0 translate-y-12"
+        }
+      `}
+      >
+        <div className="container mx-auto px-4 py-2 lg:py-8">
           {isLoading ? (
             <LoadingSpinner />
           ) : filteredFruits.length > 0 ? (

@@ -21,10 +21,7 @@ export default function SearchFilters({
   setSelectedArc,
 }: SearchFiltersProps) {
   return (
-    <div
-      className="max-w-2xl mx-auto mb-16 bg-white/5 backdrop-blur-lg p-8 rounded-2xl 
-                    border border-white/10 shadow-2xl relative z-50"
-    >
+    <div className="max-w-2xl mx-auto mb-8 lg:mb-10 bg-white/5 backdrop-blur-lg p-8 rounded-2xl border border-white/10 shadow-2xl relative z-50">
       <div className="flex flex-col gap-4">
         <TypeSelector type={type} setType={setType} number={number} />
 
@@ -46,7 +43,11 @@ export default function SearchFilters({
 
         {fruits.length > 0 && (
           <>
-            <TextSearch searchTerm={searchTerm} setSearchTerm={setSearchTerm} mediaType={type}/>
+            <TextSearch
+              searchTerm={searchTerm}
+              setSearchTerm={setSearchTerm}
+              mediaType={type}
+            />
 
             <FruitTypeFilters
               selectedTypes={selectedFruitTypes}
