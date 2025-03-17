@@ -1,7 +1,10 @@
-import { TextSearchProps } from '@/app/types'
+import { TextSearchProps } from "@/app/types";
 
-export default function TextSearch({ searchTerm, setSearchTerm, mediaType}: TextSearchProps) {
-  const mediaTypeText = mediaType == "chapter" ? "chapter" : "episode"
+export default function TextSearch({
+  searchTerm,
+  setSearchTerm,
+  mediaType,
+}: TextSearchProps) {
   return (
     <input
       type="text"
@@ -13,5 +16,5 @@ export default function TextSearch({ searchTerm, setSearchTerm, mediaType}: Text
       value={searchTerm}
       onChange={(e) => setSearchTerm(e.target.value)}
     />
-  )
-} 
+  );
+}
