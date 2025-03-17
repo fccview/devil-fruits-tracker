@@ -9,6 +9,7 @@ import { DevilFruit, ViewType } from "./types";
 import { getSpoilerSafeValue } from "./utils/globalFunctions";
 import { Arc } from "./data/arcs";
 import Header from "./components/Header";
+import Footer from "./components/Footer";
 
 export default function Home() {
   const [number, setNumber] = useState<string>("");
@@ -119,7 +120,7 @@ export default function Home() {
   const filteredFruits = filterFruits(fruits);
 
   return (
-    <main className="min-h-screen pt-16">
+    <main className="min-h-screen pt-16 flex flex-col">
       <Header />
 
       <div
@@ -148,7 +149,7 @@ export default function Home() {
 
       <div
         className={`
-        transition-all duration-700 
+        flex-1 transition-all duration-700 
         ${
           hasSearched ? "opacity-100 translate-y-0" : "opacity-0 translate-y-12"
         }
@@ -176,6 +177,7 @@ export default function Home() {
       </div>
 
       <BuyMeACoffee />
+      <Footer />
     </main>
   );
 }
