@@ -609,7 +609,7 @@
   "debut": "Chapter 223; Episode 146",
   "description": "Marshall D. Teach, most commonly referred to by his epithet \"Blackbeard\", is the captain-turned-admiral of the Blackbeard Pirates, and one of the Four Emperors that rule over the New World. He is also the only known person in history to wield the powers of two Devil Fruits, as well as part of a special bloodline, which is only known to a small number of individuals which includes his own crew and the Five Elders.",
   "devilFruitName": "Yami Yami no Mi",
-  "englishName": "Marshall D. Teech (VIZ, Funimation subs, edited dub); Marshall D. Teach (Funimation uncut dub)",
+  "englishName": "Marshall D. Teach",
   "japaneseName": "マーシャル・Dディー・ティーチ",
   "origin": "Grand Line",
   "createdAt": {
@@ -2520,7 +2520,25 @@
       "$numberLong": "1741984086525"
     }
   }
-},{
+},
+{
+  "_id": {
+    "$oid": "67d834ac6c70c7e1d16bd1fb"
+  },
+  "affiliations": "Cross Guild; Baroque Works (former)",
+  "age": "29 (debut) 31 (after timeskip)",
+  "avatarSrc": "/images/characters/Daz_Bonez_Anime.jpg",
+  "birthday": "January 1st",
+  "bloodType": "F",
+  "bounty": "75,000,000",
+  "debut": "Chapter 160; Episode 103",
+  "description": "\"The Killer\" Daz Bonez is a former bounty hunter who joined Baroque Works and was the highest ranked male Officer Agent and the strongest under Crocodile himself. His codename was Mr. 1 and his partner was Miss Doublefinger.",
+  "devilFruitName": "Supa Supa no Mi",
+  "englishName": "Daz Bonez",
+  "japaneseName": "ダズ・ボーネス",
+  "origin": "West Blue"
+},
+{
   "_id": {
     "$oid": "67d491735cd8e84ecf3a3edc"
   },
@@ -3469,10 +3487,26 @@
   "debut": "Chapter 154; Episode 91",
   "description": "Portgas D. Ace, born as Gol D. Ace and nicknamed \"Fire Fist\" Ace, was the biological son of the late Pirate King, Gol D. Roger, and Portgas D. Rouge, as well as the sworn older brother of Luffy and Sabo. Ace was adopted by Monkey D. Garp, as had been requested by Roger before his execution. Ace was captain of the Spade Pirates before being recruited into the Whitebeard Pirates and becoming its 2nd division commander. He ate the Mera Mera no Mi, giving him the power to transform into and manipulate flames.",
   "devilFruitName": "Mera Mera no Mi",
-  "englishName": "Portgas D. Ace (uncut dub); Portgaz D. Ace (VIZ, Funimation subs); Portgaz D. Trace (edited dub)",
+  "englishName": "Portgas D. Ace",
   "japaneseName": "ポートガス・Dディー・エース",
   "origin": "South Blue (Baterilla)"
-},{
+}, {
+  "_id": {
+    "$oid": "67d6d64463abac9f0ff8d4b2"
+  },
+  "affiliations": "Revolutionary Army; Freedom Fighters (former); Seven Warlords of the Sea (former); Sorbet Kingdom (former)",
+  "age": "45 (debut) 47 (after timeskip)",
+  "avatarSrc": "/images/character/Bartholomew_Kuma_Anime.jpg",
+  "birthday": "February 9th",
+  "bloodType": "X",
+  "bounty": "296,000,000",
+  "debut": "Chapter 233; Episode 151",
+  "description": "Bartholomew Kuma is a former Warlord of the Sea, the former king of the Sorbet Kingdom, and an officer and founding member of the Revolutionary Army with a bounty of 296,000,000. As a pirate, Kuma sailed the seas as a single-person pirate crew. He is also the adoptive father of Jewelry Bonney, daughter of his late friend and fellow revolutionary Ginny. Kuma is a member of the near-extinct special race known as the buccaneers, inherited from his late father Clapp.",
+  "devilFruitName": "Nikyu Nikyu no Mi",
+  "englishName": "Bartholomew Kuma",
+  "japaneseName": "バーソロミュー・くま",
+  "origin": "South Blue (Sorbet Kingdom)"
+}, {
   "_id": {
     "$oid": "67d5295b42bccdd2ec1509b0"
   },
@@ -3488,4 +3522,20 @@
   "englishName": "Don Quixote Doflamingo (VIZ); Donquixote Doflamingo (Funimation subs)",
   "japaneseName": "ドンキホーテ・ドフラミンゴ",
   "origin": "Red Line (Mary Geoise)"
+}, {
+  "_id": {
+    "$oid": "67d6d65363abac9f0ff8d4b3"
+  },
+  "affiliations": "Seraphim (Pacifista)",
+  "age": "N/A",
+  "avatarSrc": "/images/characters/S-Bear_Anime.jpg",
+  "birthday": "N/A",
+  "bloodType": "Green Blood",
+  "bounty": "N/A",
+  "debut": "Chapter 1062; Episode 1092",
+  "description": "S-Bear is one of the Seraphim and a clone of Bartholomew Kuma.",
+  "devilFruitName": "Nikyu Nikyu no Mi (Artificial)",
+  "englishName": "S-Bear",
+  "japaneseName": "Sエス-ベア",
+  "origin": "N/A"
 }]
