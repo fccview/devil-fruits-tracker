@@ -1,6 +1,6 @@
-import { DevilFruit } from '../types';
-import { ViewType } from '../types';
-import DevilFruitCard from './DevilFruitCard'
+import { DevilFruit } from "../types";
+import { ViewType } from "../types";
+import DevilFruitCard from "./DevilFruitCard/index";
 
 interface DevilFruitListProps {
   fruits: DevilFruit[];
@@ -11,11 +11,11 @@ interface DevilFruitListProps {
 export default function DevilFruitList({
   fruits,
   number,
-  type
+  type,
 }: DevilFruitListProps) {
   return (
     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-      {fruits.map(fruit => (
+      {fruits.map((fruit) => (
         <DevilFruitCard
           key={fruit.englishName}
           fruit={fruit}
@@ -24,5 +24,5 @@ export default function DevilFruitList({
         />
       ))}
     </div>
-  )
+  );
 }

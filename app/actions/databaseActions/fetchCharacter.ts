@@ -15,8 +15,20 @@ export async function fetchCharacter(name: string): Promise<Character | null> {
     });
 
     if (character) {
-      // Convert MongoDB document to plain object and remove _id
-      const { _id, ...characterData } = character;
+      const characterData = {
+        affiliations: character.affiliations,
+        age: character.age,
+        avatarSrc: character.avatarSrc,
+        birthday: character.birthday,
+        bloodType: character.bloodType,
+        bounty: character.bounty,
+        debut: character.debut,
+        description: character.description,
+        devilFruitName: character.devilFruitName,
+        englishName: character.englishName,
+        japaneseName: character.japaneseName,
+        origin: character.origin,
+      };
       return characterData as Character;
     }
 

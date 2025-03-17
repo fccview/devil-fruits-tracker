@@ -14,7 +14,7 @@ export default function InfoPopup({
   if (!isVisible) return null;
 
   return (
-    <p
+    <div
       className="absolute z-50 bottom-full mb-2 w-64 bg-gray-900/95 backdrop-blur-sm 
                     rounded-lg p-3 shadow-xl border border-white/10 text-sm"
     >
@@ -34,6 +34,6 @@ export default function InfoPopup({
           year: "numeric",
         })}
       </span>
-    </p>
+    </div>
   );
 }
