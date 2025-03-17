@@ -46,7 +46,7 @@ export default function SearchFilters({
 
         {fruits.length > 0 && (
           <>
-            <TextSearch searchTerm={searchTerm} setSearchTerm={setSearchTerm} />
+            <TextSearch searchTerm={searchTerm} setSearchTerm={setSearchTerm} mediaType={type}/>
 
             <FruitTypeFilters
               selectedTypes={selectedFruitTypes}
