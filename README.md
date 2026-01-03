@@ -1,26 +1,16 @@
 # One Piece Devil Fruit Tracker
 
-<div align="center">
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-orange.svg)](https://www.buymeacoffee.com/fccview)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-</div>
-
 ## Support the Project
 
-This project is open source and completely free to use. If you find it helpful, please consider supportin  its development:
+This project is open source and completely free to use. If you find it helpful, please consider supporting its development by contributing to the codebase, curating the data or simply giving a small donation:
 
 <div align="center">
-  <a href="https://www.buymeacoffee.com/fccview">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=yourname&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" />
+ <a href="https://www.buymeacoffee.com/fccview">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy me a coffee" width="120">
   </a>
-  <br /><br />
 </div>
 
-Your support helps maintain and improve this project! 🙏
-
-## 📖 About
+## About
 
 A comprehensive tracker for One Piece Devil Fruits that allows you to:
 - View devil fruits by chapter/episode number
@@ -42,14 +32,7 @@ A comprehensive tracker for One Piece Devil Fruits that allows you to:
 - Node 20+
 - Yarn
 
-## 🛠 Tech Stack
-- Next.js 14 (App Router)
-- TypeScript
-- MongoDB
-- TailwindCSS
-- Vercel (Deployment)
-
-## 💻 Getting Started
+## Getting Started
 
 1. Clone the repository:
 ```bash
@@ -95,7 +78,7 @@ yarn populate:fruits  # Populates devil fruits collection
 yarn populate:owners  # Populates owners collection
 ```
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions! Here's how you can help:
 
@@ -131,30 +114,13 @@ Each fruit entry can have multiple spoiler thresholds:
 
 ### Code Contributions
 
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to your fork
-5. Submit a pull request
-
 Please ensure your PR:
 - Follows the existing code style
-- Includes relevant tests
 - Updates documentation as needed
 - Maintains spoiler protection
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Background artwork by [zzyzzyy](https://zzyzzyy.deviantart.com/)
 - Code by [fccview](https://fccview.dev)
 - All One Piece content and images are property of their respective owners
-
----
-
-<div align="center">
-  Made with ❤️ by <a href="https://fccview.dev">fccview</a>
-</div>
