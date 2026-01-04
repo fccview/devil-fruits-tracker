@@ -22,7 +22,7 @@ export default function InfoPopup({
         {title}
       </h4>
       <span className="text-gray-300 text-xs leading-relaxed block pb-2 border-b border-white/10">
-        {description.length > 200
+        {description?.length > 200
           ? description.slice(0, 200) + "..."
           : description}
       </span>
